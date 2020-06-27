@@ -3,15 +3,86 @@
 " - Avoid using standard Vim directory names like 'plugin'
 call plug#begin('~/.local/share/nvim/plugged')
 
+" layout
+Plug 'mhinz/vim-startify'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 't9md/vim-choosewin'
+
+" autocomplete
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'SirVer/ultisnips' 
 Plug 'honza/vim-snippets'
+
+" editor
+Plug 'Yggdroot/indentLine'
+
+" file system
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
+
+" git
+Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-fugitive'
+
+" colorscheme
+Plug 'flazz/vim-colorschemes'
+
+" languages
+Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'iamcco/mathjax-support-for-mkdp'
 Plug 'iamcco/markdown-preview.vim'
 
 " Initialize plugin system
 call plug#end()
+
+" variable settings
+let g:airline_powerline_fonts = 1
+let g:indentLine_fileTypeExclude = ['json', 'markdown']
+let g:choosewin_overlay_enable = 1
+let g:python_highlight_all = 1
+let g:UltiSnipsExpandTrigger="<C-j>"
+let g:mkdp_auto_close = 0
+let g:vim_markdown_conceal = 1
+let g:gruvbox_material_background = 'hard'
+let g:gruvbox_material_transparent_background = 1
+
+" keymaps
+nmap - <Plug>(choosewin)
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+
+filetype plugin indent on
+syntax on
+set autochdir
+set number
+set hlsearch
+set ignorecase
+set showmatch
+
+set relativenumber
+set history=1000
+set title
+set cursorline
+set mouse=a
+set wrap
+
+set noswapfile
+set nobackup
+set nowb
+
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set conceallevel=0
+set laststatus=2
+
+set termguicolors
+set background=dark
+colorscheme gruvbox
+
 
 
 "============================================================================
