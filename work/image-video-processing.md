@@ -21,6 +21,11 @@
 * Lednet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation, ICIP 2019
 * UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation, TMI 2019
 * U-Net Fixed-Point Quantization for Medical Image Segmentation, MICCAI 2019
+* Self-Guided Network for Fast Image Denoising, ICCV 2019
+* Real Image Denoising Based on Multi-Scale Residual Dense Block and Cascaded U-Net With Block-Connection, CVPR 2020
+* Densely Self-Guided Wavelet Network for Image Denoising, CVPR 2020
+* Joint Demosaicing and Denoising With Self Guidance, CVPR 2020
+
 
 ## video
 
@@ -40,13 +45,16 @@
 * Accel: A Corrective Fusion Network for Efficient Semantic Segmentation on Video, CVPR 2019
 * Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images, CVPR 2019
 * Fast Object Detection in Compressed Video, ICCV 2019
-* Online Model Distillation for Efficient Video Inference, ICCV 2019
+* **Online Model Distillation for Efficient Video Inference**, ICCV 2019
 * Patchwork: A Patch-Wise Attention Network for Efficient Object Detection and Segmentation in Video Streams, ICCV 2019
 * More Is Less: Learning Efficient Video Representations by Big-Little Network and Depthwise Temporal Aggregation, NeurIPS 2019 
 * LiteEval: A Coarse-to-Fine Framework for Resource Efficient Video Recognition, NeurIPS 2019
 * X3D: Expanding Architectures for Efficient Video Recognition, CVPR 2020
 * Dynamic Inference: A New Approach Toward Efficient Video Action Recognition, CVPR 2020
 * A Multigrid Method for Efficiently Training Video Models, CVPR 2020
+* Temporally Distributed Networks for Fast Video Semantic Segmentation, CVPR 2020
+* Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising, TIP 2020
+* ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference, ICPP 2020
 
 ## H/W
 
