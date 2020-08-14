@@ -55,6 +55,7 @@
 * Temporally Distributed Networks for Fast Video Semantic Segmentation, CVPR 2020
 * Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising, TIP 2020
 * ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference, ICPP 2020
+* **Temporally Distributed Networks for Fast Video Semantic Segmentation**, CVPR 2020
 
 ## H/W
 
