@@ -1,0 +1,9 @@
+{
+    "http.proxy": "http://75.12.251.5:8080",
+    "http.proxyStrictSSL": false,
+    "https.rejectUnauthorized": false,
+    "python.pythonPath": "python",
+    "python.jediEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_django"]
+}
