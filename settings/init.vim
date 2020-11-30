@@ -35,6 +35,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'tikhomirov/vim-glsl'
 Plug 'vim-python/python-syntax'
+Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
 "Plug 'lervag/vimtex'
 "Plug 'petrbroz/vim-glsl'
 
