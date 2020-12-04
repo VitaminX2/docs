@@ -14,7 +14,8 @@
 * Neural Sparse Voxel Fields, [arxiv](https://arxiv.org/abs/2007.11571)
 * NeRF++: Analyzing and Improving Neural Radiance Fields, [arxiv](https://arxiv.org/abs/2010.07492)
 * AutoInt: Automatic Integration for Fast Neural Volume Rendering
-
+* Learned Initializations for Optimizing Coordinate-Based Neural Representations
+* pixelNeRF: Neural Radiance Fields from One or Few Images
 
 ## Neural Scene Representation and Rendering
 
@@ -23,3 +24,5 @@
 * Implicit Neural Representations with Periodic Activation Functions NeurIPS 2020 (ORAL), [arxiv](https://arxiv.org/abs/2006.09661) [project](https://vsitzmann.github.io/siren/)
 * Neural Unsigned Distance Fields for Implicit Function Learning, NeurIPS 2020, [project](http://virtualhumans.mpi-inf.mpg.de/ndf/)
 * Equivariant Neural Rendering, ICML 2020 [arxiv](https://arxiv.org/abs/2006.07630)
+* pi-GAN: Periodic Implicit Generative Adversarial Networks
+for 3D-Aware Image Synthesis
