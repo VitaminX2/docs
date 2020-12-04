@@ -13,6 +13,7 @@
 * X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation, [arxiv](https://arxiv.org/abs/2010.00450) [project](https://xfields.mpi-inf.mpg.de/)
 * Neural Sparse Voxel Fields, [arxiv](https://arxiv.org/abs/2007.11571)
 * NeRF++: Analyzing and Improving Neural Radiance Fields, [arxiv](https://arxiv.org/abs/2010.07492)
+* AutoInt: Automatic Integration for Fast Neural Volume Rendering
 
 
 ## Neural Scene Representation and Rendering
