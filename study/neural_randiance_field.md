@@ -41,6 +41,14 @@
 * D-NeRF: Neural Randiance Fields for Dynamic Scene
   * [project](https://www.albertpumarola.com/research/D-NeRF/index.html)
 
+NeRD: Neural Reflectance Decomposition from Image Collections
+
+abs: https://t.co/YUGEhEuNdh
+
+NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis
+
+abs: https://t.co/sPg3Tp8tt0 https://t.co/0WLthnNBnx
+
 ## Neural Scene Representation and Rendering
 
 * DeepVoxels: Learning Persistent 3D Feature Embeddings, CVPR 2019 (ORAL)
