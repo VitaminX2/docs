@@ -67,6 +67,13 @@ NeRD: Neural Reflectance Decomposition from Image Collections
 NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis
 * [abs](https://arxiv.org/abs/2012.03927)
 
+
+iNeRF: Inverting Neural Radiance Fields for Pose Estimation
+pdf: https://t.co/ISdJjvG8FH
+abs: https://t.co/8Yd4aYiICg
+project page: https://t.co/Hspnds0iaf https://t.co/QZ3kuyNeak
+
+
 ## Neural Scene Representation and Rendering
 
 DeepVoxels: Learning Persistent 3D Feature Embeddings, CVPR 2019 (ORAL)
