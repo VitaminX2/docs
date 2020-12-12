@@ -69,9 +69,8 @@ NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis
 
 
 iNeRF: Inverting Neural Radiance Fields for Pose Estimation
-pdf: https://t.co/ISdJjvG8FH
-abs: https://t.co/8Yd4aYiICg
-project page: https://t.co/Hspnds0iaf https://t.co/QZ3kuyNeak
+* [abs](https://t.co/8Yd4aYiICg)
+* [prj](https://t.co/Hspnds0iaf)
 
 
 ## Neural Scene Representation and Rendering
