@@ -96,25 +96,6 @@ This deconvolution technique, because of its direct inversion of the PSF which t
 
 * When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Image, CVPR 2019
 
-## Schedule
-
-### Qualcomm Snapdragon Neural Processing SDK
-Status
-* QC 시료폰(S20 2대) 입수 완료 (5/11)
-* QC ISP Simulator 입수 완료 (5/11)
-* SDS 외주 현황 설명 (5/11, 최재석전문)
-
-Plan
-Qualcomm Neural Processing SDK for AI 를 활용을 위해 검토 중
-* SDK 내용 파악 및 환경 구축 (~5/15)
-  * 개발자 등록, Host/Device System 환경 구축 등
-* UDC Backbone Network F/U (~5/15)
-* Sample Code 동작 및 분석 (~5/22)
-  * SDK를 S20 시료폰에서 동작 확인 목적
-* UDC Backbone Network Qualcomm Neural Processing향 변환 (~5/22)
-* UDC backbone Network의 QC향 변환, 동작 및 성능 분석 (~5/29)
-* 성능 한계에 따른 개선 사항 및 연구 Issue 도출 (~6/05)
-
 
 ## Papers on ISP
 
