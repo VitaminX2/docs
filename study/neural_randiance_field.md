@@ -2,6 +2,8 @@
 
 ## Neural Radiance Fields
 
+An excellent blog post [link](https://dellaert.github.io/NeRF/)
+
 NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis, ECCV 2020 (ORAL)
 * [abs](https://arxiv.org/abs/2003.08934) 
 * [prj](https://www.matthewtancik.com/nerf)
@@ -21,6 +23,10 @@ GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis, NeurIPS 2020
 NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections
 * [abs](https://arxiv.org/abs/2008.02268)
 * [prj](https://nerf-w.github.io/)
+
+DeRF: Decomposed Radiance Fields
+* [abs](https://arxiv.org/abs/2011.12490)
+* [prj](https://ubc-vision.github.io/derf/)
 
 Deformable Neural Radiance Fields
 * [abs](https://arxiv.org/abs/2011.12948)
@@ -57,6 +63,10 @@ Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction
 * [abs](https://arxiv.org/abs/2012.03065)
 * [prj](https://gafniguy.github.io/4D-Facial-Avatars/)
 
+Portrait Neural Radiance Fields from a Single Image
+* [abs](https://arxiv.org/abs/2012.05903)
+* [prj](https://portrait-nerf.github.io/)
+
 D-NeRF: Neural Randiance Fields for Dynamic Scene
 * [abs](https://arxiv.org/abs/2011.13961)
 * [prj](https://www.albertpumarola.com/research/D-NeRF/index.html)
@@ -66,11 +76,32 @@ NeRD: Neural Reflectance Decomposition from Image Collections
 
 NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis
 * [abs](https://arxiv.org/abs/2012.03927)
-
+* [prj](https://people.eecs.berkeley.edu/~pratul/nerv/)
 
 iNeRF: Inverting Neural Radiance Fields for Pose Estimation
 * [abs](https://t.co/8Yd4aYiICg)
 * [prj](https://t.co/Hspnds0iaf)
+
+Object-Centric Neural Scene Rendering
+* [abs](https://arxiv.org/abs/2012.08503)
+* [prj](https://shellguo.com/osf/)
+
+Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
+* [abs](https://arxiv.org/abs/2011.13084)
+* [prj](http://www.cs.cornell.edu/~zl548/NSFF/)
+
+Neural Reflectance Fields for Appearance Acquisition
+* [abs](https://arxiv.org/abs/2008.03824)
+
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
+* [abs](https://arxiv.org/abs/2010.04595)
+* [prj](https://github.com/alextrevithick/GRF)
+
+Neural Scene Graphs for Dynamic Scenes
+* [abs](https://arxiv.org/abs/2011.10379)
+
+GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
+* [abs](https://arxiv.org/abs/2011.12100)
 
 
 ## Neural Scene Representation and Rendering
@@ -79,9 +110,33 @@ DeepVoxels: Learning Persistent 3D Feature Embeddings, CVPR 2019 (ORAL)
 * [abs](https://arxiv.org/abs/1812.01024)
 * [prj](https://vsitzmann.github.io/deepvoxels/)
 
+Occupancy Networks: Learning 3D Reconstruction in Function Space, CVPR 2019
+* [abs](https://arxiv.org/abs/1812.03828)
+* [prj](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks)
+
+Learning Implicit 3D Representations without 3D Supervision, CVPR 2019
+* [abs](https://arxiv.org/abs/1812.02822)
+* [prj](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)
+
+DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation, CVPR 2019
+* [abs](https://arxiv.org/abs/1901.05103)
+
+
+PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization, CVPR 2019
+* [abs](https://arxiv.org/abs/1905.05172)
+* [prj](https://shunsukesaito.github.io/PIFu/)
+
+Neural Volumes: Learning Dynamic Renderable Volumes from Images, SIGGRAPH 2019
+* [abs](https://arxiv.org/abs/1906.07751)
+* [prj](https://github.com/facebookresearch/neuralvolumes)
+
 Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations, NeurIPS 2019 (ORAL, Honorable Mention "Outstanding New Directions")
 * [abs](https://arxiv.org/abs/1906.01618)
 * [prj](https://vsitzmann.github.io/srns/)
+
+Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision
+* [abs](https://arxiv.org/abs/1912.07372)
+* [prj](https://avg.is.tuebingen.mpg.de/publications/niemeyer2020cvpr)
 
 Implicit Neural Representations with Periodic Activation Functions NeurIPS 2020 (ORAL)
 * [abs](https://arxiv.org/abs/2006.09661)
@@ -89,6 +144,10 @@ Implicit Neural Representations with Periodic Activation Functions NeurIPS 2020 
 
 Neural Unsigned Distance Fields for Implicit Function Learning, NeurIPS 2020
 * [prj](http://virtualhumans.mpi-inf.mpg.de/ndf/)
+
+Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance, NeurIPS 2020 (SPOTLIGHT)
+* [abs](https://arxiv.org/abs/2003.09852)
+* [prj](https://lioryariv.github.io/idr/)
 
 pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis
 * [abs](https://arxiv.org/abs/2012.00926)
