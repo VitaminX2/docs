@@ -103,6 +103,10 @@ Neural Scene Graphs for Dynamic Scenes
 GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 * [abs](https://arxiv.org/abs/2011.12100)
 
+Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video
+* [abs](https://arxiv.org/abs/2012.12247)
+* [prj](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)
+
 
 ## Neural Scene Representation and Rendering
 
