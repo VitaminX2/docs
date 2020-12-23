@@ -1,7 +1,6 @@
 # Multiple Illuminant Estimation
 
-## Papers
-
+## Illuminant Estimation
 
 Illuminant Color Estimation for Real-World Mixed-Illuminant Scenes, ICCV W/S 2012
 * [abs](https://ieeexplore.ieee.org/document/6130332)
@@ -29,3 +28,8 @@ A multi‐illuminant synthetic image test set, CR&A 2020
 * [abs](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22535)
 
 
+## Relighting
+
+Relighting Images in the Wild with a Self-Supervised Siamese Auto-Encoder
+* Yang Liu, Alexandros Neophytou, Sunando Sengupta, Eric Sommerlade
+* [abs](https://arxiv.org/abs/2012.06444)

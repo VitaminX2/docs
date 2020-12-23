@@ -50,6 +50,9 @@ Neural Sparse Voxel Fields, NeurIPS 2020
 NeRF++: Analyzing and Improving Neural Radiance Fields
 * [abs](https://arxiv.org/abs/2010.07492)
 
+Stable View Synthesis
+* [abs](https://arxiv.org/abs/2011.07233)
+
 AutoInt: Automatic Integration for Fast Neural Volume Rendering
 * [abs](https://arxiv.org/abs/2012.01714)
 
@@ -107,6 +110,17 @@ Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a D
 * [abs](https://arxiv.org/abs/2012.12247)
 * [prj](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)
 
+Learning Compositional Radiance Fields of Dynamic Human Heads
+* [abs](https://arxiv.org/abs/2012.09955)
+* [prj](https://ziyanw1.github.io/hybrid_nerf/)
+
+Neural Radiance Flow for 4D View Synthesis and Video Processing
+* [abs](https://arxiv.org/abs/2012.09790)
+* [prj](https://yilundu.github.io/nerflow/)
+
+Portrait Neural Radiance Fields from a Single Image
+* [abs](https://arxiv.org/abs/2012.05903)
+* [prj](https://portrait-nerf.github.io/)
 
 ## Neural Scene Representation and Rendering
 
