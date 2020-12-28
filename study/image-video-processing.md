@@ -5,8 +5,19 @@
 Smart Cameras, ???
 * [abs](https://arxiv.org/abs/2002.04705)
 
+A Deep Journey into Super-resolution: A survey, ACM Computing Surveys 2020
+* [abs](https://arxiv.org/abs/1904.07523)
+
+Image Processing on Mobile Devices: An Overview, IPAS 2014
+* [abs](https://ieeexplore.ieee.org/document/7043267)
 
 ## Mobile/Edge Computing
+
+Interactive image filtering with multiple levels-of-control on mobile devices, SG 2016, Mobile Graphics and Interactive Applications
+* [abs](https://dl.acm.org/doi/abs/10.1145/2999508.2999521)
+
+Efficient Single Image Super-Resolution via Hybrid Residual Feature Learning with Compact Back-Projection Network, ICCVW 2019
+* [abs](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LPCV/Zhu_Efficient_Single_Image_Super-Resolution_via_Hybrid_Residual_Feature_Learning_with_ICCVW_2019_paper.pdf)
 
 MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors, MobiCom 2019
 * [abs](https://dl.acm.org/doi/abs/10.1145/3300061.3345455)
@@ -20,17 +31,41 @@ SRNPU: An Energy-Efficient CNN-Based Super-Resolution Processor With Tile-Based 
 Heimdall: mobile GPU coordination platform for augmented reality applications, MobiCom 2020
 * [abs](https://dl.acm.org/doi/abs/10.1145/3372224.3419192)
 
-Characterizing and Taming Model Instability Across Edge Devices
-* [abs](https://arxiv.org/abs/2010.09028)
-
-
 A Deep Learning Approach to Mobile CameraImage Signal Processing, SIBGRAPI 2020
 * [pdf](https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/13016/12870)
 
+Lightweight Image Super-Resolution With Mobile Share-Source Network, IEEE Access 2020
+* [abs](https://ieeexplore.ieee.org/document/9045996)
 
-EVRNet: Efficient Video Restoration on Edge Devices
+Multi-Attention Based Ultra Lightweight Image Super-Resolution, ECCVW WIM2020
+* [abs](https://arxiv.org/abs/2008.12912)
+
+MADNet: A Fast and Lightweight Network for Single-Image Super Resolution, IEEE T. Cybernetics 2020
+* [abs](https://ieeexplore.ieee.org/abstract/document/9023942)
+
+Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning, ACCV 2020
+* [abs](https://arxiv.org/abs/2011.06773)
+
+LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-Resolution and Beyond, NeurIPS 2020
+* [abs](https://papers.nips.cc/paper/2020/hash/eaae339c4d89fc102edd9dbdb6a28915-Abstract.html)
+
+Lightweight Image Super-Resolution Reconstruction With Hierarchical Feature-Driven Network, ICIP 2020
+* [abs](https://ieeexplore.ieee.org/abstract/document/9191110)
+
+MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution, WACV 2021
+* [abs](https://arxiv.org/abs/2011.04566)
+
+Lightweight Image Super-Resolution with Adaptive Weighted Learning Network, 2019
+* [abs](https://arxiv.org/abs/1904.02358)
+
+AdderSR: Towards Energy Efficient Image Super-Resolution, 2020
+* [abs](https://arxiv.org/abs/2009.08891)
+
+Characterizing and Taming Model Instability Across Edge Devices, 2020
+* [abs](https://arxiv.org/abs/2010.09028)
+
+EVRNet: Efficient Video Restoration on Edge Devices, 2020
 * [abs](https://arxiv.org/abs/2012.02228)
-
 
 ## NAS & AutoML
 
