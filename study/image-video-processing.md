@@ -58,22 +58,16 @@
 
 * Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising, CVPR 2020
 [abs](https://arxiv.org/abs/1909.08228)
-
 * Superkernel Neural Architecture Search for Image Denoising, CVPRW 2020
 [abs](https://arxiv.org/abs/2004.08870)
-
 * Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search, ICPR 2020
 [abs](https://arxiv.org/abs/1901.07261)
-
 * Hierarchical Neural Architecture Search for Single Image Super-Resolution, IEEE Signal Processing Letters 2020
 [abs](https://arxiv.org/abs/2003.04619)
-
 * CLEARER: Multi-Scale Neural Architecture Search for Image Restoration, NeurIPS 2020
 [abs](https://proceedings.neurips.cc//paper/2020/hash/c6e81542b125c36346d9167691b8bd09-Abstract.html)
-
 * Journey Towards Tiny Perceptual Super-Resolution, ECCV 2020
 [abs](https://arxiv.org/abs/2007.04356)
-
 * Real Image Super Resolution Via Heterogeneous Model using GP-NAS, ECCV 2020 AIM
 [abs](https://arxiv.org/abs/2009.01371)
 
