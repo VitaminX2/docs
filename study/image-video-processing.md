@@ -145,9 +145,62 @@
 
 ## Others
 
+* Depth from motion for smartphone AR
+  * ACM TOG 2018
+  * [abs](https://dl.acm.org/doi/abs/10.1145/3272127.3275041)
+* Synthetic Depth-of-Field with a Single-Camera Mobile Phone
+  * SIGGRAPH 2018
+  * Neal Wadhwa, Rahul Garg, David E. Jacobs, Bryan E. Feldman, Nori Kanazawa, Robert Carroll, Yair Movshovitz-Attias, Jonathan T. Barron, Yael Pritch, Marc Levoy
+  * [abs](https://arxiv.org/abs/1806.04171)
+* Burst Denoising with Kernel Prediction Networks
+  * CVPR 2018 (SPOTLIGHT)
+  * Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll
+  * [abs](https://arxiv.org/abs/1712.02327)
+* A Theory of Depth From Differential Defocus
+  * Alexander, Emma. 2019. A Theory of Depth From Differential Defocus. Doctoral dissertation, Harvard University
+  * [abs](https://dash.harvard.edu/handle/1/41121273)
+* Single Image Portrait Relighting,
+  * SIGGRAPH 2019
+  * Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi
+  * [abs](https://arxiv.org/abs/1905.00824)
+* Handheld multi-frame super-resolution
+  * ACM TOG 2019
+  * [abs](https://arxiv.org/abs/1905.03277)
+* Handheld Mobile Photography in Very Low Light
+  * ACM TOG 2019
+  * Orly Liba, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He, Jonathan T. Barron, Dillon Sharlet, Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy
+  * [abs](https://arxiv.org/abs/1910.11336)
+* Controlling Motion Blur in Synthetic Long Time Exposures
+  * CGF 2019
+  * M. Lancelle  P. Dogan  M. Gross
+  * [abs](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13646)
+* Learning to Synthesize Motion Blur
+  * CVPR 2019
+  * Tim Brooks, Jonathan T. Barron
+  * [abs](https://arxiv.org/abs/1811.11745)
 * Low-light Color Imaging via Dual Camera Acquisition
   * ACCV 2020
   * [abs](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Low-light_Color_Imaging_via_Dual_Camera_Acquisition_ACCV_2020_paper.html)
+* Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator
+  * DAC 2020
+  * [abs](https://arxiv.org/abs/2002.05022)
+* Adaptive noise imitation for image denoising
+  * [abs](https://arxiv.org/abs/2011.14512)
+* A Generalization of Otsu's Method and Minimum Error Thresholding,
+  * ECCV 2020
+  * Jonathan T. Barron
+  * [abs](https://arxiv.org/abs/2007.07350)
+* Learning to Autofocus
+  * CVPR 2020
+  * Charles Herrmann, Richard Strong Bowen, Neal Wadhwa, Rahul Garg, Qiurui He, Jonathan T. Barron, Ramin Zabih
+  * [abs](https://arxiv.org/abs/2004.12260)
+* Perceptual Quality Assessment of Smartphone Photography
+  * CVPR 2020
+  * Yuming Fang, Hanwei Zhu, Yan Zeng, Kede Ma, Zhou Wang
+  * [abs](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.html)
+* AF-Net: A Convolutional Neural Network Approach to Phase Detection Autofocus
+  * TIP 2020
+  * [abs](https://ieeexplore.ieee.org/abstract/document/9130390)
 * Single-Image Lens Flare Removal
   * Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan T. Barron
   * [abs](https://arxiv.org/abs/2011.12485)
@@ -162,39 +215,34 @@
   * [abs](https://arxiv.org/abs/2012.08103)
 * GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution
   * [prj](https://ckkelvinchan.github.io/projects/GLEAN/)
-* Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator
-  * DAC 2020
-  * [abs](https://arxiv.org/abs/2002.05022)
-* Adaptive noise imitation for image denoising
-  * [abs](https://arxiv.org/abs/2011.14512)
-* Learning to Synthesize Motion Blur
-  * CVPR 2019
-  * Tim Brooks, Jonathan T. Barron
-  * [abs](https://arxiv.org/abs/1811.11745)
 * Learned Dual-View Reflection Removal
   * Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue
   * [abs](https://arxiv.org/abs/2010.00702)
-* A Generalization of Otsu's Method and Minimum Error Thresholding,
-  * ECCV 2020
-  * Jonathan T. Barron
-  * [abs](https://arxiv.org/abs/2007.07350)
-* Learning to Autofocus
-  * CVPR 2020
-  * Charles Herrmann, Richard Strong Bowen, Neal Wadhwa, Rahul Garg, Qiurui He, Jonathan T. Barron, Ramin Zabih
-  * [abs](https://arxiv.org/abs/2004.12260)
-* Handheld Mobile Photography in Very Low Light
-  * ACM TOG 2019
-  * Orly Liba, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He, Jonathan T. Barron, Dillon Sharlet, Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy
-  * [abs](https://arxiv.org/abs/1910.11336)
+
+## Dual Pixel
+
 * Learning Single Camera Depth Estimation using Dual-Pixels
   * ICCV 2019(ORAL)
   * Rahul Garg, Neal Wadhwa, Sameer Ansari, Jonathan T. Barron
   * [abs](https://arxiv.org/abs/1904.05822)
-* Synthetic Depth-of-Field with a Single-Camera Mobile Phone
-  * SIGGRAPH 2018
-  * Neal Wadhwa, Rahul Garg, David E. Jacobs, Bryan E. Feldman, Nori Kanazawa, Robert Carroll, Yair Movshovitz-Attias, Jonathan T. Barron, Yael Pritch, Marc Levoy
-  * [abs](https://arxiv.org/abs/1806.04171)
-* Burst Denoising with Kernel Prediction Networks
-  * CVPR 2018 (SPOTLIGHT)
-  * Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll
-  * [abs](https://arxiv.org/abs/1712.02327)
+* Reflection Removal Using a Dual-Pixel Sensor
+  * CVPR 2019
+  * Abhijith Punnappurath, Michael S. Brown
+  * [abs](https://openaccess.thecvf.com/content_CVPR_2019/html/Punnappurath_Reflection_Removal_Using_a_Dual-Pixel_Sensor_CVPR_2019_paper.html)
+* Modeling Defocus-Disparity in Dual-Pixel Sensors
+  * ICCP 2020
+  * Abhijith Punnappurath; Abdullah Abuolaim; Mahmoud Afifi; Michael S. Brown
+  * [abs](https://ieeexplore.ieee.org/abstract/document/9105278)
+* Single-Shot Face Anti-Spoofing for Dual Pixel Camera
+  * IEEE T. Information Forensics and Security 2020
+  * [abs](https://ieeexplore.ieee.org/abstract/document/9248008)
+* Du2Net: Learning Depth Estimation from Dual-Cameras and Dual-Pixels
+  * [abs](https://arxiv.org/abs/2003.14299)
+* Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration
+  * [abs](https://arxiv.org/abs/2012.00301)
+* Defocus Deblurring Using Dual-Pixel Data
+  * Abdullah Abuolaim, Michael S. Brown
+  * [abs](https://arxiv.org/abs/2005.00305)
+* Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data
+  * Abdullah Abuolaim, Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar
+  * [abs](https://arxiv.org/abs/2012.03255)
