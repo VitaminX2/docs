@@ -64,6 +64,7 @@
 * MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution
   * WACV 2021
   * [abs](https://arxiv.org/abs/2011.04566)
+  * SoTA 수치확인
 * Lightweight Image Super-Resolution with Adaptive Weighted Learning Network
   * 2019
   * [abs](https://arxiv.org/abs/1904.02358)
