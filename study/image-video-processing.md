@@ -7,24 +7,33 @@
 
 
 [A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523)  
+> Saeed Anwar, Salman Khan, Nick Barnes  
 > ACM Computing Surveys 2020  
 
+[Deep Learning for Single Image Super-Resolution: A Brief Review](https://ieeexplore.ieee.org/abstract/document/8723565)  
+> Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, and Qingmin Liao  
+> IEEE T. MM 2019
+
 [Image Processing on Mobile Devices: An Overview](https://ieeexplore.ieee.org/document/7043267)  
+> Rafika Thabet, Ramzi Mahmoudi, Mohamed Hedi Bedoui  
 > IPAS 2014
 
 [Amazon SageMaker Autopilot: a white box AutoML solution at scale](https://arxiv.org/abs/2012.08483)
 
 [AutoML: A survey of the state-of-the-art](https://www.sciencedirect.com/science/article/pii/S0950705120307516)  
+> Xin He, Kaiyong Zhao, Xiaowen Chu  
 > Knowledge-Based Systems 2021
 
-[Deep Learning for Single Image Super-Resolution: A Brief Review](https://ieeexplore.ieee.org/abstract/document/8723565)  
-> IEEE T. MM 2019
 
 ## Mobile/Edge Computing
 
 
 [Interactive image filtering with multiple levels-of-control on mobile devices](https://dl.acm.org/doi/abs/10.1145/2999508.2999521)  
 > SG 2016 Mobile Graphics and Interactive Applications
+
+[Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
+> Thang Vu, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, and Chang D. Yoo  
+> ECCV W/S 2018
 
 [Efficient Single Image Super-Resolution via Hybrid Residual Feature Learning with Compact Back-Projection Network](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LPCV/Zhu_Efficient_Single_Image_Super-Resolution_via_Hybrid_Residual_Feature_Learning_with_ICCVW_2019_paper.pdf)  
 > ICCV W/S 2019
@@ -37,9 +46,6 @@
 
 [Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/abs/10.1145/3372224.3419192)  
 > MobiCom 2020
-
-[A Deep Learning Approach to Mobile Camera Image Signal Processing](https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/13016/12870)  
-> SIBGRAPI 2020
 
 [Lightweight Image Super-Resolution With Mobile Share-Source Network](https://ieeexplore.ieee.org/document/9045996)  
 > IEEE Access 2020
@@ -61,7 +67,8 @@
 > NeurIPS 2020
 
 [Lightweight Image Super-Resolution Reconstruction With Hierarchical Feature-Driven Network](https://ieeexplore.ieee.org/abstract/document/9191110)  
-> ICIP 2020
+> ICIP 2020  
+> MAC 비교 없음.
 
 [MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution](https://arxiv.org/abs/2011.04566)  
 > WACV 2021  
@@ -113,13 +120,18 @@
 > IEEE Signal Processing Letters 2020
 
 [Journey Towards Tiny Perceptual Super-Resolution](https://arxiv.org/abs/2007.04356)  
-> ECCV 2020
+> Royson Lee(Samsung AI Center UK), Łukasz Dudziak, Mohamed Abdelfattah, Stylianos I. Venieris, Hyeji Kim, Hongkai Wen, Nicholas D. Lane  
+> ECCV 2020  
+> RL 기반이고, Perceptural SR들이랑만 비교해서 약간 아쉽네..
 
 [Real Image Super Resolution Via Heterogeneous Model using GP-NAS](https://arxiv.org/abs/2009.01371)  
-> ECCV 2020 AIM
+> ECCV 2020 W/S AIM
 
 [CLEARER: Multi-Scale Neural Architecture Search for Image Restoration](https://proceedings.neurips.cc//paper/2020/hash/c6e81542b125c36346d9167691b8bd09-Abstract.html)  
-> NeurIPS 2020
+> Yuanbiao Gou, Boyun Li, Zitao Liu, Songfan Yang, Xi Peng  
+> NeurIPS 2020  
+> 가장 참고해볼만한 NAS기반 SR
+
 
 [Efficient residual dense block search for image super-resolution](https://arxiv.org/abs/1909.11409)  
 > AAAI 2020
