@@ -237,9 +237,8 @@
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)  
 > [prj](https://yinboc.github.io/liif/)
 
-[KOALAnet: Blind Super-Resolution using Kernel-Oriented Adaptive Local Adjustment  
+[KOALAnet: Blind Super-Resolution using Kernel-Oriented Adaptive Local Adjustment](https://arxiv.org/abs/2012.08103)
 > Soo Ye Kim, Hyeonjun Sim, Munchurl Kim
-](https://arxiv.org/abs/2012.08103)
 
 [GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution](https://ckkelvinchan.github.io/projects/GLEAN/)
 
