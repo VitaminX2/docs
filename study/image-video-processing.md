@@ -27,7 +27,7 @@
 > SG 2016 Mobile Graphics and Interactive Applications
 
 [Efficient Single Image Super-Resolution via Hybrid Residual Feature Learning with Compact Back-Projection Network](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LPCV/Zhu_Efficient_Single_Image_Super-Resolution_via_Hybrid_Residual_Feature_Learning_with_ICCVW_2019_paper.pdf)  
-> ICCVW 2019
+> ICCV W/S 2019
 
 [MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors](https://dl.acm.org/doi/abs/10.1145/3300061.3345455)  
 > MobiCom 2019
@@ -38,14 +38,15 @@
 [Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/abs/10.1145/3372224.3419192)  
 > MobiCom 2020
 
-[A Deep Learning Approach to Mobile CameraImage Signal Processing](https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/13016/12870)  
+[A Deep Learning Approach to Mobile Camera Image Signal Processing](https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/13016/12870)  
 > SIBGRAPI 2020
 
 [Lightweight Image Super-Resolution With Mobile Share-Source Network](https://ieeexplore.ieee.org/document/9045996)  
 > IEEE Access 2020
 
 [Multi-Attention Based Ultra Lightweight Image Super-Resolution](https://arxiv.org/abs/2008.12912)  
-> ECCVW WIM2020
+> A. Muqeet, J. Hwang, S. Yang, J. Kang, Y. Kim, and S.-H. Bae  
+> ECCV W/S AIM2020  
 
 [MADNet: A Fast and Lightweight Network for Single-Image Super Resolution](https://ieeexplore.ieee.org/abstract/document/9023942)  
 > IEEE T. Cybernetics 2020
@@ -70,16 +71,22 @@
 > 2019
 
 [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/abs/2009.08891)  
+> Noah's Ark Lab, Huawei Technologies  
 > 2020
 
 [Characterizing and Taming Model Instability Across Edge Devices](https://arxiv.org/abs/2010.09028)  
+> Eyal Cidon, Evgenya Pergament, Zain Asgar, Asaf Cidon, Sachin Katti  
 > 2020
 
 [EVRNet: Efficient Video Restoration on Edge Devices](https://arxiv.org/abs/2012.02228)  
-> 2020
+> FACEBOOK,  
+> 2020  
+> iPhone XS/11에서 Video SR 실측치
 
 [Hierarchical Residual Attention Network for Single Image Super-Resolution](https://arxiv.org/abs/2012.04578)  
-> arxiv 2020
+> Parichehr Behjati, Pau Rodriguez, Armin Mehri, Isabelle Hupont, Carles Fernández Tena, Jordi Gonzalez  
+> arxiv 2020  
+> Parameter size만 있고, MACs 비교는 전혀 없다.
 
 ## NAS & AutoML
 
