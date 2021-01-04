@@ -5,14 +5,17 @@
 [Smart Cameras](https://arxiv.org/abs/2002.04705)  
 >  David J. Brady, Minghao Hu, Chengyu Wang, Xuefei Yan, Lu Fang, Yiwnheng Zhu, Yang Tan, Ming Cheng, Zhan Ma
 
-
 [A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523)  
 > Saeed Anwar, Salman Khan, Nick Barnes  
 > ACM Computing Surveys 2020  
 
 [Deep Learning for Single Image Super-Resolution: A Brief Review](https://ieeexplore.ieee.org/abstract/document/8723565)  
-> Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, and Qingmin Liao  
+> Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, Qingmin Liao  
 > IEEE T. MM 2019
+
+[Motion deblurring and super-resolution from an image sequence](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7969&rep=rep1&type=pdf)
+> Benedicte Bascle, Andrew Blake, Andrew Zisserman  
+> ECCV 1996
 
 [Image Processing on Mobile Devices: An Overview](https://ieeexplore.ieee.org/document/7043267)  
 > Rafika Thabet, Ramzi Mahmoudi, Mohamed Hedi Bedoui  
@@ -32,7 +35,7 @@
 > SG 2016 Mobile Graphics and Interactive Applications
 
 [Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
-> Thang Vu, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, and Chang D. Yoo  
+> Thang Vu, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, Chang D. Yoo  
 > ECCV W/S 2018
 
 [Efficient Single Image Super-Resolution via Hybrid Residual Feature Learning with Compact Back-Projection Network](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LPCV/Zhu_Efficient_Single_Image_Super-Resolution_via_Hybrid_Residual_Feature_Learning_with_ICCVW_2019_paper.pdf)  
@@ -51,7 +54,7 @@
 > IEEE Access 2020
 
 [Multi-Attention Based Ultra Lightweight Image Super-Resolution](https://arxiv.org/abs/2008.12912)  
-> A. Muqeet, J. Hwang, S. Yang, J. Kang, Y. Kim, and S.-H. Bae  
+> A. Muqeet, J. Hwang, S. Yang, J. Kang, Y. Kim, S.-H. Bae  
 > ECCV W/S AIM2020  
 
 [MADNet: A Fast and Lightweight Network for Single-Image Super Resolution](https://ieeexplore.ieee.org/abstract/document/9023942)  
