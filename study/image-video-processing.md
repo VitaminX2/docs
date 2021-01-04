@@ -137,6 +137,8 @@
 
 
 [Efficient residual dense block search for image super-resolution](https://arxiv.org/abs/1909.11409)  
+> Dehua Song, Chang Xu, Xu Jia, Yiyi Chen, Chunjing Xu, Yunhe Wang  
+> Huawei Noah's Ark Lab  
 > AAAI 2020
 
 ## Blur
