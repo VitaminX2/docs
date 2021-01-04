@@ -139,26 +139,53 @@
 [Efficient residual dense block search for image super-resolution](https://arxiv.org/abs/1909.11409)  
 > AAAI 2020
 
+## Blur
+
+[Controlling Motion Blur in Synthetic Long Time Exposures](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13646)  
+> M. Lancelle  P. Dogan  M. Gross  
+> CGF 2019  
+
+[Learning to Synthesize Motion Blur](https://arxiv.org/abs/1811.11745)  
+> Tim Brooks, Jonathan T. Barron  
+> CVPR 2019  
+
+## Low-light
+
+[Burst photography for high dynamic range and low-light imaging on mobile cameras](https://dl.acm.org/doi/10.1145/2980179.2980254)  
+> Samuel W. Hasinoff, Ryan  Geiss, Andrew  Adams, Jonathan T. Barron, Florian  Kainz, Jiawen Chen, Marc S Levoy  
+> ACM TOG 2016  
+
+[Low-Light Color Imaging via Dual Camera Acquisition](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Low-light_Color_Imaging_via_Dual_Camera_Acquisition_ACCV_2020_paper.html)  
+> ACCV 2020
+
+[Learning to Restore Low-Light Images via Decomposition-and-Enhancement](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.html)
+> Ke Xu, Xin Yang, Baocai Yin, Rynson W.H. Lau  
+> CVPR 2020
+
+[Low-light Image Restoration with Short- and Long-exposure Raw Pairs](https://arxiv.org/abs/2007.00199)
+> Meng Chang, Huajun Feng, Zhihai Xu, Qi Li  
+
 ## Video
 
 
 [Space-Time-Aware Multi-Resolution Video Enhancement](https://arxiv.org/abs/2003.13170)  
 > CVPR 2020
 
-[Learning the Loss Functions in a Discriminative Space for Video Restoration,](https://arxiv.org/abs/2003.09124)  
+[Learning the Loss Functions in a Discriminative Space for Video Restoration](https://arxiv.org/abs/2003.09124)  
 > Younghyun Jo, Jaeyeon Kang, Seoung Wug Oh, Seonghyeon Nam, Peter Vajda, Seon Joo Kim
 
 [Unsupervised Deep Video Denoising](https://arxiv.org/abs/2011.15045)
 
 [Video Enhancement with Task-Oriented Flow](https://arxiv.org/abs/1711.09078)  
-> IJCV 2019  
 > Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei & William T. Freeman
+> IJCV 2019  
 
 [An Efficient Recurrent Adversarial Framework for Unsupervised Real-Time Video Enhancement](https://arxiv.org/abs/2012.13033)  
 > Dario Fuoli, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool, Radu Timofte
 
 [When Bitstream Prior Meets Deep Prior: Compressed Video Super-resolution with Learning from Decoding](https://dl.acm.org/doi/abs/10.1145/3394171.3413504)  
 > MM 2020
+
 
 ## Dataset
 
@@ -171,45 +198,32 @@
 
 ## Others
 
-[Burst photography for high dynamic range and low-light imaging on mobile cameras](https://dl.acm.org/doi/10.1145/2980179.2980254)  
-> ACM TOG 2016  
-> Samuel W. Hasinoff, Ryan  Geiss, Andrew  Adams, Jonathan T. Barron, Florian  Kainz, Jiawen Chen, Marc S Levoy
-
 [Depth from motion for smartphone AR](https://dl.acm.org/doi/abs/10.1145/3272127.3275041)  
 > ACM TOG 2018
 
 [Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)  
+> Neal Wadhwa, Rahul Garg, David E. Jacobs, Bryan E. Feldman, Nori Kanazawa, Robert Carroll, Yair Movshovitz-Attias, Jonathan T. Barron, Yael Pritch, Marc Levoy  
 > SIGGRAPH 2018  
-> Neal Wadhwa, Rahul Garg, David E. Jacobs, Bryan E. Feldman, Nori Kanazawa, Robert Carroll, Yair Movshovitz-Attias, Jonathan T. Barron, Yael Pritch, Marc Levoy
 
 [Burst Denoising with Kernel Prediction Networks](https://arxiv.org/abs/1712.02327)  
+> Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll  
 > CVPR 2018 (SPOTLIGHT)  
-> Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll
 
 [A Theory of Depth From Differential Defocus](https://dash.harvard.edu/handle/1/41121273)  
 > Alexander, Emma. 2019. A Theory of Depth From Differential Defocus. Doctoral dissertation, Harvard University
 
 [Single Image Portrait Relighting,](https://arxiv.org/abs/1905.00824)  
+> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi  
 > SIGGRAPH 2019  
-> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi
 
 [Handheld multi-frame super-resolution](https://arxiv.org/abs/1905.03277)  
 > ACM TOG 2019
 
 [Handheld Mobile Photography in Very Low Light](https://arxiv.org/abs/1910.11336)  
+> Orly Liba, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He, Jonathan T. Barron, Dillon Sharlet, Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy  
 > ACM TOG 2019  
-> Orly Liba, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He, Jonathan T. Barron, Dillon Sharlet, Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy
 
-[Controlling Motion Blur in Synthetic Long Time Exposures](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13646)  
-> CGF 2019  
-> M. Lancelle  P. Dogan  M. Gross
 
-[Learning to Synthesize Motion Blur](https://arxiv.org/abs/1811.11745)  
-> CVPR 2019  
-> Tim Brooks, Jonathan T. Barron
-
-[Low-light Color Imaging via Dual Camera Acquisition](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Low-light_Color_Imaging_via_Dual_Camera_Acquisition_ACCV_2020_paper.html)  
-> ACCV 2020
 
 [Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator](https://arxiv.org/abs/2002.05022)  
 > DAC 2020
@@ -217,16 +231,16 @@
 [Adaptive noise imitation for image denoising](https://arxiv.org/abs/2011.14512)
 
 [A Generalization of Otsu's Method and Minimum Error Thresholding,](https://arxiv.org/abs/2007.07350)  
+> Jonathan T. Barron  
 > ECCV 2020  
-> Jonathan T. Barron
 
 [Learning to Autofocus](https://arxiv.org/abs/2004.12260)  
-> CVPR 2020  
 > Charles Herrmann, Richard Strong Bowen, Neal Wadhwa, Rahul Garg, Qiurui He, Jonathan T. Barron, Ramin Zabih
+> CVPR 2020  
 
 [Perceptual Quality Assessment of Smartphone Photography](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.html)  
+> Yuming Fang, Hanwei Zhu, Yan Zeng, Kede Ma, Zhou Wang  
 > CVPR 2020  
-> Yuming Fang, Hanwei Zhu, Yan Zeng, Kede Ma, Zhou Wang
 
 [AF-Net: A Convolutional Neural Network Approach to Phase Detection Autofocus](https://ieeexplore.ieee.org/abstract/document/9130390)  
 > TIP 2020
@@ -248,19 +262,20 @@
 [Learned Dual-View Reflection Removal](https://arxiv.org/abs/2010.00702)  
 > Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue
 
+
 ## Dual Pixel
 
 [Learning Single Camera Depth Estimation using Dual-Pixels](https://arxiv.org/abs/1904.05822)  
+> Rahul Garg, Neal Wadhwa, Sameer Ansari, Jonathan T. Barron  
 > ICCV 2019(ORAL)  
-> Rahul Garg, Neal Wadhwa, Sameer Ansari, Jonathan T. Barron
 
 [Reflection Removal Using a Dual-Pixel Sensor](https://openaccess.thecvf.com/content_CVPR_2019/html/Punnappurath_Reflection_Removal_Using_a_Dual-Pixel_Sensor_CVPR_2019_paper.html)  
+> Abhijith Punnappurath, Michael S. Brown  
 > CVPR 2019  
-> Abhijith Punnappurath, Michael S. Brown
 
 [Modeling Defocus-Disparity in Dual-Pixel Sensors](https://ieeexplore.ieee.org/abstract/document/9105278)  
+> Abhijith Punnappurath; Abdullah Abuolaim; Mahmoud Afifi; Michael S. Brown  
 > ICCP 2020  
-> Abhijith Punnappurath; Abdullah Abuolaim; Mahmoud Afifi; Michael S. Brown
 
 [Single-Shot Face Anti-Spoofing for Dual Pixel Camera](https://ieeexplore.ieee.org/abstract/document/9248008)  
 > IEEE T. Information Forensics and Security 2020
