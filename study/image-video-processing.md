@@ -100,6 +100,10 @@
 
 ## NAS & AutoML
 
+[Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search](https://arxiv.org/abs/1803.00370)
+> Masanori Suganuma, Mete Ozay, Takayuki Okatani  
+> RIKEN  
+> ICML 2018  
 
 [Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising](https://arxiv.org/abs/1909.08228)  
 > CVPR 2020
@@ -117,6 +121,7 @@
 > CVPRW 2020
 
 [FARSR: Fast Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261)  
+> Xiangxiang Chu, Bo Zhang, Hailong Ma, Ruijun Xu, Qingyuan Li  
 > ICPR 2020
 
 [Hierarchical Neural Architecture Search for Single Image Super-Resolution](https://arxiv.org/abs/2003.04619)  
