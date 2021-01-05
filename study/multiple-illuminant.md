@@ -32,17 +32,47 @@
 > Lawrence Mutimbu; Antonio Robles-Kelly  
 > TIP 2016
 
+
+[Colour Constancy for Image of Non-Uniformly Lit Scenes](https://ieeexplore.ieee.org/document/8577093)
+> Md Akmol Hussain; Akbar Sheikh-Akbari  
+> IEEE ICIST 2018  
+
 [Color Constancy Algorithm for Mixed-Illuminant Scene Images](https://ieeexplore.ieee.org/abstract/document/8300518)  
 > Md Akmol Hussain; Akbar Sheikh Akbari  
-> IEEE Access 2018
+> IEEE Access 2018  
+>> 다양한 Published DB 소개되어 있음.  
+>> MIMO(real)에서 3.82 MAE이고, 전반적으로 3.9~4.3 MAE  
+
+
+[Evaluating Colour Constancy on the new MIST dataset of Multi-Illuminant Scenes](https://www2.cs.sfu.ca/~funt/Hao+Funt_MIST_CIC27_2019.pdf)
+> Xiangpeng Hao, Brian Funt, Hanxiao Jiang;  
+> Society for Imaging Science and Technology 2019  
+
+[Conditional GANs for Multi-Illuminant Color Constancy: Revolution or yet Another Approach?](https://arxiv.org/abs/1811.06604)
+> Oleksii Sidorov  
+> CVPR W/S 2019 (NTIRE)  
+
+[Color Constancy for Uniform and Non-Uniform Illuminant Using Image Texture](https://ieeexplore.ieee.org/abstract/document/8726389)
+> Md Akmol Hussain; Akbar Sheikh-Akbari; Edward Abbott Halpin  
+> IEEE Access 2019
+
+[Combining Bottom-Up and Top-Down Visual Mechanisms for Color Constancy Under Varying Illumination](https://ieeexplore.ieee.org/abstract/document/8678788)
+> Shao-Bing Gao; Yan-Ze Ren; Ming Zhang; Yong-Jie Li  
+> TIP 2019  
 
 [Learning to Separate Multiple Illuminants in a Single Image](https://arxiv.org/abs/1811.12481)  
 > Zhuo Hui, Ayan Chakrabarti, Kalyan Sunkavalli, Aswin C. Sankaranarayanan  
-> CVPR 2019
+> CVPR 2019   
+>> Mean Angle Error를 다루지 않는다...   
 
 [A multi‐illuminant synthetic image test set](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22535)  
 > Xiangpeng Hao, Brian Funt  
-> CR&A 2020
+> Color Research & Application 2020  
+>> Multi-Illuminant Dataset을 만들고 Single Best Illuminant를 정의한다.   
+
+[Lighting source classification applied in color images to contrast enhancement](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22515)
+> Mario Dehesa‐González, Alberto J. Rosales‐Silva, Francisco J. Gallegos‐Funes, Jean M. V. Kinani, Eduardo Ramos‐Díaz  
+> Color Research & Application 2020  
 
 
 ## Relighting
