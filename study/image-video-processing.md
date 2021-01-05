@@ -140,11 +140,26 @@
 > NeurIPS 2020  
 > 가장 참고해볼만한 NAS기반 SR
 
+[Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts](https://proceedings.neurips.cc//paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html)
+> Guilin Li, Junlei Zhang, Yunhe Wang, Chuanjian Liu, Matthias Tan, Yunfeng Lin, Wei Zhang, Jiashi Feng, Tong Zhang  
+> Huawei Noah's Ark  
+> AAAI 2020
 
 [Efficient residual dense block search for image super-resolution](https://arxiv.org/abs/1909.11409)  
 > Dehua Song, Chang Xu, Xu Jia, Yiyi Chen, Chunjing Xu, Yunhe Wang  
 > Huawei Noah's Ark Lab  
 > AAAI 2020
+
+[Distilling portable Generative Adversarial Networks for Image Translation](https://arxiv.org/abs/2003.03519)
+> Hanting Chen, Yunhe Wang, Han Shu, Changyuan Wen, Chunjing Xu, Boxin Shi, Chao Xu, Chang Xu  
+> Huawei Noah's Ark  
+> AAAI 2020
+
+[Efficient Residual Dense Block Search for Image Super-Resolution](https://arxiv.org/abs/1909.11409)
+> Dehua Song, Chang Xu, Xu Jia, Yiyi Chen, Chunjing Xu, Yunhe Wang  
+> Huawei Noah's Ark  
+> AAAI 2020  
+
 
 ## Blur
 
@@ -172,8 +187,12 @@
 [Low-light Image Restoration with Short- and Long-exposure Raw Pairs](https://arxiv.org/abs/2007.00199)
 > Meng Chang, Huajun Feng, Zhihai Xu, Qi Li  
 
-## Video
+[Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping](https://arxiv.org/abs/2007.09187)
+> Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh  
+> Huawei Noah's Ark
+> ECCV 2020  
 
+## Video
 
 [Space-Time-Aware Multi-Resolution Video Enhancement](https://arxiv.org/abs/2003.13170)  
 > CVPR 2020
