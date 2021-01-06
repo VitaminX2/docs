@@ -2,9 +2,36 @@
 
 ## Overview
 
+[Lightness and Retinex Theory](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-61-1-1)
+> Edwin H. Land and John J. McCann  
+> Journal of the Optical Society of America 1971  
+
+[The retinex theory of color vision](http://www.cnbc.cmu.edu/~tai/cp_papers/E.Land_Retinex_Theory_ScientifcAmerican.pdf)
+> Land EH  
+> Sci Am. 1977  
+
 [Computational Color Constancy: Survey and Experiments](https://ieeexplore.ieee.org/document/5719167)
 > Arjan Gijsenij; Theo Gevers; Joost van de Weijer  
 > IEEE TIP 2011  
+
+
+[Exemplar-Based Color Constancy and Multiple Illumination](https://ieeexplore.ieee.org/document/6588227)
+> Hamid Reza Vaezi Joze; Mark S. Drew  
+> IEEE TPAMI 2014  
+
+
+[Re-evaluating color constancy algorithms](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1091.6287&rep=rep1&type=pdf)
+> S. D. Hordley and G. D. Finlayson  
+> ICPR 2004  
+>> refernce of angular error metric  
+
+
+[The reproduction angular error for evaluating the performance of illuminant estimation algorithms](https://ieeexplore.ieee.org/document/7494650)
+> G. D. Finlayson, R. Zakizadeh, and A. Gijsenij  
+> IEEE TPAMI 2017  
+>> Enhanced version of angular error metric  
+>> Recent formulation of Images  
+
 
 ## Illuminant Estimation
 
@@ -59,6 +86,7 @@
 [Combining Bottom-Up and Top-Down Visual Mechanisms for Color Constancy Under Varying Illumination](https://ieeexplore.ieee.org/abstract/document/8678788)
 > Shao-Bing Gao; Yan-Ze Ren; Ming Zhang; Yong-Jie Li  
 > TIP 2019  
+>> 다양한 성능 Table 참조가능  
 
 [Learning to Separate Multiple Illuminants in a Single Image](https://arxiv.org/abs/1811.12481)  
 > Zhuo Hui, Ayan Chakrabarti, Kalyan Sunkavalli, Aswin C. Sankaranarayanan  
@@ -73,7 +101,44 @@
 [Lighting source classification applied in color images to contrast enhancement](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22515)
 > Mario Dehesa‐González, Alberto J. Rosales‐Silva, Francisco J. Gallegos‐Funes, Jean M. V. Kinani, Eduardo Ramos‐Díaz  
 > Color Research & Application 2020  
+>> Mean Angle Error를 다루지 않는다...   
 
+[Monte Carlo Dropout Ensembles for Robust Illumination Estimation](https://arxiv.org/abs/2007.10114)
+> Firas Laakom, Jenni Raitoharju, Alexandros Iosifidis, Jarno Nikkanen, Moncef Gabbouj  
+>> INTEL-TAU dataset에 대한 SoTA Method의 Angular Error Table을 볼수 있다.  
+>> Single Illumination 가정에도 여전히 Large Real Dataset에 대해 2.0 MAE에 진입하지 못하고 있음을 확인 가능  
+>> BEST 2.1 MAE
+
+
+
+## Dataset
+
+[GRAY BALL: A large image database for color constancy research]()
+> F. Ciurea and B. Funt  
+> Color Image Conference Final Program 2003  
+
+[GEHLER&SHI: Bayesian color constancy revisited]()
+> P. V. Gehler, C. Rother, A. Blake, T. Sharp, and T. Minka  
+> CVPR 2008  
+
+[“Color constancy and non-uniform illumination: Can existing algorithms work?]()
+> Michael Bleier; Christian Riess; Shida Beigpour; Eva Eibenberger; Elli Angelopoulou; Tobias Tröger; André Kaup  
+> ICCV W/S 2011  
+
+[MLS: Color constancy for multiple light sources]()
+> A. Gijsenij, R. Lu, and T. Gevers  
+> TIP 2012  
+
+[MIMO: Multiilluminant estimation with conditional random fields]()
+> S. Beigpour, C. Riess, J. van de Weijer, and E. Angelopoulou  
+> TIP 2014  
+
+[RAISE: A raw images dataset for digital image forensics]()
+> D. T. Dang-Nguyen, C. Pasquini, V. Conotter, and G. Boato  
+> ACM Multimedia Syst. Conf 2015  
+
+[INTEL-TAU: A Color Constancy Dataset](https://arxiv.org/abs/1910.10404?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
+> Firas Laakom, Jenni Raitoharju, Alexandros Iosifidis, Jarno Nikkanen, Moncef Gabbouj  
 
 ## Relighting
 
