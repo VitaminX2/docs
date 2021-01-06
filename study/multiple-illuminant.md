@@ -113,27 +113,27 @@
 
 ## Dataset
 
-[GRAY BALL: A large image database for color constancy research]()
+[GRAY BALL: A large image database for color constancy research](https://www2.cs.sfu.ca/~colour/publications/PCIC-2003/LargeImageDatabase.html)
 > F. Ciurea and B. Funt  
 > Color Image Conference Final Program 2003  
 
-[GEHLER&SHI: Bayesian color constancy revisited]()
+[GEHLER&SHI: Bayesian color constancy revisited](https://ieeexplore.ieee.org/document/4587765)
 > P. V. Gehler, C. Rother, A. Blake, T. Sharp, and T. Minka  
 > CVPR 2008  
 
-[“Color constancy and non-uniform illumination: Can existing algorithms work?]()
+[Color constancy and non-uniform illumination: Can existing algorithms work?](https://ieeexplore.ieee.org/document/6130331)
 > Michael Bleier; Christian Riess; Shida Beigpour; Eva Eibenberger; Elli Angelopoulou; Tobias Tröger; André Kaup  
 > ICCV W/S 2011  
 
-[MLS: Color constancy for multiple light sources]()
+[MLS: Color constancy for multiple light sources](https://ieeexplore.ieee.org/document/5986707)
 > A. Gijsenij, R. Lu, and T. Gevers  
 > TIP 2012  
 
-[MIMO: Multiilluminant estimation with conditional random fields]()
+[MIMO: Multi-Illuminant estimation with conditional random fields](https://ieeexplore.ieee.org/document/6637091)
 > S. Beigpour, C. Riess, J. van de Weijer, and E. Angelopoulou  
 > TIP 2014  
 
-[RAISE: A raw images dataset for digital image forensics]()
+[RAISE: A raw images dataset for digital image forensics](http://loki.disi.unitn.it/RAISE/)
 > D. T. Dang-Nguyen, C. Pasquini, V. Conotter, and G. Boato  
 > ACM Multimedia Syst. Conf 2015  
 
