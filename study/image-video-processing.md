@@ -2,17 +2,6 @@
 
 ## Overview
 
-[Smart Cameras](https://arxiv.org/abs/2002.04705)  
->  David J. Brady, Minghao Hu, Chengyu Wang, Xuefei Yan, Lu Fang, Yiwnheng Zhu, Yang Tan, Ming Cheng, Zhan Ma
-
-[A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523)  
-> Saeed Anwar, Salman Khan, Nick Barnes  
-> ACM Computing Surveys 2020  
-
-[Deep Learning for Single Image Super-Resolution: A Brief Review](https://ieeexplore.ieee.org/abstract/document/8723565)  
-> Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, Qingmin Liao  
-> IEEE T. MM 2019
-
 [Motion deblurring and super-resolution from an image sequence](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7969&rep=rep1&type=pdf)
 > Benedicte Bascle, Andrew Blake, Andrew Zisserman  
 > ECCV 1996
@@ -21,11 +10,31 @@
 > Rafika Thabet, Ramzi Mahmoudi, Mohamed Hedi Bedoui  
 > IPAS 2014
 
-[Amazon SageMaker Autopilot: a white box AutoML solution at scale](https://arxiv.org/abs/2012.08483)
+[Learning a Deep Convolutional Network for Image Super-Resolution](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e/Lecture-Notes-in-Computer-Science.pdf)
+> Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang  
+> ECCV 2014  
+
+[Deep Learning for Single Image Super-Resolution: A Brief Review](https://ieeexplore.ieee.org/abstract/document/8723565)  
+> Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, Qingmin Liao  
+> IEEE T. MM 2019
+
+[A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523)  
+> Saeed Anwar, Salman Khan, Nick Barnes  
+> ACM Computing Surveys 2020  
+
+[Deep Learning for Image Super-resolution: A Survey](https://ieeexplore.ieee.org/abstract/document/9044873)
+> Zhihao Wang; Jian Chen; Steven C.H. Hoi  
+> IEEE TPAMI 2020
 
 [AutoML: A survey of the state-of-the-art](https://www.sciencedirect.com/science/article/pii/S0950705120307516)  
 > Xin He, Kaiyong Zhao, Xiaowen Chu  
 > Knowledge-Based Systems 2021
+
+[Smart Cameras](https://arxiv.org/abs/2002.04705)  
+>  David J. Brady, Minghao Hu, Chengyu Wang, Xuefei Yan, Lu Fang, Yiwnheng Zhu, Yang Tan, Ming Cheng, Zhan Ma  
+
+[Amazon SageMaker Autopilot: a white box AutoML solution at scale](https://arxiv.org/abs/2012.08483)
+
 
 
 ## Mobile/Edge Computing
@@ -34,7 +43,7 @@
 [Interactive image filtering with multiple levels-of-control on mobile devices](https://dl.acm.org/doi/abs/10.1145/2999508.2999521)  
 > SG 2016 Mobile Graphics and Interactive Applications
 
-[Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
+[FEQE: Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
 > Thang Vu, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, Chang D. Yoo  
 > ECCV W/S 2018
 
@@ -160,6 +169,12 @@
 > Huawei Noah's Ark  
 > AAAI 2020  
 
+## Super-Resolution
+
+[Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](https://arxiv.org/abs/2004.00448)
+> Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn  
+> CVPR 2020  
+
 
 ## Blur
 
@@ -191,6 +206,11 @@
 > Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh  
 > Huawei Noah's Ark
 > ECCV 2020  
+
+[A Model Learning Approach For Low Light Image Restoration](https://ieeexplore.ieee.org/abstract/document/9191242)
+> Sameer Malik; Rajiv Soundararajan  
+> ICIP 2020  
+
 
 ## Video
 
