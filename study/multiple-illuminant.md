@@ -10,21 +10,18 @@
 > Land EH  
 > Sci Am. 1977  
 
-[Computational Color Constancy: Survey and Experiments](https://ieeexplore.ieee.org/document/5719167)
-> Arjan Gijsenij; Theo Gevers; Joost van de Weijer  
-> IEEE TIP 2011  
-
-
-[Exemplar-Based Color Constancy and Multiple Illumination](https://ieeexplore.ieee.org/document/6588227)
-> Hamid Reza Vaezi Joze; Mark S. Drew  
-> IEEE TPAMI 2014  
-
-
 [Re-evaluating color constancy algorithms](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1091.6287&rep=rep1&type=pdf)
 > S. D. Hordley and G. D. Finlayson  
 > ICPR 2004  
 >> refernce of angular error metric  
 
+[Computational Color Constancy: Survey and Experiments](https://ieeexplore.ieee.org/document/5719167)
+> Arjan Gijsenij; Theo Gevers; Joost van de Weijer  
+> IEEE TIP 2011  
+
+[Exemplar-Based Color Constancy and Multiple Illumination](https://ieeexplore.ieee.org/document/6588227)
+> Hamid Reza Vaezi Joze; Mark S. Drew  
+> IEEE TPAMI 2014  
 
 [The reproduction angular error for evaluating the performance of illuminant estimation algorithms](https://ieeexplore.ieee.org/document/7494650)
 > G. D. Finlayson, R. Zakizadeh, and A. Gijsenij  
@@ -32,8 +29,15 @@
 >> Enhanced version of angular error metric  
 >> Recent formulation of Images  
 
-
 ## Illuminant Estimation
+
+[Color Constancy for Scenes with Varying Illumination](https://www.sciencedirect.com/science/article/pii/S1077314296905676)
+> Kobus Barnard, Graham Finlayson, Brian Funt  
+> Computer Vision and Image Understanding 1997  
+
+[Light mixture estimation for spatially varying white balance](https://dl.acm.org/doi/10.1145/1360612.1360669)
+> Eugene Hsu, Tom Mertens, Sylvain Paris, Shai  Avidan, Frédo Durand  
+> ACM TOG 2008  
 
 [Color Constancy for Multiple Light Sources](https://ieeexplore.ieee.org/abstract/document/5986707)
 > Arjan Gijsenij; Rui Lu; Theo Gevers  
@@ -59,6 +63,17 @@
 > Lawrence Mutimbu; Antonio Robles-Kelly  
 > TIP 2016
 
+[Two Illuminant Estimation and User Correction Preference](https://openaccess.thecvf.com/content_cvpr_2016/html/Cheng_Two_Illuminant_Estimation_CVPR_2016_paper.html)
+> Dongliang Cheng, Abdelrahman Abdelhamed, Brian Price, Scott Cohen, Michael S. Brown  
+> CVPR 2016  
+
+[Single and Multiple Illuminant Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/7942101)
+> Simone Bianco; Claudio Cusano; Raimondo Schettini  
+> TIP 2017
+
+[Multiple illuminant estimation from the covariance of colors](https://www.sciencedirect.com/science/article/pii/S1047320317300755)
+> Elkhamssa Lakehal, Djemel Ziou, Mohamed Benmohammed  
+> Journal of Visual Communication and Image Representation 2017  
 
 [Colour Constancy for Image of Non-Uniformly Lit Scenes](https://ieeexplore.ieee.org/document/8577093)
 > Md Akmol Hussain; Akbar Sheikh-Akbari  
@@ -69,6 +84,10 @@
 > IEEE Access 2018  
 >> 다양한 Published DB 소개되어 있음.  
 >> MIMO(real)에서 3.82 MAE이고, 전반적으로 3.9~4.3 MAE  
+
+[Self-adaptive Single and Multi-illuminant Estimation Framework based on Deep Learning](https://arxiv.org/abs/1902.04705)
+> Yongjie Liu, Sijie Shen  
+> arxiv 2019  
 
 
 [Evaluating Colour Constancy on the new MIST dataset of Multi-Illuminant Scenes](https://www2.cs.sfu.ca/~funt/Hao+Funt_MIST_CIC27_2019.pdf)
@@ -140,6 +159,10 @@
 [INTEL-TAU: A Color Constancy Dataset](https://arxiv.org/abs/1910.10404?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
 > Firas Laakom, Jenni Raitoharju, Alexandros Iosifidis, Jarno Nikkanen, Moncef Gabbouj  
 
+[INTEL-TUT Dataset for Camera Invariant Color Constancy Research](https://arxiv.org/abs/1703.09778)
+> Caglar Aytekin, Jarno Nikkanen, Moncef Gabbouj  
+> TIP 2017  
+
 ## Relighting
 
 [Relighting Images in the Wild with a Self-Supervised Siamese Auto-Encoder](https://arxiv.org/abs/2012.06444)  
@@ -160,3 +183,10 @@
 [Sky Optimization: Semantically aware image processing of skies in low-light photography](https://arxiv.org/abs/2006.10172)  
 > Orly Liba, Longqi Cai, Yun-Ta Tsai, Elad Eban, Yair Movshovitz-Attias, Yael Pritch, Huizhong Chen, Jonathan T. Barron  
 > CVPR W/S 2020  
+
+
+## Others
+
+[Beyond White: Ground Truth Colors for Color Constancy Correction](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_Beyond_White_Ground_ICCV_2015_paper.html)
+> Dongliang Cheng, Brian Price, Scott Cohen, Michael S. Brown  
+> ICCV 2015  

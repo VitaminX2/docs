@@ -140,3 +140,10 @@
 > [prj](https://lioryariv.github.io/idr/)
 
 [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis ](https://arxiv.org/abs/2012.00926)
+
+
+## Implicit Representation
+
+[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
+>  Yinbo Chen, Sifei Liu, Xiaolong Wang  
+> [prj](https://yinboc.github.io/liif/)  
