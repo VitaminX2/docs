@@ -273,6 +273,7 @@ Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
 > Younghyun Jo, Jaeyeon Kang, Seoung Wug Oh, Seonghyeon Nam, Peter Vajda, Seon Joo Kim
 
 [Unsupervised Deep Video Denoising](https://arxiv.org/abs/2011.15045)
+> Dev Yashpal Sheth, Sreyas Mohan, Joshua L. Vincent, Ramon Manzorro, Peter A. Crozier, Mitesh M. Khapra, Eero P. Simoncelli, Carlos Fernandez-Granda  
 
 [Video Enhancement with Task-Oriented Flow](https://arxiv.org/abs/1711.09078)  
 > Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei & William T. Freeman
