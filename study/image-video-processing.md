@@ -26,6 +26,15 @@
 > Zhihao Wang; Jian Chen; Steven C.H. Hoi  
 > IEEE TPAMI 2020
 
+[Video Super Resolution Based on Deep Learning: A Comprehensive Survey](https://arxiv.org/abs/2007.12928)
+> Hongying Liu, Zhubo Ruan, Peng Zhao, Chao Dong, Fanhua Shang, Yuanyuan Liu, Linlin Yang  
+
+
+[Deep learning on image denoising: An overview](https://www.sciencedirect.com/science/article/pii/S0893608020302665)
+> Chunwei Tian, LunkeFei, Wenxian Zheng, Yong Xu, Wangmeng Zuo, Chia-Wen Lin  
+> Neural Network 2020  
+
+
 [AutoML: A survey of the state-of-the-art](https://www.sciencedirect.com/science/article/pii/S0950705120307516)  
 > Xin He, Kaiyong Zhao, Xiaowen Chu  
 > Knowledge-Based Systems 2021
@@ -97,10 +106,6 @@
 > Eyal Cidon, Evgenya Pergament, Zain Asgar, Asaf Cidon, Sachin Katti  
 > 2020
 
-[EVRNet: Efficient Video Restoration on Edge Devices](https://arxiv.org/abs/2012.02228)  
-> FACEBOOK,  
-> 2020  
-> iPhone XS/11에서 Video SR 실측치
 
 [Hierarchical Residual Attention Network for Single Image Super-Resolution](https://arxiv.org/abs/2012.04578)  
 > Parichehr Behjati, Pau Rodriguez, Armin Mehri, Isabelle Hupont, Carles Fernández Tena, Jordi Gonzalez  
@@ -175,6 +180,52 @@
 > Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn  
 > CVPR 2020  
 
+## Video Super-Resolution
+
+[Fast Spatio-Temporal Residual Network for Video Super-Resolution](https://arxiv.org/abs/1904.02870)
+> Sheng Li, Fengxiang He, Bo Du, Lefei Zhang, Yonghao Xu, Dacheng Tao  
+> CVPR 2019  
+
+[Video Super-resolution with Temporal Group Attention](https://arxiv.org/abs/2007.10595v1)
+> Takashi Isobe1,2† , Songjiang Li2 , Xu Jia2∗ , Shanxin Yuan2 , Gregory Slabaugh2 , Chunjing Xu2 , Ya-Li Li1 , Shengjin Wang1∗ , Qi Tian2
+> 1Department of Electronic Engineering, Tsinghua University, 2Noah’s Ark Lab, Huawei Technologies  
+> CVPR 2020  
+>> FLOPS있음. Vimeo90K 비교 있음
+
+[Video Super-Resolution with Recurrent Structure-Detail Network](https://arxiv.org/abs/2008.00455)
+> Takashi Isobe, Xu Jia, Shuhang Gu, Songjiang Li, Shengjin Wang, Qi Tian  
+> ECCV 2020  
+>> FLOPS있음. Vimeo90K 비교 있음
+
+[Revisiting Temporal Modeling for Video Super-resolution](https://arxiv.org/abs/2008.05765)
+> Takashi Isobe, Fang Zhu, Xu Jia, Shengjin Wang  
+> BMVC 2020  
+>> FLOPS 있음.Vimeo90K로 학습, Vid4에 Test  
+
+[Deep Video Super-Resolution Using HR Optical Flow Estimation](https://ieeexplore.ieee.org/abstract/document/8967249)
+> Longguang Wang; Yulan Guo; Li Liu; Zaiping Lin; Xinpu Deng; Wei An  
+> TIP 2020  
+>> Vid4 기준 SoTA Table 확인 가능  
+
+[EVRNet: Efficient Video Restoration on Edge Devices](https://arxiv.org/abs/2012.02228)  
+> FACEBOOK,  
+> 2020  
+>> Multi-Adds있고, Vimeo90K 기준  
+>> iPhone XS/11에서 Video SR 실측치
+
+[VESR-Net: The Winning Solution to Youku Video Enhancement and Super-Resolution Challenge](https://arxiv.org/abs/2003.02115)
+> Jiale Chen, Xu Tan, Chaowei Shan, Sen Liu, Zhibo Chen  
+
+[High-Frequency Refinement for Sharper Video Super-Resolution](https://openaccess.thecvf.com/content_WACV_2020/html/Singh_High-Frequency_Refinement_for_Sharper_Video_Super-Resolution_WACV_2020_paper.html)
+> Vikram Singh, Akshay Sharma, Sudharshann Devanathan, Anurag Mittal;  
+> WACV 2020  
+
+### dataset?
+
+Paperswithcode.com기준으로는 vid4가 가장 많이 활용되는거 같고, Vimeo90k는 별로 활용되진 않는다.
+Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
+> EVRNet이 괜찮은 Table이 있어서 좋은데...
+그외엔, Youku-VESR이라는 challenge가 있는듯. Alibaba쪽인데 DB링크가 없는듯...
 
 ## Blur
 
@@ -185,6 +236,7 @@
 [Learning to Synthesize Motion Blur](https://arxiv.org/abs/1811.11745)  
 > Tim Brooks, Jonathan T. Barron  
 > CVPR 2019  
+
 
 ## Low-light
 
