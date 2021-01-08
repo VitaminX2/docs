@@ -308,6 +308,10 @@
 [Learned Dual-View Reflection Removal](https://arxiv.org/abs/2010.00702)  
 > Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue
 
+## HDR
+
+[HDR Denoising and Deblurring by Learning Spatio-temporal Distortion Models](https://arxiv.org/abs/2012.12009)
+> Uğur Çoğalan, Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel  
 
 ## Dual Pixel
 
@@ -335,3 +339,15 @@
 
 [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/abs/2012.03255)  
 > Abdullah Abuolaim, Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar
+
+## Transformers
+
+
+[Spatio-Temporal Transformer Network for Video Restoration](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)
+> Tae Hyun Kim1,2 , Mehdi S. M. Sajjadi1,3 , Michael Hirsch1,4† , Bernhard Sch¨olkopf1  
+> ECCV 2018  
+
+[Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
+> PATRICK ESSER*, ROBIN ROMBACH*, BJÖRN OMMER  
+> [code](https://github.com/CompVis/taming-transformers)  
+

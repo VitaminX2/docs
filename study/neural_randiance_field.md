@@ -94,6 +94,17 @@
 > [prj](https://yilundu.github.io/nerflow/)
 
 [Portrait Neural Radiance Fields from a Single Image ](https://arxiv.org/abs/2012.05903)  
+
+[STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering](https://arxiv.org/abs/2101.01602)
+> Wentao Yuan1 Zhaoyang Lv2 Tanner Schmidt2 Steven Lovegrove2  
+> UW, Facebook Reality Labs  
+
+[PVA: Pixel-aligned Volumetric Avatars](https://arxiv.org/abs/2101.02697)
+> Amit Raj, Michael Zollhoefer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi  
+> GIT, Facebook Reality Labs  
+
+
+
 > [prj](https://portrait-nerf.github.io/)
 
 ## Neural Scene Representation and Rendering

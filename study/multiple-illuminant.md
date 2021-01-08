@@ -158,10 +158,18 @@
 
 [INTEL-TAU: A Color Constancy Dataset](https://arxiv.org/abs/1910.10404?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
 > Firas Laakom, Jenni Raitoharju, Alexandros Iosifidis, Jarno Nikkanen, Moncef Gabbouj  
+>> Cross-camera CC dataset  
 
 [INTEL-TUT Dataset for Camera Invariant Color Constancy Research](https://arxiv.org/abs/1703.09778)
 > Caglar Aytekin, Jarno Nikkanen, Moncef Gabbouj  
 > TIP 2017  
+
+
+[2nd International Illumination Estimation Challenge](http://chromaticity.iitp.ru/)
+> Kharkevich Institute for Information Transmission Problems  
+>> Two-Illuminant Track 존재
+>> SoTA는 MAE 2.75 [SDE-AWB: a Generic Solution for 2nd International Illumination Estimation Challenge](https://arxiv.org/abs/2010.05149)  
+>> This dataset includes images for which the angle between GT is greater than or equal to two degrees.  
 
 ## Relighting
 
