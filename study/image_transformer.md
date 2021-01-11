@@ -8,16 +8,14 @@
 [A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
 > Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao  
 
-
-
 ## Transformers
 
 [Image Transformer](http://proceedings.mlr.press/v80/parmar18a.html)
 > Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran ;  
 > PMLR 2018  
 
-[Spatio-Temporal Trahttp://proceedings.mlr.press/v80/parmar18a.htmlnsformer Network for Video Restoration](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)
-> Tae Hyun Kim1,2 , http://proceedings.mlr.press/v80/parmar18a.htmlMehdi S. M. Sajjadi1,3 , Michael Hirsch1,4† , Bernhard Sch¨olkopf1  
+[Spatio-Temporal Transformer Network for Video Restoration](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)
+> Tae Hyun Kim1,2 , S. M. Sajjadi1,3 , Michael Hirsch1,4† , Bernhard Sch¨olkopf1  
 > ECCV 2018  
 
 [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
@@ -25,6 +23,10 @@
 > OpenAI  
 > ICML 2020  
 > [blog](https://openai.com/blog/image-gpt/) [code](https://github.com/openai/image-gpt)  
+
+[Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/abs/2006.04139)
+> Fuzhi Yang, Huan Yang, Jianlong Fu, Hongtao Lu, Baining Guo  
+> CVPR 2020  
 
 [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)
 > Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao  
@@ -34,6 +36,9 @@
 > Patrick Esser*, Robin Rombach*, Björn Ommer  
 > IWR, HEIDELBERG UNIVERSITY  
 > [prj](https://compvis.github.io/taming-transformers/)  
+
+[Colorization Transformer](https://openreview.net/forum?id=5NA1PinlGFu)
+> ICLR 2021 under review  
 
 ## Continuous Representation
 
