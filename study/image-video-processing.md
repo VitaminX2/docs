@@ -6,10 +6,6 @@
 > Benedicte Bascle, Andrew Blake, Andrew Zisserman  
 > ECCV 1996
 
-[Image Processing on Mobile Devices: An Overview](https://ieeexplore.ieee.org/document/7043267)  
-> Rafika Thabet, Ramzi Mahmoudi, Mohamed Hedi Bedoui  
-> IPAS 2014
-
 [Learning a Deep Convolutional Network for Image Super-Resolution](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e/Lecture-Notes-in-Computer-Science.pdf)
 > Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang  
 > ECCV 2014  
@@ -34,7 +30,6 @@
 > Chunwei Tian, LunkeFei, Wenxian Zheng, Yong Xu, Wangmeng Zuo, Chia-Wen Lin  
 > Neural Network 2020  
 
-
 [AutoML: A survey of the state-of-the-art](https://www.sciencedirect.com/science/article/pii/S0950705120307516)  
 > Xin He, Kaiyong Zhao, Xiaowen Chu  
 > Knowledge-Based Systems 2021
@@ -45,60 +40,59 @@
 [Amazon SageMaker Autopilot: a white box AutoML solution at scale](https://arxiv.org/abs/2012.08483)
 
 
-
 ## Mobile/Edge Computing
-
-
-[Interactive image filtering with multiple levels-of-control on mobile devices](https://dl.acm.org/doi/abs/10.1145/2999508.2999521)  
-> SG 2016 Mobile Graphics and Interactive Applications
 
 [FEQE: Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
 > Thang Vu, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, Chang D. Yoo  
 > ECCV W/S 2018
 
-[Efficient Single Image Super-Resolution via Hybrid Residual Feature Learning with Compact Back-Projection Network](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LPCV/Zhu_Efficient_Single_Image_Super-Resolution_via_Hybrid_Residual_Feature_Learning_with_ICCVW_2019_paper.pdf)  
+[AWSRN: Lightweight Image Super-Resolution with Adaptive Weighted Learning Network](https://arxiv.org/abs/1904.02358)  
+> Chaofeng Wang, Zheng Li, Jun Shi  
+> 2019
+
+[CBPN: Efficient Single Image Super-Resolution via Hybrid Residual Feature Learning with Compact Back-Projection Network](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LPCV/Zhu_Efficient_Single_Image_Super-Resolution_via_Hybrid_Residual_Feature_Learning_with_ICCVW_2019_paper.pdf)  
+> Feiyang Zhu, Qijun Zhao  
 > ICCV W/S 2019
 
 [MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors](https://dl.acm.org/doi/abs/10.1145/3300061.3345455)  
-> MobiCom 2019
+> Royson Lee†, Stylianos I. Venieris† Łukasz Dudziak†, Sourav Bhattacharya†, Nicholas D. Lane†,‡  
+> †Samsung AI Center Cambridge, ‡University of Oxford  
+> MobiCom 2019  
 
-[SRNPU: An Energy-Efficient CNN-Based Super-Resolution Processor With Tile-Based Selective Super-Resolution in Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9159619)  
+[SRNPU: An Energy-Efficient CNN-Based Super-Resolution Processor With Tile-Based Selective Super-Resolution in Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9159619)
+> Juhyoung Lee, Jinsu Lee, Hoi-Jun Yoo  
 > IEEE J. E&ST in C&S 2020
 
-[Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/abs/10.1145/3372224.3419192)  
-> MobiCom 2020
-
 [Lightweight Image Super-Resolution With Mobile Share-Source Network](https://ieeexplore.ieee.org/document/9045996)  
+> Juan Du, Wenlan Wei, Cien Fan, Lian Zou, Jiawei Shen, Ziyu Zhou, Zezong Chen  
 > IEEE Access 2020
 
-[Multi-Attention Based Ultra Lightweight Image Super-Resolution](https://arxiv.org/abs/2008.12912)  
+[MAFFSRN: Multi-Attention Based Ultra Lightweight Image Super-Resolution](https://arxiv.org/abs/2008.12912)  
 > A. Muqeet, J. Hwang, S. Yang, J. Kang, Y. Kim, S.-H. Bae  
 > ECCV W/S AIM2020  
 
 [MADNet: A Fast and Lightweight Network for Single-Image Super Resolution](https://ieeexplore.ieee.org/abstract/document/9023942)  
 > IEEE T. Cybernetics 2020
 
-[Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning](https://arxiv.org/abs/2011.06773)  
+[AAF: Lightweight Single-Image Super-Resolution Network with Attentive Auxiliary Feature Learning](https://arxiv.org/abs/2011.06773)  
 > ACCV 2020
 
 [LAPAR: Linearly-Assembled Pixel-Adaptive Regression Network for Single Image Super-Resolution and Beyond](https://papers.nips.cc/paper/2020/hash/eaae339c4d89fc102edd9dbdb6a28915-Abstract.html)  
+> Wenbo Li, Kun Zhou, Lu Qi, Nianjuan Jiang, Jiangbo Lu, Jiaya Jia  
 > NeurIPS 2020
 
-[ShiftAddNet: A Hardware-Inspired Deep Network](https://arxiv.org/abs/2010.12785)  
-> NeurIPS 2020
-
-[Lightweight Image Super-Resolution Reconstruction With Hierarchical Feature-Driven Network](https://ieeexplore.ieee.org/abstract/document/9191110)  
+[HFDN: Lightweight Image Super-Resolution Reconstruction With Hierarchical Feature-Driven Network](https://ieeexplore.ieee.org/abstract/document/9191110)  
+> Wen Li, Sumei Li  
 > ICIP 2020  
-> MAC 비교 없음.
+>> MAC 비교 없음.
 
 [MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution](https://arxiv.org/abs/2011.04566)  
+> Armin Mehri, Parichehr B.Ardakani, Angel D.Sappa  
 > WACV 2021  
-> SoTA 수치확인
-
-[Lightweight Image Super-Resolution with Adaptive Weighted Learning Network](https://arxiv.org/abs/1904.02358)  
-> 2019
+>> SoTA 수치확인
 
 [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/abs/2009.08891)  
+> Dehua Song, Yunhe Wang, Hanting Chen, Chang Xu, Chunjing Xu, DaCheng Tao  
 > Noah's Ark Lab, Huawei Technologies  
 > 2020
 
@@ -106,11 +100,10 @@
 > Eyal Cidon, Evgenya Pergament, Zain Asgar, Asaf Cidon, Sachin Katti  
 > 2020
 
-
 [Hierarchical Residual Attention Network for Single Image Super-Resolution](https://arxiv.org/abs/2012.04578)  
 > Parichehr Behjati, Pau Rodriguez, Armin Mehri, Isabelle Hupont, Carles Fernández Tena, Jordi Gonzalez  
 > arxiv 2020  
-> Parameter size만 있고, MACs 비교는 전혀 없다.
+>> Parameter size만 있고, MACs 비교는 전혀 없다.
 
 ## NAS & AutoML
 
@@ -120,25 +113,31 @@
 > ICML 2018  
 
 [Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising](https://arxiv.org/abs/1909.08228)  
+> Haokui Zhang, Ying Li, Hao Chen, Chunhua Shen  
 > CVPR 2020
 
 [CARS: Continuous Evolution for Efficient Neural Architecture Search](https://arxiv.org/abs/1909.04977)  
+> Zhaohui Yang, Yunhe Wang, Xinghao Chen, Boxin Shi, Chao Xu, Chunjing Xu, Qi Tian, Chang Xu  
 > CVPR 2020
 
 [SGAS: Sequential Greedy Architecture Search](https://arxiv.org/abs/1912.00195)  
+> Guohao Li, Guocheng Qian, Itzel C. Delgadillo, Matthias Müller, Ali Thabet, Bernard Ghanem  
 > CVPR 2020
 
 [MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation](https://arxiv.org/abs/2003.12238)  
+> Chaoyang He, Haishan Ye, Li Shen, Tong Zhang  
 > CVPR 2020
 
 [Superkernel Neural Architecture Search for Image Denoising](https://arxiv.org/abs/2004.08870)  
-> CVPRW 2020
+> Marcin Możejko, Tomasz Latkowski, Łukasz Treszczotko, Michał Szafraniuk, Krzysztof Trojanowski  
+> CVPR W/S 2020
 
 [FARSR: Fast Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261)  
 > Xiangxiang Chu, Bo Zhang, Hailong Ma, Ruijun Xu, Qingyuan Li  
 > ICPR 2020
 
 [Hierarchical Neural Architecture Search for Single Image Super-Resolution](https://arxiv.org/abs/2003.04619)  
+> Yong Guo, Yongsheng Luo, Zhenhao He, Jin Huang, Jian Chen  
 > IEEE Signal Processing Letters 2020
 
 [Journey Towards Tiny Perceptual Super-Resolution](https://arxiv.org/abs/2007.04356)  
@@ -147,6 +146,8 @@
 > RL 기반이고, Perceptural SR들이랑만 비교해서 약간 아쉽네..
 
 [Real Image Super Resolution Via Heterogeneous Model using GP-NAS](https://arxiv.org/abs/2009.01371)  
+> Zhihong Pan, Baopu Li, Teng Xi, Yanwen Fan, Gang Zhang, Jingtuo Liu, Junyu Han, Errui Ding  
+> Baidu  
 > ECCV 2020 W/S AIM
 
 [CLEARER: Multi-Scale Neural Architecture Search for Image Restoration](https://proceedings.neurips.cc//paper/2020/hash/c6e81542b125c36346d9167691b8bd09-Abstract.html)  
@@ -220,11 +221,10 @@
 > Vikram Singh, Akshay Sharma, Sudharshann Devanathan, Anurag Mittal;  
 > WACV 2020  
 
-### dataset?
+### SR Dataset
 
-Paperswithcode.com기준으로는 vid4가 가장 많이 활용되는거 같고, Vimeo90k는 별로 활용되진 않는다.
-Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
-> EVRNet이 괜찮은 Table이 있어서 좋은데...
+Image Super-Resolution은 DIV2K로 학습하고, Set5등 4개의 Test Set 존재
+Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Set 존재
 그외엔, Youku-VESR이라는 challenge가 있는듯. Alibaba쪽인데 DB링크가 없는듯...
 
 ## Blur
@@ -244,6 +244,27 @@ Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
 > Samuel W. Hasinoff, Ryan  Geiss, Andrew  Adams, Jonathan T. Barron, Florian  Kainz, Jiawen Chen, Marc S Levoy  
 > ACM TOG 2016  
 
+[Practical Deep Raw Image Denoising on Mobile Devices](https://arxiv.org/abs/2010.06935)
+> Yuzhi Wang, Haibin Huang, Qin Xu, Jiaming Liu, Yiqun Liu, Jue Wang  
+> Tsinghua, Megvii Technology  
+> ECCV 2020   
+>> 전체적인 방향이 최재석 전문 하려는 방향과 관련성이 있음.  
+
+[A Decoupled Learning Scheme for Real-world Burst Denoising from Raw Images](https://www4.comp.polyu.edu.hk/~cslzhang/paper/conf/ECCV20/BDNet.pdf)
+> Zhetong Liang1,2, Shi Guo1,2, Hong Gu3, Huaqi Zhang3, and Lei Zhang1,2   
+> 1 Department of Computing, The Hong Kong Polytechnic University 2 DAMO Academy, Alibaba Group 3 vivo Mobile Communication Co., Ltd   
+> ECCV 2020  
+
+[A Physics-Based Noise Formation Model for Extreme Low-Light Raw Denoising](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.html)
+> Kaixuan Wei, Ying Fu, Jiaolong Yang, Hua Huang  
+> CVPR 2020  
+
+[Learning an Adaptive Model for Extreme Low-light Raw Image Processing](https://arxiv.org/abs/2004.10447)
+> Qingxu Fu, Xiaoguang Di, Yu Zhang  
+
+[Burst Photography for Learning to Enhance Extremely Dark Images](https://arxiv.org/abs/2006.09845)
+> Ahmet Serdar Karadeniz, Erkut Erdem, Aykut Erdem  
+
 [Low-Light Color Imaging via Dual Camera Acquisition](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Low-light_Color_Imaging_via_Dual_Camera_Acquisition_ACCV_2020_paper.html)  
 > ACCV 2020
 
@@ -253,6 +274,7 @@ Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
 
 [Low-light Image Restoration with Short- and Long-exposure Raw Pairs](https://arxiv.org/abs/2007.00199)
 > Meng Chang, Huajun Feng, Zhihai Xu, Qi Li  
+>> Baseline으로 검토해볼만함.
 
 [Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping](https://arxiv.org/abs/2007.09187)
 > Danai Triantafyllidou, Sean Moran, Steven McDonagh, Sarah Parisot, Gregory Slabaugh  
@@ -366,7 +388,7 @@ Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
 [HDR Denoising and Deblurring by Learning Spatio-temporal Distortion Models](https://arxiv.org/abs/2012.12009)
 > Uğur Çoğalan, Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel  
 
-## Dual Pixel
+## Dual Pixel and Color Filter Array
 
 [Learning Single Camera Depth Estimation using Dual-Pixels](https://arxiv.org/abs/1904.05822)  
 > Rahul Garg, Neal Wadhwa, Sameer Ansari, Jonathan T. Barron  
@@ -392,6 +414,10 @@ Vimeo90K는 video interpolation에서 더 많이 활용되는 듯.
 
 [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/abs/2012.03255)  
 > Abdullah Abuolaim, Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar
+
+[Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array](https://openaccess.thecvf.com/content/ACCV2020/html/Suda_Deep_Snapshot_HDR_Imaging_Using_Multi-Exposure_Color_Filter_Array_ACCV_2020_paper.html)
+> Takeru Suda, Masayuki Tanaka, Yusuke Monno, Masatoshi Okutomi;  
+> ACCV 2020  
 
 ## Transformers
 
