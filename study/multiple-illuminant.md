@@ -164,6 +164,10 @@
 > Caglar Aytekin, Jarno Nikkanen, Moncef Gabbouj  
 > TIP 2017  
 
+[A Dataset of Multi-Illumination Images in the Wild](https://arxiv.org/abs/1910.08131)
+> Lukas Murmann, Michael Gharbi, Miika Aittala, Fredo Durand  
+> ICCV 2019  
+
 
 [2nd International Illumination Estimation Challenge](http://chromaticity.iitp.ru/)
 > Kharkevich Institute for Information Transmission Problems  
