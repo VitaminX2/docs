@@ -102,10 +102,11 @@
 [PVA: Pixel-aligned Volumetric Avatars](https://arxiv.org/abs/2101.02697)
 > Amit Raj, Michael Zollhoefer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi  
 > GIT, Facebook Reality Labs  
-
-
-
 > [prj](https://portrait-nerf.github.io/)
+
+[Gradient Origin Networks](https://arxiv.org/abs/2007.02798)
+> Sam Bond-Taylor, Chris G. Willcocks  
+> ICLR 2021  
 
 ## Neural Scene Representation and Rendering
 
