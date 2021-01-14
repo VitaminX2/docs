@@ -247,6 +247,16 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 > Samuel W. Hasinoff, Ryan  Geiss, Andrew  Adams, Jonathan T. Barron, Florian  Kainz, Jiawen Chen, Marc S Levoy  
 > ACM TOG 2016  
 
+[Learning to See in the Dark](https://arxiv.org/abs/1805.01934)
+> Chen Chen, Qifeng Chen, Jia Xu, Vladlen Koltun  
+> CVPR 2018  
+>> The dataset contains both indoor and outdoor images.
+>> The outdoor images were generally captured at night, under moonlight or street lighting.
+>> The illuminance at the camera in the outdoor scenes is generally between 0.2 lux and 5 lux.
+>> The indoor images are even darker.
+>> They were captured in closed rooms with regular lights turned off and with faint indirect illumination set up for this purpose.
+>> The illuminance at the camera in the indoor scenes is generally between 0.03 lux and 0.3 lux.
+
 [Handheld mobile photography in very low light](https://dl.acm.org/doi/abs/10.1145/3355089.3356508)
 > ORLY LIBA, KIRAN MURTHY, YUN-TA TSAI, TIM BROOKS, TIANFAN XUE, NIKHIL KARNAD, QIURUI HE, JONATHAN T. BARRON, DILLON SHARLET, RYAN GEISS, SAMUEL W. HASINOFF, YAEL PRITCH, and MARC LEVOY   
 > ACM TOG 2019  
