@@ -210,3 +210,14 @@
 [Improving Color Reproduction Accuracy on Cameras](https://openaccess.thecvf.com/content_cvpr_2018/html/Karaimer_Improving_Color_Reproduction_CVPR_2018_paper.html)
 > Hakki Can Karaimer, Michael S. Brown;  
 > CVPR 2018  
+
+## FACE
+
+[Color Constancy Using Faces](https://ieeexplore.ieee.org/document/6247659)
+> Simone Bianco; Raimondo Schettini  
+> CVPR 2012  
+
+[Adaptive Color Constancy Using Faces](https://ieeexplore.ieee.org/document/6701394)
+> Simone Bianco; Raimondo Schettini  
+> TPAMI 2014  
+
