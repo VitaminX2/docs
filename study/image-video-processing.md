@@ -420,24 +420,23 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 > ICCP 2020  
 
 [Single-Shot Face Anti-Spoofing for Dual Pixel Camera](https://ieeexplore.ieee.org/abstract/document/9248008)  
-> IEEE T. Information Forensics and Security 2020
+> IEEE T. Information Forensics and Security 2020  
 
 [Du2Net: Learning Depth Estimation from Dual-Cameras and Dual-Pixels](https://arxiv.org/abs/2003.14299)
 
 [Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration](https://arxiv.org/abs/2012.00301)
 
 [Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)  
-> Abdullah Abuolaim, Michael S. Brown
+> Abdullah Abuolaim, Michael S. Brown  
 
 [Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/abs/2012.03255)  
-> Abdullah Abuolaim, Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar
+> Abdullah Abuolaim, Mauricio Delbracio, Damien Kelly, Michael S. Brown, Peyman Milanfar  
 
 [Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array](https://openaccess.thecvf.com/content/ACCV2020/html/Suda_Deep_Snapshot_HDR_Imaging_Using_Multi-Exposure_Color_Filter_Array_ACCV_2020_paper.html)
 > Takeru Suda, Masayuki Tanaka, Yusuke Monno, Masatoshi Okutomi;  
 > ACCV 2020  
 
 ## Transformers
-
 
 [Spatio-Temporal Transformer Network for Video Restoration](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)
 > Tae Hyun Kim1,2 , Mehdi S. M. Sajjadi1,3 , Michael Hirsch1,4† , Bernhard Sch¨olkopf1  
@@ -446,4 +445,17 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
 > PATRICK ESSER*, ROBIN ROMBACH*, BJÖRN OMMER  
 > [code](https://github.com/CompVis/taming-transformers)  
+
+## Mixed Precision
+
+[Rethinking Differentiable Search for Mixed-Precision Neural Networks](https://arxiv.org/abs/2004.05795v1)
+> Zhaowei Cai, Nuno Vasconcelos  
+> CVPR 2020  
+
+[A Reduced-Precision Network for Image Reconstruction](https://creativecoding.soe.ucsc.edu/QW-Net/)
+> Manu Mathew Thomas, Karthik Vaidyanathan, Gabor Liktor, and Angus G. Forbes  
+> ACM Trans. Graph (Proc. SIGGRAPH Asia), 39(6):231, 2020.  
+
+[DAQ: Distribution-Aware Quantization for Deep Image Super-Resolution Networks](https://arxiv.org/abs/2012.11230)
+> Cheeun Hong, Heewon Kim, Junghun Oh, Kyoung Mu Lee  
 
