@@ -45,7 +45,6 @@
 [Mixed Precision Quantization of ConvNets via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.00090)
 > Bichen Wu, Yanghan Wang, Peizhao Zhang, Yuandong Tian, Peter Vajda, Kurt Keutzer  
 
-
 [Rethinking Differentiable Search for Mixed-Precision Neural Networks](https://arxiv.org/abs/2004.05795v1)
 > Zhaowei Cai, Nuno Vasconcelos  
 > CVPR 2020  
