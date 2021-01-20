@@ -110,6 +110,10 @@
 
 ## Neural Scene Representation and Rendering
 
+[Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)
+> Zhiqin Chen, Hao Zhang  
+> CVPR 2019  
+
 [DeepVoxels: Learning Persistent 3D Feature Embeddings ](https://arxiv.org/abs/1812.01024)  
 > CVPR 2019 (ORAL)  
 > [prj](https://vsitzmann.github.io/deepvoxels/)
@@ -129,9 +133,17 @@
 > CVPR 2019  
 > [prj](https://shunsukesaito.github.io/PIFu/)
 
+[PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452)
+> Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo  
+> [prj](https://shunsukesaito.github.io/PIFuHD/)  
+
 [Neural Volumes: Learning Dynamic Renderable Volumes from Images ](https://arxiv.org/abs/1906.07751)  
 > SIGGRAPH 2019  
 > [prj](https://github.com/facebookresearch/neuralvolumes)
+
+[DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction](https://arxiv.org/abs/1905.10711)
+> Qiangeng Xu, Weiyue Wang, Duygu Ceylan, Radomir Mech, Ulrich Neumann  
+> NeurIPS 2019  
 
 [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations ](https://arxiv.org/abs/1906.01618)  
 > NeurIPS 2019 (ORAL Honorable Mention "Outstanding New Directions")  
