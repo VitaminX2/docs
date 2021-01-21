@@ -178,6 +178,10 @@
 > Huawei Noah's Ark  
 > AAAI 2020  
 
+[SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices](https://arxiv.org/abs/2101.07996)
+> Xin Liu, Yuang Li, Josh Fromm, Yuntao Wang, Ziheng Jiang, Alex Mariakakis, Shwetak Patel  
+> ACM Interact. Mobile. Wearable 2021  
+
 ## Super-Resolution
 
 [Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](https://arxiv.org/abs/2004.00448)
@@ -272,9 +276,6 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 > 1 Department of Computing, The Hong Kong Polytechnic University 2 DAMO Academy, Alibaba Group 3 vivo Mobile Communication Co., Ltd   
 > ECCV 2020  
 
-[A Physics-Based Noise Formation Model for Extreme Low-Light Raw Denoising](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.html)
-> Kaixuan Wei, Ying Fu, Jiaolong Yang, Hua Huang  
-> CVPR 2020  
 
 [Learning an Adaptive Model for Extreme Low-light Raw Image Processing](https://arxiv.org/abs/2004.10447)
 > Qingxu Fu, Xiaoguang Di, Yu Zhang  
@@ -366,7 +367,6 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 [Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator](https://arxiv.org/abs/2002.05022)  
 > DAC 2020
 
-[Adaptive noise imitation for image denoising](https://arxiv.org/abs/2011.14512)
 
 [A Generalization of Otsu's Method and Minimum Error Thresholding,](https://arxiv.org/abs/2007.07350)  
 > Jonathan T. Barron  
@@ -435,6 +435,22 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 [Deep Snapshot HDR Imaging Using Multi-Exposure Color Filter Array](https://openaccess.thecvf.com/content/ACCV2020/html/Suda_Deep_Snapshot_HDR_Imaging_Using_Multi-Exposure_Color_Filter_Array_ACCV_2020_paper.html)
 > Takeru Suda, Masayuki Tanaka, Yusuke Monno, Masatoshi Okutomi;  
 > ACCV 2020  
+
+## Denoise
+
+[Reconstructing the Noise Manifold for Image Denoising](https://arxiv.org/abs/2002.04147)
+> Ioannis Marras, Grigorios G. Chrysos, Ioannis Alexiou, Gregory Slabaugh, Stefanos Zafeiriou  
+> ECCV 2020  
+
+[Basis Prediction Networks for Effective Burst Denoising with Large Kernels](https://arxiv.org/abs/1912.04421v1)
+> Zhihao Xia, Federico Perazzi, Michaël Gharbi, Kalyan Sunkavalli, Ayan Chakrabarti  
+> CVPR 2020  
+
+[A Physics-Based Noise Formation Model for Extreme Low-Light Raw Denoising](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.html)
+> Kaixuan Wei, Ying Fu, Jiaolong Yang, Hua Huang  
+> CVPR 2020  
+
+[Adaptive noise imitation for image denoising](https://arxiv.org/abs/2011.14512)
 
 ## Transformers
 
