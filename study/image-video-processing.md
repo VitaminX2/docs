@@ -43,7 +43,15 @@
 [Amazon SageMaker Autopilot: a white box AutoML solution at scale](https://arxiv.org/abs/2012.08483)
 
 
-## Mobile/Edge Computing
+## Super-Resolution
+
+### General
+
+[Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](https://arxiv.org/abs/2004.00448)
+> Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn  
+> CVPR 2020  
+
+### Efficient and Lightweight Architecture for Mobile/Edge
 
 [FEQE: Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
 > Thang Vu, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, Chang D. Yoo  
@@ -108,7 +116,12 @@
 > arxiv 2020  
 >> Parameter size만 있고, MACs 비교는 전혀 없다.
 
-## NAS & AutoML
+[SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices](https://arxiv.org/abs/2101.07996)
+> Xin Liu, Yuang Li, Josh Fromm, Yuntao Wang, Ziheng Jiang, Alex Mariakakis, Shwetak Patel  
+> ACM Interact. Mobile. Wearable 2021  
+
+
+### NAS & AutoML
 
 [Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search](https://arxiv.org/abs/1803.00370)
 > Masanori Suganuma, Mete Ozay, Takayuki Okatani  
@@ -178,17 +191,8 @@
 > Huawei Noah's Ark  
 > AAAI 2020  
 
-[SplitSR: An End-to-End Approach to Super-Resolution on Mobile Devices](https://arxiv.org/abs/2101.07996)
-> Xin Liu, Yuang Li, Josh Fromm, Yuntao Wang, Ziheng Jiang, Alex Mariakakis, Shwetak Patel  
-> ACM Interact. Mobile. Wearable 2021  
 
-## Super-Resolution
-
-[Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy](https://arxiv.org/abs/2004.00448)
-> Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn  
-> CVPR 2020  
-
-## Video Super-Resolution
+### Video Super-Resolution
 
 [Fast Spatio-Temporal Residual Network for Video Super-Resolution](https://arxiv.org/abs/1904.02870)
 > Sheng Li, Fengxiang He, Bo Du, Lefei Zhang, Yonghao Xu, Dacheng Tao  
@@ -304,7 +308,7 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 > ICIP 2020  
 
 
-## Video
+## Video Restoration and Enhancement
 
 [Space-Time-Aware Multi-Resolution Video Enhancement](https://arxiv.org/abs/2003.13170)  
 > CVPR 2020
@@ -326,7 +330,7 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 > MM 2020
 
 
-## Dataset
+## Image Processing Dataset
 
 
 [ImagePairs: Realistic Super Resolution Dataset via Beam Splitter Camera Rig](https://arxiv.org/abs/2004.08513)  
@@ -334,71 +338,6 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 
 [Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms](http://cg.postech.ac.kr/research/realblur/)  
 > ECCV 2020
-
-## Others
-
-[Depth from motion for smartphone AR](https://dl.acm.org/doi/abs/10.1145/3272127.3275041)  
-> ACM TOG 2018
-
-[Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)  
-> Neal Wadhwa, Rahul Garg, David E. Jacobs, Bryan E. Feldman, Nori Kanazawa, Robert Carroll, Yair Movshovitz-Attias, Jonathan T. Barron, Yael Pritch, Marc Levoy  
-> SIGGRAPH 2018  
-
-[Burst Denoising with Kernel Prediction Networks](https://arxiv.org/abs/1712.02327)  
-> Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll  
-> CVPR 2018 (SPOTLIGHT)  
-
-[A Theory of Depth From Differential Defocus](https://dash.harvard.edu/handle/1/41121273)  
-> Alexander, Emma. 2019. A Theory of Depth From Differential Defocus. Doctoral dissertation, Harvard University
-
-[Single Image Portrait Relighting,](https://arxiv.org/abs/1905.00824)  
-> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi  
-> SIGGRAPH 2019  
-
-[Handheld multi-frame super-resolution](https://arxiv.org/abs/1905.03277)  
-> ACM TOG 2019
-
-[Handheld Mobile Photography in Very Low Light](https://arxiv.org/abs/1910.11336)  
-> Orly Liba, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He, Jonathan T. Barron, Dillon Sharlet, Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy  
-> ACM TOG 2019  
-
-
-
-[Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator](https://arxiv.org/abs/2002.05022)  
-> DAC 2020
-
-
-[A Generalization of Otsu's Method and Minimum Error Thresholding,](https://arxiv.org/abs/2007.07350)  
-> Jonathan T. Barron  
-> ECCV 2020  
-
-[Learning to Autofocus](https://arxiv.org/abs/2004.12260)  
-> Charles Herrmann, Richard Strong Bowen, Neal Wadhwa, Rahul Garg, Qiurui He, Jonathan T. Barron, Ramin Zabih
-> CVPR 2020  
-
-[Perceptual Quality Assessment of Smartphone Photography](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.html)  
-> Yuming Fang, Hanwei Zhu, Yan Zeng, Kede Ma, Zhou Wang  
-> CVPR 2020  
-
-[AF-Net: A Convolutional Neural Network Approach to Phase Detection Autofocus](https://ieeexplore.ieee.org/abstract/document/9130390)  
-> TIP 2020
-
-[Single-Image Lens Flare Removal](https://arxiv.org/abs/2011.12485)  
-> Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan T. Barron
-
-[Projected Distribution Loss for Image Enhancement](https://arxiv.org/abs/2012.09289)  
-> Mauricio Delbracio, Hossein Talebi, Peyman Milanfar
-
-[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)  
-> [prj](https://yinboc.github.io/liif/)
-
-[KOALAnet: Blind Super-Resolution using Kernel-Oriented Adaptive Local Adjustment](https://arxiv.org/abs/2012.08103)
-> Soo Ye Kim, Hyeonjun Sim, Munchurl Kim
-
-[GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution](https://ckkelvinchan.github.io/projects/GLEAN/)
-
-[Learned Dual-View Reflection Removal](https://arxiv.org/abs/2010.00702)  
-> Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue
 
 ## HDR
 
@@ -438,6 +377,10 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 
 ## Denoise
 
+[Burst Denoising with Kernel Prediction Networks](https://arxiv.org/abs/1712.02327)  
+> Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll  
+> CVPR 2018 (SPOTLIGHT)  
+
 [Reconstructing the Noise Manifold for Image Denoising](https://arxiv.org/abs/2002.04147)
 > Ioannis Marras, Grigorios G. Chrysos, Ioannis Alexiou, Gregory Slabaugh, Stefanos Zafeiriou  
 > ECCV 2020  
@@ -474,4 +417,67 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 
 [DAQ: Distribution-Aware Quantization for Deep Image Super-Resolution Networks](https://arxiv.org/abs/2012.11230)
 > Cheeun Hong, Heewon Kim, Junghun Oh, Kyoung Mu Lee  
+
+## Others
+
+[Deep joint demosaicking and denoising](https://dl.acm.org/doi/10.1145/2980179.2982399)
+> Michaël Gharbi, Gaurav Chaurasia Sylvain  Paris, Frédo Durand  
+> ACM ToG 2016  
+
+[Depth from motion for smartphone AR](https://dl.acm.org/doi/abs/10.1145/3272127.3275041)  
+> ACM TOG 2018
+
+[Synthetic Depth-of-Field with a Single-Camera Mobile Phone](https://arxiv.org/abs/1806.04171)  
+> Neal Wadhwa, Rahul Garg, David E. Jacobs, Bryan E. Feldman, Nori Kanazawa, Robert Carroll, Yair Movshovitz-Attias, Jonathan T. Barron, Yael Pritch, Marc Levoy  
+> SIGGRAPH 2018  
+
+
+[A Theory of Depth From Differential Defocus](https://dash.harvard.edu/handle/1/41121273)  
+> Alexander, Emma. 2019. A Theory of Depth From Differential Defocus. Doctoral dissertation, Harvard University
+
+[Single Image Portrait Relighting,](https://arxiv.org/abs/1905.00824)  
+> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi  
+> SIGGRAPH 2019  
+
+[Handheld multi-frame super-resolution](https://arxiv.org/abs/1905.03277)  
+> ACM TOG 2019
+
+[Handheld Mobile Photography in Very Low Light](https://arxiv.org/abs/1910.11336)  
+> Orly Liba, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He, Jonathan T. Barron, Dillon Sharlet, Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy  
+> ACM TOG 2019  
+
+[Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator](https://arxiv.org/abs/2002.05022)  
+> DAC 2020
+
+[A Generalization of Otsu's Method and Minimum Error Thresholding,](https://arxiv.org/abs/2007.07350)  
+> Jonathan T. Barron  
+> ECCV 2020  
+
+[Learning to Autofocus](https://arxiv.org/abs/2004.12260)  
+> Charles Herrmann, Richard Strong Bowen, Neal Wadhwa, Rahul Garg, Qiurui He, Jonathan T. Barron, Ramin Zabih
+> CVPR 2020  
+
+[Perceptual Quality Assessment of Smartphone Photography](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.html)  
+> Yuming Fang, Hanwei Zhu, Yan Zeng, Kede Ma, Zhou Wang  
+> CVPR 2020  
+
+[AF-Net: A Convolutional Neural Network Approach to Phase Detection Autofocus](https://ieeexplore.ieee.org/abstract/document/9130390)  
+> TIP 2020
+
+[Single-Image Lens Flare Removal](https://arxiv.org/abs/2011.12485)  
+> Yicheng Wu, Qiurui He, Tianfan Xue, Rahul Garg, Jiawen Chen, Ashok Veeraraghavan, Jonathan T. Barron
+
+[Projected Distribution Loss for Image Enhancement](https://arxiv.org/abs/2012.09289)  
+> Mauricio Delbracio, Hossein Talebi, Peyman Milanfar
+
+[Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)  
+> [prj](https://yinboc.github.io/liif/)
+
+[KOALAnet: Blind Super-Resolution using Kernel-Oriented Adaptive Local Adjustment](https://arxiv.org/abs/2012.08103)
+> Soo Ye Kim, Hyeonjun Sim, Munchurl Kim
+
+[GLEAN: Generative LatEnt BANk for Large-Factor Image Super-Resolution](https://ckkelvinchan.github.io/projects/GLEAN/)
+
+[Learned Dual-View Reflection Removal](https://arxiv.org/abs/2010.00702)  
+> Simon Niklaus, Xuaner Cecilia Zhang, Jonathan T. Barron, Neal Wadhwa, Rahul Garg, Feng Liu, Tianfan Xue
 
