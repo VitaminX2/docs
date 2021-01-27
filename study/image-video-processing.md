@@ -51,6 +51,9 @@
 > Jaejun Yoo, Namhyuk Ahn, Kyung-Ah Sohn  
 > CVPR 2020  
 
+[Deep Burst Super-Resolution](https://arxiv.org/abs/2101.10997)
+> Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte  
+
 ### Efficient and Lightweight Architecture for Mobile/Edge
 
 [FEQE: Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf)
