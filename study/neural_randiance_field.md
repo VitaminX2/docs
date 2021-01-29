@@ -95,10 +95,6 @@
 > Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser  
 > [prj](https://shellguo.com/osf/)
 
-[Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)  
-> Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang  
-> [prj](http://www.cs.cornell.edu/~zl548/NSFF/)
-
 [Neural Reflectance Fields for Appearance Acquisition](https://arxiv.org/abs/2008.03824)
 > Sai Bi, Zexiang Xu, Pratul Srinivasan, Ben Mildenhall, Kalyan Sunkavalli, Miloš Hašan, Yannick Hold-Geoffroy, David Kriegman, Ravi Ramamoorthi  
 
@@ -212,8 +208,16 @@
 [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994)
 > Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler  
 
+[MetaSDF: Meta-learning Signed Distance Functions](https://arxiv.org/abs/2006.09662)
+> Vincent Sitzmann, Eric R. Chan, Richard Tucker, Noah Snavely, Gordon Wetzstein  
+
+
 ## Implicit Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
 >  Yinbo Chen, Sifei Liu, Xiaolong Wang  
 > [prj](https://yinboc.github.io/liif/)  
+
+[Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572)
+> Arthur Jacot, Franck Gabriel, Clément Hongler  
+> NeurIPS 2018  

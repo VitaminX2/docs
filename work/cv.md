@@ -4,7 +4,7 @@
 
 * SAIT Research Image Contest 2014, 2nd Prize
 * SAIT Muhantamgu Award 2014, Best Research Project
-* SAIT Achievement Awards 2021 - 3D Volume Rendering Project
+* SAIT Achievement Awards 2020 - 3D Volume Rendering Project
 
 ## Links
 
