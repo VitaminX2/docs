@@ -221,3 +221,12 @@
 > Simone Bianco; Raimondo Schettini  
 > TPAMI 2014  
 
+## Previous Multi-Illumiant DB
+
+* A Multi-illuminant Synthetic Image Test Set (2020 color research and application)
+* Cube++ Illumination Estimation Dataset (2020 IEEE Access)
+* Multi-illuminant in the wild (2019 ICCV)
+* Relighted Gehler-Shi (Single and Multiple Illuminant Estimation using CNN, 2017 TIP)
+* Millan Portrait (Adaptive Color Constancy using Faces, 2014 TPAMI , Unavailable)
+* MIMO (2014 TIP)
+* Multi-Illuminant Dataset (2011 ICCV Workshop)
