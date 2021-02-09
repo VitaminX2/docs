@@ -223,10 +223,29 @@
 
 ## Previous Multi-Illumiant DB
 
-* A Multi-illuminant Synthetic Image Test Set (2020 color research and application)
-* Cube++ Illumination Estimation Dataset (2020 IEEE Access)
-* Multi-illuminant in the wild (2019 ICCV)
-* Relighted Gehler-Shi (Single and Multiple Illuminant Estimation using CNN, 2017 TIP)
+[A multi‐illuminant synthetic image test set](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22535)  
+> Xiangpeng Hao, Brian Funt  
+> Color Research & Application 2020  
+>> Multi-Illuminant Dataset을 만들고 Single Best Illuminant를 정의한다.   
+
+[The Cube++ Illumination Estimation Dataset](https://ieeexplore.ieee.org/abstract/document/9296220)
+> EGOR ERSHOV, ALEXEY SAVCHIK, ILLYA SEMENKOV, NIKOLA BANIĆ, ALEXANDER BELOKOPYTOV, DARIA SENSHINA, KARLO KOŠČEVIĆ, MARKO SUBAŠIĆ, SVEN LONČARIĆ  
+> IEEE Access 2020  
+
+[A Dataset of Multi-Illumination Images in the Wild](https://arxiv.org/abs/1910.08131)
+> Lukas Murmann, Michael Gharbi, Miika Aittala, Fredo Durand  
+> ICCV 2019  
+
+[Single and Multiple Illuminant Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/7942101)
+> Simone Bianco; Claudio Cusano; Raimondo Schettini  
+> TIP 2017
+
+[MIMO: Multi-Illuminant estimation with conditional random fields](https://ieeexplore.ieee.org/document/6637091)
+> S. Beigpour, C. Riess, J. van de Weijer, and E. Angelopoulou  
+> TIP 2014  
+
+[Color constancy and non-uniform illumination: Can existing algorithms work?](https://ieeexplore.ieee.org/document/6130331)
+> Michael Bleier; Christian Riess; Shida Beigpour; Eva Eibenberger; Elli Angelopoulou; Tobias Tröger; André Kaup  
+> ICCV W/S 2011  
+
 * Millan Portrait (Adaptive Color Constancy using Faces, 2014 TPAMI , Unavailable)
-* MIMO (2014 TIP)
-* Multi-Illuminant Dataset (2011 ICCV Workshop)
