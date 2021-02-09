@@ -1,4 +1,4 @@
-# Large Scale Learning for Image Restoration
+# Learning Large Scale Image/Video
 
 ## Overview
 
@@ -62,14 +62,3 @@
 > Aleksander Holynski1, Brian Curless1, Steven M. Seitz1, Richard Szeliski2  
 > 1University of Washington, 2Facebook  
 > [prj](https://eulerian.cs.washington.edu/)
-
-## Large Scale!
-
-[Scaling Laws for Transfer](https://arxiv.org/abs/2102.01293)
-> Danny Hernandez, Jared Kaplan, Tom Henighan, Sam McCandlish  
-
-[Video Transformer Network](https://arxiv.org/abs/2102.00719)
-> Daniel Neimark, Omri Bar, Maya Zohar, Dotan Asselmann  
-
-[CPTR: Full Transformer Network for Image Captioning](https://arxiv.org/abs/2101.10804)
-> Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu  
