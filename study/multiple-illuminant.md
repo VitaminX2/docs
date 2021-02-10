@@ -51,9 +51,17 @@
 > Ivaylo Boyadzhiev, Kavita Bala, Sylvain Paris, Frédo Durand  
 > ToG 2012
 
+[Exemplar-Based Color Constancy and Multiple Illumination](https://ieeexplore.ieee.org/document/6588227)
+> Hamid Reza Vaezi Joze; Mark S. Drew  
+> TPAMI 2013  
+
 [Multi-Illuminant Estimation With Conditional Random Fields](https://ieeexplore.ieee.org/document/6637091)  
 > Shida Beigpour; Christian Riess; Joost van de Weijer; Elli Angelopoulou  
 > TIP 2014
+
+[How Multi-Illuminant Scenes Affect Automatic Colour Balancing](https://www2.cs.sfu.ca/~funt/Xu+Funt+MultiIlluminantScenes_Tokyo_AIC2015.pdf)
+> Liwen XU, Brian FUNT  
+> AIC2015 TOKYO - Color and Image  
 
 [White balance under mixed illumination using flash photography](https://ieeexplore.ieee.org/abstract/document/7492879)  
 > Zhuo Hui; Aswin C. Sankaranarayanan; Kalyan Sunkavalli; Sunil Hadap  
@@ -112,7 +120,7 @@
 > CVPR 2019   
 >> Mean Angle Error를 다루지 않는다...   
 
-[A multi‐illuminant synthetic image test set](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22535)  
+[MIST: A multi‐illuminant synthetic image test set](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22535)  
 > Xiangpeng Hao, Brian Funt  
 > Color Research & Application 2020  
 >> Multi-Illuminant Dataset을 만들고 Single Best Illuminant를 정의한다.   
@@ -139,6 +147,10 @@
 [GEHLER&SHI: Bayesian color constancy revisited](https://ieeexplore.ieee.org/document/4587765)
 > P. V. Gehler, C. Rother, A. Blake, T. Sharp, and T. Minka  
 > CVPR 2008  
+
+[Improved GEHLER&SHI: Rehabilitating the ColorChecker Dataset for Illuminant Estimation](https://arxiv.org/abs/1805.12262)
+> Ghalia Hemrit, Graham D. Finlayson, Arjan Gijsenij, Peter Gehler, Simone Bianco, Brian Funt, Mark Drew, Lilong Shi  
+> Proceedings of the 26th Color and Imaging Conference  
 
 [Color constancy and non-uniform illumination: Can existing algorithms work?](https://ieeexplore.ieee.org/document/6130331)
 > Michael Bleier; Christian Riess; Shida Beigpour; Eva Eibenberger; Elli Angelopoulou; Tobias Tröger; André Kaup  
