@@ -40,6 +40,12 @@
 [Colorization Transformer](https://openreview.net/forum?id=5NA1PinlGFu)
 > ICLR 2021 under review  
 
+[TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/abs/2102.07074)
+> Yifan Jiang, Shiyu Chang, Zhangyang Wang  
+
+[Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
+> Gedas Bertasius, Heng Wang, Lorenzo Torresani  
+
 ## Continuous Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)

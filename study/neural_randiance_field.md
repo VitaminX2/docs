@@ -136,6 +136,11 @@
 > Sam Bond-Taylor, Chris G. Willcocks  
 > ICLR 2021  
 
+[NeRF--](https://arxiv.org/abs/2102.07064)
+> Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu  
+> University of Oxford
+> [prj](https://nerfmm.active.vision/)  
+
 ## Neural Scene Representation and Rendering
 
 [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)
