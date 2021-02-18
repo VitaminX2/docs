@@ -18,6 +18,10 @@
 > Tae Hyun Kim1,2 , S. M. Sajjadi1,3 , Michael Hirsch1,4† , Bernhard Sch¨olkopf1  
 > ECCV 2018  
 
+[Scaling Autoregressive Video Models](https://arxiv.org/abs/1906.02634)
+> Dirk Weissenborn, Oscar Täckström, Jakob Uszkoreit  
+> ICLR 2020  
+
 [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 > Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever   
 > OpenAI  
@@ -45,6 +49,9 @@
 
 [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 > Gedas Bertasius, Heng Wang, Lorenzo Torresani  
+
+[Latent Video Transformer](https://arxiv.org/abs/2006.10704)
+> Ruslan Rakhimov, Denis Volkhonskiy, Alexey Artemov, Denis Zorin, Evgeny Burnaev  
 
 ## Continuous Representation
 
