@@ -14,10 +14,6 @@
 > Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran ;  
 > PMLR 2018  
 
-[Spatio-Temporal Transformer Network for Video Restoration](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)
-> Tae Hyun Kim1,2 , S. M. Sajjadi1,3 , Michael Hirsch1,4† , Bernhard Sch¨olkopf1  
-> ECCV 2018  
-
 [Scaling Autoregressive Video Models](https://arxiv.org/abs/1906.02634)
 > Dirk Weissenborn, Oscar Täckström, Jakob Uszkoreit  
 > ICLR 2020  

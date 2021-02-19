@@ -220,9 +220,18 @@
 ## Implicit Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
->  Yinbo Chen, Sifei Liu, Xiaolong Wang  
+> Yinbo Chen, Sifei Liu, Xiaolong Wang  
 > [prj](https://yinboc.github.io/liif/)  
 
 [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572)
 > Arthur Jacot, Franck Gabriel, Clément Hongler  
 > NeurIPS 2018  
+
+[On the generalization of learning-based 3D reconstruction](https://arxiv.org/abs/2006.15427)
+> Miguel Angel Bautista, Walter Talbott, Shuangfei Zhai, Nitish Srivastava, Joshua M Susskind  
+
+[Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations](https://arxiv.org/abs/2012.06434)
+> Wang Yifan, Shihao Wu, Cengiz Oztireli, Olga Sorkine-Hornung  
+
+[Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
+> Theo W. Costain, Victor Adrian Prisacariu  
