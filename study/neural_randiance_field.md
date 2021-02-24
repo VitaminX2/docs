@@ -141,6 +141,10 @@
 > University of Oxford
 > [prj](https://nerfmm.active.vision/)  
 
+[ShaRF: Shape-conditioned Radiance Fields from a Single View](https://arxiv.org/abs/2102.08860)
+> Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari  
+
+
 ## Neural Scene Representation and Rendering
 
 [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)
@@ -235,3 +239,11 @@
 
 [Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
 > Theo W. Costain, Victor Adrian Prisacariu  
+
+
+## Differentiable Rendering
+
+[UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering](https://arxiv.org/abs/2102.11870)
+> Mohamed El Banani, Luya Gao, Justin Johnson  
+
+

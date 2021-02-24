@@ -49,11 +49,19 @@
 [Latent Video Transformer](https://arxiv.org/abs/2006.10704)
 > Ruslan Rakhimov, Denis Volkhonskiy, Alexey Artemov, Denis Zorin, Evgeny Burnaev  
 
+[Do We Really Need Explicit Position Encodings for Vision Transformers?](https://arxiv.org/abs/2102.10882)
+> Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia  
+
 ## Continuous Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
 > Yinbo Chen, Sifei Liu, Xiaolong Wang  
 > [prj](https://yinboc.github.io/liif/) [code](https://github.com/yinboc/liif)
+
+## ?Q-VAE
+
+[Anytime Sampling for Autoregressive Models via Ordered Autoencoding](https://arxiv.org/abs/2102.11495)
+> Yilun Xu, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon  
 
 ## Related?
 
