@@ -144,6 +144,13 @@
 [ShaRF: Shape-conditioned Radiance Fields from a Single View](https://arxiv.org/abs/2102.08860)
 > Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari  
 
+[Neural 3D Video Synthesis](https://neural-3d-video.github.io/)
+> Tianye Li1,3,*    Mira Slavcheva1,*    Michael Zollhoefer1    Simon Green1    Christoph Lassner1   Changil Kim2    Tanner Schmidt1    Steven Lovegrove1    Michael Goesele1    Zhaoyang Lv1  
+> Facebook Reality, USC  
+
+[IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/abs/2102.13090)
+> Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser  
+
 
 ## Neural Scene Representation and Rendering
 
@@ -220,6 +227,11 @@
 [MetaSDF: Meta-learning Signed Distance Functions](https://arxiv.org/abs/2006.09662)
 > Vincent Sitzmann, Eric R. Chan, Richard Tucker, Noah Snavely, Gordon Wetzstein  
 
+[Mixture of Volumetric Primitives for Efficient Neural Rendering](https://arxiv.org/abs/2103.01954)
+> Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih  
+
+[NeuTex: Neural Texture Mapping for Volumetric Neural Rendering](https://arxiv.org/abs/2103.00762)
+> Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su  
 
 ## Implicit Representation
 
@@ -246,4 +258,7 @@
 [UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering](https://arxiv.org/abs/2102.11870)
 > Mohamed El Banani, Luya Gao, Justin Johnson  
 
+[Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)
+> Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen  
+> CVPR 2021  
 

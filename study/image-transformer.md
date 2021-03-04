@@ -52,6 +52,12 @@
 [Do We Really Need Explicit Position Encodings for Vision Transformers?](https://arxiv.org/abs/2102.10882)
 > Xiangxiang Chu, Bo Zhang, Zhi Tian, Xiaolin Wei, Huaxia Xia  
 
+[Generative Adversarial Transformers](https://arxiv.org/abs/2103.01209)
+> Drew A. Hudson, C. Lawrence Zitnick  
+
+[Transformer in Transformer](https://arxiv.org/abs/2103.00112)
+> Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang  
+
 ## Continuous Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
@@ -90,3 +96,8 @@
 
 [CPTR: Full Transformer Network for Image Captioning](https://arxiv.org/abs/2101.10804)
 > Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu  
+
+## VQVAE
+
+[Predicting Video with VQVAE](https://arxiv.org/abs/2103.01950)
+> Jacob Walker, Ali Razavi, Aäron van den Oord  
