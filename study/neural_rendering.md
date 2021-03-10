@@ -152,6 +152,13 @@
 > Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser  
 
 
+[NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)
+> Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn  
+> CVPR 2021 ORAL  
+
+[DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks](https://arxiv.org/abs/2103.03231)
+> Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger  
+
 ## Neural Scene Representation and Rendering
 
 [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)
