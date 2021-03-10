@@ -159,6 +159,7 @@
 [DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks](https://arxiv.org/abs/2103.03231)
 > Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger  
 
+
 ## Neural Scene Representation and Rendering
 
 [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)
@@ -258,6 +259,18 @@
 
 [Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
 > Theo W. Costain, Victor Adrian Prisacariu  
+
+[Deep Implicit Templates for 3D Shape Representation](https://arxiv.org/abs/2011.14565)
+> Zerong Zheng, Tao Yu, Qionghai Dai, Yebin Liu  
+> CVPR 2021 ORAL  
+
+[Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994)
+> Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler  
+> CVPR 2021 ORAL  
+
+[Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)
+> Tamar Rott Shaham, Michael Gharbi, Richard Zhang, Eli Shechtman, Tomer Michaeli  
+> CVPR 2021  
 
 
 ## Differentiable Rendering
