@@ -273,6 +273,10 @@
 > CVPR 2021  
 
 
+[COIN: COmpression with Implicit Neural representations](https://arxiv.org/abs/2103.03123)
+> Emilien Dupont, Adam Goliński, Milad Alizadeh, Yee Whye Teh, Arnaud Doucet  
+
+
 ## Differentiable Rendering
 
 [UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering](https://arxiv.org/abs/2102.11870)
