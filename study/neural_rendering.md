@@ -191,6 +191,10 @@
 > Qiangeng Xu, Weiyue Wang, Duygu Ceylan, Radomir Mech, Ulrich Neumann  
 > NeurIPS 2019  
 
+[Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126)
+> Kyle Genova, Forrester Cole, Avneesh Sud, Aaron Sarna, Thomas Funkhouser  
+> CVPR 2020  
+
 [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739)  
 > Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng  
 > NeurIPS 2020 (SPOTLIGHT)  
