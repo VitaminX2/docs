@@ -251,9 +251,21 @@
 > Qiangeng Xu, Weiyue Wang, Duygu Ceylan, Radomir Mech, Ulrich Neumann  
 > NeurIPS 2019  
 
+[Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion](https://arxiv.org/abs/2003.01456)
+> Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll  
+> CVPR 2020  
+
+[Local Implicit Grid Representations for 3D Scenes](https://arxiv.org/abs/2003.08981)
+> Chiyu Max Jiang, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Nießner, Thomas Funkhouser  
+> CVPR 2020  
+
 [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126)
 > Kyle Genova, Forrester Cole, Avneesh Sud, Aaron Sarna, Thomas Funkhouser  
 > CVPR 2020  
+
+[Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction](https://arxiv.org/abs/2007.11432)
+> Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll  
+> ECCV 2020 ORAL  
 
 [Neural Unsigned Distance Fields for Implicit Function Learning](https://arxiv.org/abs/2010.13938)  
 > Julian Chibane, Aymen Mir, Gerard Pons-Moll  
