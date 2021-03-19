@@ -370,3 +370,6 @@
 [Trajectory Prediction using Equivariant Continuous Convolution](https://arxiv.org/abs/2010.11344)
 > Robin Walters, Jinxi Li, Rose Yu  
 > ICLR 2021  
+
+[From Discrete to Continuous Convolution Layers](https://arxiv.org/abs/2006.11120)
+> Assaf Shocher, Ben Feinstein, Niv Haim, Michal Irani  
