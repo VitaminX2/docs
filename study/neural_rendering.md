@@ -77,6 +77,11 @@
 [DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks](https://arxiv.org/abs/2103.03231)
 > Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger  
 
+
+[FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380)
+> Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin  
+
+
 ### Dynamic/Deformable/Temporal NeRF
 
 [Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948)  
