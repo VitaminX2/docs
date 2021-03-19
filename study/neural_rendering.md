@@ -205,6 +205,11 @@
 [Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
 > Theo W. Costain, Victor Adrian Prisacariu  
 
+[Hypernetwork functional image representation](https://arxiv.org/abs/1902.10404)
+> Sylwester Klocek, Łukasz Maziarka, Maciej Wołczyk, Jacek Tabor, Jakub Nowak, Marek Śmieja  
+
+
+
 ### 2D Implicit Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
