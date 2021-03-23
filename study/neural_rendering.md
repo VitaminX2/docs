@@ -23,9 +23,9 @@
 > Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth  
 > [prj](https://nerf-w.github.io/)
 
-[DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490)  
-> Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi  
-> [prj](https://ubc-vision.github.io/derf/)
+[GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595)  
+> Alex Trevithick, Bo Yang   
+> [prj](https://github.com/alextrevithick/GRF)
 
 [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492)
 > Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun  
@@ -36,10 +36,6 @@
 [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190)
 > Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa  
 
-[Portrait Neural Radiance Fields from a Single Image](https://arxiv.org/abs/2012.05903)  
-> Chen Gao, Yichang Shih, Wei-Sheng Lai, Chia-Kai Liang, Jia-Bin Huang  
-> [prj](https://portrait-nerf.github.io/)
-
 [NeRD: Neural Reflectance Decomposition from Image Collections](https://arxiv.org/abs/2012.03918)
 > Mark Boss, Raphael Braun, Varun Jampani, Jonathan T. Barron, Ce Liu, Hendrik P.A. Lensch  
 
@@ -47,13 +43,13 @@
 > Pratul P. Srinivasan, Boyang Deng, Xiuming Zhang, Matthew Tancik, Ben Mildenhall, Jonathan T. Barron  
 > [prj](https://people.eecs.berkeley.edu/~pratul/nerv/)
 
-[iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://t.co/8Yd4aYiICg)  
+[iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/abs/2012.05877)  
 > Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin  
 > [prj](https://t.co/Hspnds0iaf)
 
-[GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595)  
-> Alex Trevithick, Bo Yang   
-> [prj](https://github.com/alextrevithick/GRF)
+[Portrait Neural Radiance Fields from a Single Image](https://arxiv.org/abs/2012.05903)  
+> Chen Gao, Yichang Shih, Wei-Sheng Lai, Chia-Kai Liang, Jia-Bin Huang  
+> [prj](https://portrait-nerf.github.io/)
 
 [NeRF--](https://arxiv.org/abs/2102.07064)
 > Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu  
@@ -63,26 +59,47 @@
 [ShaRF: Shape-conditioned Radiance Fields from a Single View](https://arxiv.org/abs/2102.08860)
 > Konstantinos Rematas, Ricardo Martin-Brualla, Vittorio Ferrari  
 
-[Neural 3D Video Synthesis](https://neural-3d-video.github.io/)
-> Tianye Li, Mira Slavcheva, Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Zhaoyang  
-> Facebook Reality, USC  
-
 [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/abs/2102.13090)
 > Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser  
+
+[Neural 3D Video Synthesis](https://arxiv.org/abs/2103.02597)
+> Tianye Li, Mira Slavcheva, Michael Zollhoefer, Simon Green, Christoph Lassner, Changil Kim, Tanner Schmidt, Steven Lovegrove, Michael Goesele, Zhaoyang  
+> Facebook Reality, USC  
 
 [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)
 > Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn  
 > CVPR 2021 ORAL  
 
+[Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)
+> Petr Kellnhofer, Lars Jebe, Andrew Jones, Ryan Spicer, Kari Pulli, Gordon Wetzstein  
+> CVPR 2021  
+> [prj](http://www.computationalimaging.org/publications/nlr/)  
+
+### Efficient computing
+
+[Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  
+> Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt  
+> NeurIPS 2020
+
+[DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490)  
+> Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi  
+> [prj](https://ubc-vision.github.io/derf/)
+
+[AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)
+> David B. Lindell, Julien N. P. Martel, Gordon Wetzstein  
+
 [DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks](https://arxiv.org/abs/2103.03231)
 > Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger  
-
 
 [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380)
 > Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin  
 
-
 ### Dynamic/Deformable/Temporal NeRF
+
+[X-Fields: Implicit Neural View- Light- and Time-Image Interpolation](https://arxiv.org/abs/2010.00450)  
+> Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel  
+> SIGGRAPH ASIA 2020  
+> [prj](https://xfields.mpi-inf.mpg.de/)
 
 [Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948)  
 > Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo Martin-Brualla  
@@ -96,30 +113,25 @@
 > Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang  
 > [prj](http://www.cs.cornell.edu/~zl548/NSFF/)
 
-[X-Fields: Implicit Neural View- Light- and Time-Image Interpolation](https://arxiv.org/abs/2010.00450)  
-> Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel  
-> SIGGRAPH ASIA 2020  
-> [prj](https://xfields.mpi-inf.mpg.de/)
+[D-NeRF: Neural Randiance Fields for Dynamic Scene](https://arxiv.org/abs/2011.13961)  
+> Albert Pumarola, Enric Corona, Gerard Pons-Moll, Francesc Moreno-Noguer  
+> [prj](https://www.albertpumarola.com/research/D-NeRF/index.html)
 
 [Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/abs/2012.03065)  
 > Guy Gafni, Justus Thies, Michael Zollhöfer, Matthias Nießner  
 > [prj](https://gafniguy.github.io/4D-Facial-Avatars/)
 
-[D-NeRF: Neural Randiance Fields for Dynamic Scene](https://arxiv.org/abs/2011.13961)  
-> Albert Pumarola, Enric Corona, Gerard Pons-Moll, Francesc Moreno-Noguer  
-> [prj](https://www.albertpumarola.com/research/D-NeRF/index.html)
-
-[Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video](https://arxiv.org/abs/2012.12247)  
-> Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt  
-> [prj](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)
+[Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790)  
+> Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu  
+> [prj](https://yilundu.github.io/nerflow/)
 
 [Learning Compositional Radiance Fields of Dynamic Human Heads](https://arxiv.org/abs/2012.09955)  
 > Ziyan Wang, Timur Bagautdinov, Stephen Lombardi, Tomas Simon, Jason Saragih, Jessica Hodgins, Michael Zollhöfer  
 > [prj](https://ziyanw1.github.io/hybrid_nerf/)
 
-[Neural Radiance Flow for 4D View Synthesis and Video Processing](https://arxiv.org/abs/2012.09790)  
-> Yilun Du, Yinan Zhang, Hong-Xing Yu, Joshua B. Tenenbaum, Jiajun Wu  
-> [prj](https://yilundu.github.io/nerflow/)
+[Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video](https://arxiv.org/abs/2012.12247)  
+> Edgar Tretschk, Ayush Tewari, Vladislav Golyanik, Michael Zollhöfer, Christoph Lassner, Christian Theobalt  
+> [prj](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)
 
 [PVA: Pixel-aligned Volumetric Avatars](https://arxiv.org/abs/2101.02697)
 > Amit Raj, Michael Zollhoefer, Tomas Simon, Jason Saragih, Shunsuke Saito, James Hays, Stephen Lombardi  
@@ -139,34 +151,31 @@
 > CVPR 2019  
 > [prj](https://avg.is.tuebingen.mpg.de/publications/occupancy-networks)
 
-[Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751)  
-> Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh  
-> SIGGRAPH 2019  
-> [prj](https://github.com/facebookresearch/neuralvolumes)
-
 [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/abs/1906.01618)  
 > Vincent Sitzmann, Michael Zollhöfer, Gordon Wetzstein  
 > NeurIPS 2019 (ORAL Honorable Mention "Outstanding New Directions")  
 > [prj](https://vsitzmann.github.io/srns/)
 
-[Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  
-> Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt  
-> NeurIPS 2020
+[Neural Volumes: Learning Dynamic Renderable Volumes from Images](https://arxiv.org/abs/1906.07751)  
+> Stephen Lombardi, Tomas Simon, Jason Saragih, Gabriel Schwartz, Andreas Lehrmann, Yaser Sheikh  
+> SIGGRAPH 2019  
+> [prj](https://github.com/facebookresearch/neuralvolumes)
+
+[Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/abs/1912.07372)  
+> Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger  
+> [prj](https://avg.is.tuebingen.mpg.de/publications/niemeyer2020cvpr)
 
 [Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://arxiv.org/abs/2003.09852)  
 > Lior Yariv, Yoni Kasten, Dror Moran, Meirav Galun, Matan Atzmon, Ronen Basri, Yaron Lipman  
 > NeurIPS 2020 (SPOTLIGHT)  
 > [prj](https://lioryariv.github.io/idr/)
 
-[Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/abs/1912.07372)  
-> Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger  
-> [prj](https://avg.is.tuebingen.mpg.de/publications/niemeyer2020cvpr)
+[NeuTex: Neural Texture Mapping for Volumetric Neural Rendering](https://arxiv.org/abs/2103.00762)
+> Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su  
 
 [Mixture of Volumetric Primitives for Efficient Neural Rendering](https://arxiv.org/abs/2103.01954)
 > Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih  
 
-[NeuTex: Neural Texture Mapping for Volumetric Neural Rendering](https://arxiv.org/abs/2103.00762)
-> Fanbo Xiang, Zexiang Xu, Miloš Hašan, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Hao Su  
 
 ## Implicit Representation
 
@@ -174,43 +183,51 @@
 > Arthur Jacot, Franck Gabriel, Clément Hongler  
 > NeurIPS 2018  
 
-[Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739)  
-> Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng  
-> NeurIPS 2020 (SPOTLIGHT)  
-> [prj](https://people.eecs.berkeley.edu/~bmild/fourfeat/)
+[Hypernetwork functional image representation](https://arxiv.org/abs/1902.10404)
+> Sylwester Klocek, Łukasz Maziarka, Maciej Wołczyk, Jacek Tabor, Jakub Nowak, Marek Śmieja  
 
 [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)  
 > Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein  
 > [prj](https://vsitzmann.github.io/siren/)
 > NeurIPS 2020 ORAL  
 
+[Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/abs/2006.10739)  
+> Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng  
+> NeurIPS 2020 (SPOTLIGHT)  
+> [prj](https://people.eecs.berkeley.edu/~bmild/fourfeat/)
+
 [Gradient Origin Networks](https://arxiv.org/abs/2007.02798)
 > Sam Bond-Taylor, Chris G. Willcocks  
 > ICLR 2021  
 
-[Implicit Normalizing Flows](https://openreview.net/forum?id=8PS8m9oYtNy)
-> Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu  
-> ICLR 2021 Spotlight
-
-[Neural Approximate Sufficient Statistics for Implicit Models](https://openreview.net/forum?id=SRDuJssQud)
+[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079)
 > Yanzhi Chen, Dinghuai Zhang, Michael U. Gutmann, Aaron Courville, Zhanxing Zhu  
 > ICLR 2021 SPOTLIGHT  
 
 [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189)
 > Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng  
 
-[AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)
-> David B. Lindell, Julien N. P. Martel, Gordon Wetzstein  
+[Implicit Normalizing Flows](https://arxiv.org/abs/2103.09527)
+> Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu  
+> ICLR 2021 Spotlight
 
 [Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
 > Theo W. Costain, Victor Adrian Prisacariu  
 
-[Hypernetwork functional image representation](https://arxiv.org/abs/1902.10404)
-> Sylwester Klocek, Łukasz Maziarka, Maciej Wołczyk, Jacek Tabor, Jakub Nowak, Marek Śmieja  
 
 
 
 ### 2D Implicit Representation
+
+[Adversarial Generation of Continuous Images](https://arxiv.org/abs/2011.12026)
+> Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny  
+> CVPR 2021  
+
+[Image Generators with Conditionally-Independent Pixel Synthesis](https://arxiv.org/abs/2011.13775)
+> Ivan Anokhin, Kirill Demochkin, Taras Khakhulin, Gleb Sterkin, Victor Lempitsky, Denis Korzhenkov  
+
+[pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)
+> Eric R. Chan, Marco Monteiro, Petr Kellnhofer, Jiajun Wu, Gordon Wetzstein  
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
 > Yinbo Chen, Sifei Liu, Xiaolong Wang  
@@ -221,21 +238,15 @@
 > Tamar Rott Shaham, Michael Gharbi, Richard Zhang, Eli Shechtman, Tomer Michaeli  
 > CVPR 2021  
 
-[Adversarial Generation of Continuous Images](https://arxiv.org/abs/2011.12026)
-> Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny  
-> CVPR 2021  
-
-[COIN: COmpression with Implicit Neural representations](https://arxiv.org/abs/2103.03123)
-> Emilien Dupont, Adam Goliński, Milad Alizadeh, Yee Whye Teh, Arnaud Doucet  
+[CKConv: Continuous Kernel Convolution For Sequential Data](https://arxiv.org/abs/2102.02611)
+> David W. Romero, Anna Kuzina, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn  
 
 [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776)
 > Emilien Dupont, Yee Whye Teh, Arnaud Doucet  
 
-[Image Generators with Conditionally-Independent Pixel Synthesis](https://arxiv.org/abs/2011.13775)
-> Ivan Anokhin, Kirill Demochkin, Taras Khakhulin, Gleb Sterkin, Victor Lempitsky, Denis Korzhenkov  
+[COIN: COmpression with Implicit Neural representations](https://arxiv.org/abs/2103.03123)
+> Emilien Dupont, Adam Goliński, Milad Alizadeh, Yee Whye Teh, Arnaud Doucet  
 
-[CKConv: Continuous Kernel Convolution For Sequential Data](https://arxiv.org/abs/2102.02611)
-> David W. Romero, Anna Kuzina, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn  
 
 ### 3D Implicit Representation
 
@@ -307,8 +318,6 @@
 > Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo  
 > [prj](https://shunsukesaito.github.io/PIFuHD/)  
 
-[pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)
-> Eric R. Chan, Marco Monteiro, Petr Kellnhofer, Jiajun Wu, Gordon Wetzstein  
 
 [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994)
 > Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler  
