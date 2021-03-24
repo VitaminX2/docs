@@ -206,6 +206,7 @@
 
 [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189)
 > Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng  
+> CVPR 2021  
 
 [Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
 > Theo W. Costain, Victor Adrian Prisacariu  
