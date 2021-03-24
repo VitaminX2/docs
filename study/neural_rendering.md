@@ -207,12 +207,13 @@
 [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189)
 > Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng  
 
+[Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
+> Theo W. Costain, Victor Adrian Prisacariu  
+
 [Implicit Normalizing Flows](https://arxiv.org/abs/2103.09527)
 > Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu  
 > ICLR 2021 Spotlight
 
-[Towards Generalising Neural Implicit Representations](https://arxiv.org/abs/2101.12690)
-> Theo W. Costain, Victor Adrian Prisacariu  
 
 
 
@@ -229,14 +230,14 @@
 [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)
 > Eric R. Chan, Marco Monteiro, Petr Kellnhofer, Jiajun Wu, Gordon Wetzstein  
 
+[Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)
+> Tamar Rott Shaham, Michael Gharbi, Richard Zhang, Eli Shechtman, Tomer Michaeli  
+> CVPR 2021  
+
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
 > Yinbo Chen, Sifei Liu, Xiaolong Wang  
 > [prj](https://yinboc.github.io/liif/)  
 > CVPR 2021 ORAL  
-
-[Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)
-> Tamar Rott Shaham, Michael Gharbi, Richard Zhang, Eli Shechtman, Tomer Michaeli  
-> CVPR 2021  
 
 [CKConv: Continuous Kernel Convolution For Sequential Data](https://arxiv.org/abs/2102.02611)
 > David W. Romero, Anna Kuzina, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn  
@@ -253,10 +254,6 @@
 [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)
 > Zhiqin Chen, Hao Zhang  
 > CVPR 2019  
-
-[Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/abs/1812.02822)  
-> Zhiqin Chen, Hao Zhang   
-> CVPR 2019  
 > [prj](https://www.sfu.ca/~zhiqinc/imgan/Readme.html)
 
 [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://arxiv.org/abs/1901.05103)  
@@ -272,6 +269,14 @@
 > Qiangeng Xu, Weiyue Wang, Duygu Ceylan, Radomir Mech, Ulrich Neumann  
 > NeurIPS 2019  
 
+[Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126)
+> Kyle Genova, Forrester Cole, Avneesh Sud, Aaron Sarna, Thomas Funkhouser  
+> CVPR 2020  
+
+[Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/abs/1912.07372)
+> Michael Niemeyer, Lars Mescheder, Michael Oechsle, Andreas Geiger  
+> CVPR 2019  
+
 [Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion](https://arxiv.org/abs/2003.01456)
 > Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll  
 > CVPR 2020  
@@ -280,9 +285,15 @@
 > Chiyu Max Jiang, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Nießner, Thomas Funkhouser  
 > CVPR 2020  
 
-[Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126)
-> Kyle Genova, Forrester Cole, Avneesh Sud, Aaron Sarna, Thomas Funkhouser  
-> CVPR 2020  
+[PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452)
+> Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo  
+> [prj](https://shunsukesaito.github.io/PIFuHD/)  
+
+[MetaSDF: Meta-learning Signed Distance Functions](https://arxiv.org/abs/2006.09662)
+> Vincent Sitzmann, Eric R. Chan, Richard Tucker, Noah Snavely, Gordon Wetzstein  
+
+[On the generalization of learning-based 3D reconstruction](https://arxiv.org/abs/2006.15427)
+> Miguel Angel Bautista, Walter Talbott, Shuangfei Zhai, Nitish Srivastava, Joshua M Susskind  
 
 [Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction](https://arxiv.org/abs/2007.11432)
 > Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll  
@@ -293,66 +304,45 @@
 > NeurIPS 2020  
 > [prj](http://virtualhumans.mpi-inf.mpg.de/ndf/)
 
+[Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://arxiv.org/abs/2011.13650)
+> Yu Deng, Jiaolong Yang, Xin Tong  
+
+[i3DMM: Deep Implicit 3D Morphable Model of Human Heads](https://arxiv.org/abs/2011.14143)
+> Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt  
+
 [Deep Implicit Templates for 3D Shape Representation](https://arxiv.org/abs/2011.14565)
 > Zerong Zheng, Tao Yu, Qionghai Dai, Yebin Liu  
 > CVPR 2021 ORAL  
 
+[DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](https://arxiv.org/abs/2012.05551)
+> Jiahui Huang, Shi-Sheng Huang, Haoxuan Song, Shi-Min Hu  
+
+[Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations](https://arxiv.org/abs/2012.06434)
+> Wang Yifan, Shihao Wu, Cengiz Oztireli, Olga Sorkine-Hornung  
+
+[Secrets of 3D Implicit Object Shape Reconstruction in the Wild](https://arxiv.org/abs/2101.06860)
+> Shivam Duggal, Zihao Wang, Wei-Chiu Ma, Sivabalan Manivasagam, Justin Liang, Shenlong Wang, Raquel Urtasun  
+
 [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994)
 > Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler  
 > CVPR 2021 ORAL  
+
+[Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422)
+> Cheng Zhang, Zhaopeng Cui, Yinda Zhang, Bing Zeng, Marc Pollefeys, Shuaicheng Liu  
 
 [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871)
 > Enric Corona, Albert Pumarola, Guillem Alenyà, Gerard Pons-Moll, Francesc Moreno-Noguer  
 > CVPR 2021  
 
-[On the generalization of learning-based 3D reconstruction](https://arxiv.org/abs/2006.15427)
-> Miguel Angel Bautista, Walter Talbott, Shuangfei Zhai, Nitish Srivastava, Joshua M Susskind  
-
-[Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations](https://arxiv.org/abs/2012.06434)
-> Wang Yifan, Shihao Wu, Cengiz Oztireli, Olga Sorkine-Hornung  
-
-[Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422)
-> Cheng Zhang, Zhaopeng Cui, Yinda Zhang, Bing Zeng, Marc Pollefeys, Shuaicheng Liu  
-
-[PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452)
-> Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo  
-> [prj](https://shunsukesaito.github.io/PIFuHD/)  
-
-
-[Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994)
-> Towaki Takikawa, Joey Litalien, Kangxue Yin, Karsten Kreis, Charles Loop, Derek Nowrouzezahrai, Alec Jacobson, Morgan McGuire, Sanja Fidler  
-
-[MetaSDF: Meta-learning Signed Distance Functions](https://arxiv.org/abs/2006.09662)
-> Vincent Sitzmann, Eric R. Chan, Richard Tucker, Noah Snavely, Gordon Wetzstein  
-
-[i3DMM: Deep Implicit 3D Morphable Model of Human Heads](https://arxiv.org/abs/2011.14143)
-> Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt  
-
-[DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](https://arxiv.org/abs/2012.05551)
-> Jiahui Huang, Shi-Sheng Huang, Haoxuan Song, Shi-Min Hu  
-
-[Secrets of 3D Implicit Object Shape Reconstruction in the Wild](https://arxiv.org/abs/2101.06860)
-> Shivam Duggal, Zihao Wang, Wei-Chiu Ma, Sivabalan Manivasagam, Justin Liang, Shenlong Wang, Raquel Urtasun  
-
 [Scalable Point Cloud-based Reconstruction with Local Implicit Functions](https://ieeexplore.ieee.org/abstract/document/9320319)
 > Sandro Lombardi; Martin R. Oswald; Marc Pollefeys  
 > 2020 3DV  
 
-[Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://arxiv.org/abs/2011.13650)
-> Yu Deng, Jiaolong Yang, Xin Tong  
 
 ## Differentiable Rendering
 
-[Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)
-> Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen  
-> CVPR 2021  
-
-[UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering](https://arxiv.org/abs/2102.11870)
-> Mohamed El Banani, Luya Gao, Justin Johnson  
-
-[STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering](https://arxiv.org/abs/2101.01602)
-> Wentao Yuan1 Zhaoyang Lv2 Tanner Schmidt2 Steven Lovegrove2  
-> UW, Facebook Reality Labs  
+[Neural Reflectance Fields for Appearance Acquisition](https://arxiv.org/abs/2008.03824)
+> Sai Bi, Zexiang Xu, Pratul Srinivasan, Ben Mildenhall, Kalyan Sunkavalli, Miloš Hašan, Yannick Hold-Geoffroy, David Kriegman, Ravi Ramamoorthi  
 
 [Neural Scene Graphs for Dynamic Scenes](https://arxiv.org/abs/2011.10379)
 > Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide  
@@ -360,13 +350,20 @@
 [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100)
 > Michael Niemeyer, Andreas Geiger  
 
-[Neural Reflectance Fields for Appearance Acquisition](https://arxiv.org/abs/2008.03824)
-> Sai Bi, Zexiang Xu, Pratul Srinivasan, Ben Mildenhall, Kalyan Sunkavalli, Miloš Hašan, Yannick Hold-Geoffroy, David Kriegman, Ravi Ramamoorthi  
-
 [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503)  
 > Michelle Guo, Alireza Fathi, Jiajun Wu, Thomas Funkhouser  
 > [prj](https://shellguo.com/osf/)
 
+[STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering](https://arxiv.org/abs/2101.01602)
+> Wentao Yuan1 Zhaoyang Lv2 Tanner Schmidt2 Steven Lovegrove2  
+> UW, Facebook Reality Labs  
+
+[UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering](https://arxiv.org/abs/2102.11870)
+> Mohamed El Banani, Luya Gao, Justin Johnson  
+
+[Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)
+> Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen  
+> CVPR 2021  
 
 ## Implicit Layers
 
@@ -376,9 +373,10 @@
 
 ## Continuous
 
+[From Discrete to Continuous Convolution Layers](https://arxiv.org/abs/2006.11120)
+> Assaf Shocher, Ben Feinstein, Niv Haim, Michal Irani  
+
 [Trajectory Prediction using Equivariant Continuous Convolution](https://arxiv.org/abs/2010.11344)
 > Robin Walters, Jinxi Li, Rose Yu  
 > ICLR 2021  
 
-[From Discrete to Continuous Convolution Layers](https://arxiv.org/abs/2006.11120)
-> Assaf Shocher, Ben Feinstein, Niv Haim, Michal Irani  
