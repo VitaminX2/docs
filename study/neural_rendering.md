@@ -221,6 +221,13 @@
 
 ### 2D Implicit Representation
 
+[Compositional pattern producing networks: A novel abstraction of development](https://link.springer.com/article/10.1007%2Fs10710-007-9028-8)
+> Kenneth O. Stanley  
+> Genetic Programming and Evolvable Machines volume 8, pages131–162(2007)  
+
+[Texture Fields: Learning Texture Representations in Function Space](https://arxiv.org/abs/1905.07259)
+> Michael Oechsle, Lars Mescheder, Michael Niemeyer, Thilo Strauss, Andreas Geiger  
+
 [Adversarial Generation of Continuous Images](https://arxiv.org/abs/2011.12026)
 > Ivan Skorokhodov, Savva Ignatyev, Mohamed Elhoseiny  
 > CVPR 2021  
@@ -282,9 +289,6 @@
 > Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll  
 > CVPR 2020  
 
-[Local Implicit Grid Representations for 3D Scenes](https://arxiv.org/abs/2003.08981)
-> Chiyu Max Jiang, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Nießner, Thomas Funkhouser  
-> CVPR 2020  
 
 [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452)
 > Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo  
@@ -338,6 +342,28 @@
 [Scalable Point Cloud-based Reconstruction with Local Implicit Functions](https://ieeexplore.ieee.org/abstract/document/9320319)
 > Sandro Lombardi; Martin R. Oswald; Marc Pollefeys  
 > 2020 3DV  
+
+### Hybrid Representation
+
+[Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126)
+> Kyle Genova, Forrester Cole, Avneesh Sud, Aaron Sarna, Thomas Funkhouser  
+> CVPR 2020  
+
+[Convolutional Occupancy Networks](https://arxiv.org/abs/2003.04618)
+> Songyou Peng, Michael Niemeyer, Lars Mescheder, Marc Pollefeys, Andreas Geiger  
+> ECCV 2020 SPOTLIGHT  
+
+[Local Implicit Grid Representations for 3D Scenes](https://arxiv.org/abs/2003.08981)
+> Chiyu Max Jiang, Avneesh Sud, Ameesh Makadia, Jingwei Huang, Matthias Nießner, Thomas Funkhouser  
+> CVPR 2020  
+
+[Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction](https://arxiv.org/abs/2003.10983)
+> Rohan Chabra, Jan Eric Lenssen, Eddy Ilg, Tanner Schmidt, Julian Straub, Steven Lovegrove, Richard Newcombe  
+> ECCV 2020  
+
+[Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  
+> Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt  
+> NeurIPS 2020
 
 
 ## Differentiable Rendering
