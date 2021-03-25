@@ -339,6 +339,9 @@
 > Enric Corona, Albert Pumarola, Guillem Alenyà, Gerard Pons-Moll, Francesc Moreno-Noguer  
 > CVPR 2021  
 
+[iMAP: Implicit Mapping and Positioning in Real-Time](https://arxiv.org/abs/2103.12352)
+> Edgar Sucar, Shikun Liu, Joseph Ortiz, Andrew J. Davison  
+
 [Scalable Point Cloud-based Reconstruction with Local Implicit Functions](https://ieeexplore.ieee.org/abstract/document/9320319)
 > Sandro Lombardi; Martin R. Oswald; Marc Pollefeys  
 > 2020 3DV  

@@ -58,6 +58,15 @@
 [Transformer in Transformer](https://arxiv.org/abs/2103.00112)
 > Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang  
 
+[Multi-view 3D Reconstruction with Transformer](https://arxiv.org/abs/2103.12957)
+> Dan Wang, Xinrui Cui, Xun Chen, Zhengxia Zou, Tianyang Shi, Septimiu Salcudean, Z. Jane Wang, Rabab Ward  
+
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+> Andrew Jaegle, Felix Gimeno, Andrew Brock, Andrew Zisserman, Oriol Vinyals, Joao Carreira  
+
+[Transformers Solve the Limited Receptive Field for Monocular Depth Prediction](https://arxiv.org/abs/2103.12091)
+> Guanglei Yang, Hao Tang, Mingli Ding, Nicu Sebe, Elisa Ricci   
+
 ## Continuous Representation
 
 [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
