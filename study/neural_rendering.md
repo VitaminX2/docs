@@ -94,6 +94,15 @@
 [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380)
 > Stephan J. Garbin, Marek Kowalski, Matthew Johnson, Jamie Shotton, Julien Valentin  
 
+[Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/abs/2103.13415)
+> Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, Pratul P. Srinivasan  
+
+[KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744)
+> Christian Reiser, Songyou Peng, Yiyi Liao, Andreas Geiger  
+
+[PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024)
+> Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, Angjoo Kanazawa  
+
 ### Dynamic/Deformable/Temporal NeRF
 
 [X-Fields: Implicit Neural View- Light- and Time-Image Interpolation](https://arxiv.org/abs/2010.00450)  
