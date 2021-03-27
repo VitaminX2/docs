@@ -243,6 +243,7 @@
 
 [Image Generators with Conditionally-Independent Pixel Synthesis](https://arxiv.org/abs/2011.13775)
 > Ivan Anokhin, Kirill Demochkin, Taras Khakhulin, Gleb Sterkin, Victor Lempitsky, Denis Korzhenkov  
+> Samsung AI Moscow  
 
 [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)
 > Eric R. Chan, Marco Monteiro, Petr Kellnhofer, Jiajun Wu, Gordon Wetzstein  
@@ -424,3 +425,6 @@
 [Image Reconstruction from Astronomical Interferometers using Implicit Neural Representations](https://www.youtube.com/watch?v=xgPmJDCxBAI)
 > Benjamin Eckart, Chao Liu, Benjamin Wu  
 > COSPAR 2021 W/S  
+
+[CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems](https://arxiv.org/abs/2102.05181)
+> Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov  
