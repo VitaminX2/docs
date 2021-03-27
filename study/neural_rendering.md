@@ -247,6 +247,7 @@
 
 [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)
 > Eric R. Chan, Marco Monteiro, Petr Kellnhofer, Jiajun Wu, Gordon Wetzstein  
+> CVPR 2021 ORAL  
 
 [Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)
 > Tamar Rott Shaham, Michael Gharbi, Richard Zhang, Eli Shechtman, Tomer Michaeli  
@@ -299,16 +300,18 @@
 > Julian Chibane, Thiemo Alldieck, Gerard Pons-Moll  
 > CVPR 2020  
 
-
 [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/abs/2004.00452)
 > Shunsuke Saito, Tomas Simon, Jason Saragih, Hanbyul Joo  
 > [prj](https://shunsukesaito.github.io/PIFuHD/)  
+> CVPR 2020 ORAL  
 
 [MetaSDF: Meta-learning Signed Distance Functions](https://arxiv.org/abs/2006.09662)
 > Vincent Sitzmann, Eric R. Chan, Richard Tucker, Noah Snavely, Gordon Wetzstein  
+> NeurIPS 2020  
 
 [On the generalization of learning-based 3D reconstruction](https://arxiv.org/abs/2006.15427)
 > Miguel Angel Bautista, Walter Talbott, Shuangfei Zhai, Nitish Srivastava, Joshua M Susskind  
+> WACV 2021  
 
 [Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction](https://arxiv.org/abs/2007.11432)
 > Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll  
@@ -321,6 +324,8 @@
 
 [Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://arxiv.org/abs/2011.13650)
 > Yu Deng, Jiaolong Yang, Xin Tong  
+> Microsoft  
+> CVPR 2021  
 
 [i3DMM: Deep Implicit 3D Morphable Model of Human Heads](https://arxiv.org/abs/2011.14143)
 > Tarun Yenamandra, Ayush Tewari, Florian Bernard, Hans-Peter Seidel, Mohamed Elgharib, Daniel Cremers, Christian Theobalt  
