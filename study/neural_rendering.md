@@ -419,3 +419,8 @@
 > Robin Walters, Jinxi Li, Rose Yu  
 > ICLR 2021  
 
+## Applications
+
+[Image Reconstruction from Astronomical Interferometers using Implicit Neural Representations](https://www.youtube.com/watch?v=xgPmJDCxBAI)
+> Benjamin Eckart, Chao Liu, Benjamin Wu  
+> COSPAR 2021 W/S  
