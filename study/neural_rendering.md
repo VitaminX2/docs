@@ -267,6 +267,8 @@
 [COIN: COmpression with Implicit Neural representations](https://arxiv.org/abs/2103.03123)
 > Emilien Dupont, Adam Goliński, Milad Alizadeh, Yee Whye Teh, Arnaud Doucet  
 
+[UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution](https://arxiv.org/abs/2103.12716)
+> Xingqian Xu, Zhangyang Wang, Humphrey Shi  
 
 ### 3D Implicit Representation
 
