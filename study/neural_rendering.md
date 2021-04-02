@@ -75,6 +75,18 @@
 > CVPR 2021  
 > [prj](http://www.computationalimaging.org/publications/nlr/)  
 
+[NeRF-VAE: A Geometry Aware 3D Scene Generative Model](https://arxiv.org/abs/2104.00587)
+> Adam R. Kosiorek, Heiko Strathmann, Daniel Zoran, Pol Moreno, Rosalia Schneider, Soňa Mokrá, Danilo J. Rezende  
+
+[Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://arxiv.org/abs/2104.00677)
+> Ajay Jain, Matthew Tancik, Pieter Abbeel  
+
+[GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606)
+> Quan Meng, Anpei Chen, Haimin Luo, Minye Wu, Hao Su, Lan Xu, Xuming He, Jingyi Yu  
+
+[MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2103.15595)
+> Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su  
+
 ### Efficient computing
 
 [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  
@@ -185,6 +197,11 @@
 [Mixture of Volumetric Primitives for Efficient Neural Rendering](https://arxiv.org/abs/2103.01954)
 > Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih  
 
+[PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://arxiv.org/abs/2104.00674)
+> Kai Zhang, Fujun Luan, Qianqian Wang, Kavita Bala, Noah Snavely  
+
+[Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing](https://arxiv.org/abs/2103.15432)
+> Abdallah Dib, Cedric Thebault, Junghyun Ahn, Philippe-Henri Gosselin, Christian Theobalt, Louis Chevallier  
 
 ## Implicit Representation
 
@@ -385,6 +402,12 @@
 > Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt  
 > NeurIPS 2020
 
+[NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis](https://arxiv.org/abs/2103.14910)
+> Jiaxin Li, Zijian Feng, Qi She, Henghui Ding, Changhu Wang, Gim Hee Lee  
+
+[NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)
+> Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn  
+> CVPR 2021 ORAL  
 
 ## Differentiable Rendering
 
@@ -435,3 +458,18 @@
 
 [CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems](https://arxiv.org/abs/2102.05181)
 > Yu Sun, Jiaming Liu, Mingyang Xie, Brendt Wohlberg, Ulugbek S. Kamilov  
+
+[In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://arxiv.org/abs/2103.15875)
+> Shuaifeng Zhi, Tristan Laidlow, Stefan Leutenegger, Andrew J. Davison  
+
+
+## Video
+
+[Broaden Your Views for Self-Supervised Video Learning](https://arxiv.org/abs/2103.16559)
+> Adrià Recasens, Pauline Luc, Jean-Baptiste Alayrac, Luyu Wang, Florian Strub, Corentin Tallec, Mateusz Malinowski, Viorica Patraucean, Florent Altché, Michal Valko, Jean-Bastien Grill, Aäron van den Oord, Andrew Zisserman  
+
+[Dual-Parameterized Quantum Circuit GAN Model in High Energy Physics](https://arxiv.org/abs/2103.15470)
+> Su Yeon Chang, Steven Herbert, Sofia Vallecorsa, Elías F. Combarro, Ross Duncan  
+
+[ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691)
+> Anurag Arnab, Mostafa Dehghani, Georg Heigold, Chen Sun, Mario Lučić, Cordelia Schmid  
