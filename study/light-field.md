@@ -27,6 +27,10 @@
 
 ## Refocus
 
+[Video Depth-From-Defocus](https://arxiv.org/abs/1610.03782)
+> Hyeongwoo Kim, Christian Richardt, Christian Theobalt  
+> 3DV 2016  
+
 [Light Field Synthesis by Training Deep Network in the Refocused Image Domain](https://arxiv.org/abs/1910.06072)
 > Chang-Le Liu, Kuang-Tsu Shih, Jiun-Woei Huang, Homer H. Chen  
 > TIP 2019  
