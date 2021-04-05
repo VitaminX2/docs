@@ -31,6 +31,13 @@
 > Hyeongwoo Kim, Christian Richardt, Christian Theobalt  
 > 3DV 2016  
 
+[RefocusGAN: Scene Refocusing using a Single Image](https://openaccess.thecvf.com/content_ECCV_2018/html/Parikshit_Sakurikar_Single_Image_Scene_ECCV_2018_paper.html)
+> Parikshit Sakurikar, Ishit Mehta, Vineeth N. Balasubramanian, P. J. Narayanan;  
+> ECCV 2018  
+
+[SteReFo: Efficient Image Refocusing with Stereo Vision](https://arxiv.org/abs/1909.13395)
+> Benjamin Busam, Matthieu Hog, Steven McDonagh, Gregory Slabaugh  
+
 [Light Field Synthesis by Training Deep Network in the Refocused Image Domain](https://arxiv.org/abs/1910.06072)
 > Chang-Le Liu, Kuang-Tsu Shih, Jiun-Woei Huang, Homer H. Chen  
 > TIP 2019  
