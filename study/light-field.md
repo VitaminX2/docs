@@ -2,6 +2,14 @@
 
 ## General
 
+[Learning-Based View Synthesis for Light Field Cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIGASIA16/)
+> Nima Khademi Kalantari, Ting-Chun Wang, Ravi Ramamoorthi  
+> SGA 2016  
+
+[Light Field Reconstruction Using Deep Convolutional Network on EPI](http://www.liuyebin.com/lfepi/LFreconstruction.html)
+> Gaochang Wu 1,2,    Mandan Zhao 2,   Liangyong Wang 1,   Qionghai Dai 2    Tianyou Chai 1,   Yebin Liu 2   
+> CVPR 2017  
+
 [5D Light Field Synthesis from a Monocular Video](https://arxiv.org/abs/1912.10687)
 > Kyuho Bae (1), Andre Ivan (1), Hajime Nagahara (2), In Kyu Park  
 
@@ -41,6 +49,13 @@
 [Light Field Synthesis by Training Deep Network in the Refocused Image Domain](https://arxiv.org/abs/1910.06072)
 > Chang-Le Liu, Kuang-Tsu Shih, Jiun-Woei Huang, Homer H. Chen  
 > TIP 2019  
+
+[Synthetic Defocus and Look-Ahead Autofocus for Casual Videography](https://ceciliavision.github.io/vid-auto-focus/)
+> Xuaner Zhang, Kevin Matzen, Vivien Nguyen, Dillon Yao, You Zhang, Ren Ng  
+> SIGGRAPH 2019  
+
+[Interactive Light Field Tilt-Shift Refocus](https://v-sense.scss.tcd.ie/research/tilt-shift/)
+> V-SENSE  
 
 [Deep Sparse Light Field Refocusing](https://arxiv.org/abs/2009.02582)
 > Shachar Ben Dayan, David Mendlovic, Raja Giryes  
