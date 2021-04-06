@@ -44,6 +44,7 @@
 
 [Deep Sparse Light Field Refocusing](https://arxiv.org/abs/2009.02582)
 > Shachar Ben Dayan, David Mendlovic, Raja Giryes  
+> BMVC 2020  
 
 [Machine learning method for light field refocusing](https://arxiv.org/abs/2103.16020)
 > Eisa Hedayati, Timothy C. Havens, Jeremy P. Bos  
