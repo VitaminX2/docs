@@ -35,6 +35,18 @@
 
 ## Refocus
 
+[Active Refocusing of Images and Videos](https://www.cs.columbia.edu/CAVE/projects/active_refocus/)
+> F. Moreno-Noguer, P.N. Belhumeur and S.K. Nayar  
+> SIGGRAPH 2007  
+
+[Variable focus video: Reconstructing depth and video for dynamic scenes](https://ieeexplore.ieee.org/abstract/document/6215219)
+> Nitesh Shroff; Ashok Veeraraghavan; Yuichi Taguchi; Oncel Tuzel; Amit Agrawal; Rama Chella  
+> ICCP 2012  
+
+[Depth From Focus With Your Mobile Phone](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Suwajanakorn_Depth_From_Focus_2015_CVPR_paper.html)
+> Supasorn Suwajanakorn, Carlos Hernandez, Steven M. Seitz  
+> CVPR 2015  
+
 [Video Depth-From-Defocus](https://arxiv.org/abs/1610.03782)
 > Hyeongwoo Kim, Christian Richardt, Christian Theobalt  
 > 3DV 2016  
