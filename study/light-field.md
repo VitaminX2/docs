@@ -70,6 +70,10 @@
 [Geometric Scene Refocusing](https://arxiv.org/abs/2012.10856)
 > Parikshit Sakurikar, P. J. Narayanan  
 
+[Focus on defocus: bridging the synthetic to real domain gap for depth estimation](https://openaccess.thecvf.com/content_CVPR_2020/html/Maximov_Focus_on_Defocus_Bridging_the_Synthetic_to_Real_Domain_Gap_CVPR_2020_paper.html)
+> Maxim Maximov, Kevin Galim, Laura Leal-Taixe  
+> CVPR 2020  
+
 ## Super-Resolution
 
 [Light Field Super-Resolution Via Graph-Based Regularization](https://arxiv.org/abs/1701.02141)
