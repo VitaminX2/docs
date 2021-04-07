@@ -398,6 +398,10 @@ Video Super-Resolution은 Vimeo90K로 학습하고, Vimeo90K-T, Vid4 등 Test Se
 
 [Adaptive noise imitation for image denoising](https://arxiv.org/abs/2011.14512)
 
+
+[Removing Pixel Noises and Spatial Artifacts with Generative Diversity Denoising Methods](https://arxiv.org/abs/2104.01374)
+> Mangal Prakash, Mauricio Delbracio, Peyman Milanfar, Florian Jug  
+
 ## Transformers
 
 [Spatio-Temporal Transformer Network for Video Restoration](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)
