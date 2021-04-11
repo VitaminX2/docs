@@ -241,6 +241,10 @@
 > Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu  
 > ICLR 2021 Spotlight
 
+[Modulated Periodic Activations for Generalizable Local Functional Representations](https://arxiv.org/abs/2104.03960)
+> Ishit Mehta, Michaël Gharbi, Connelly Barnes, Eli Shechtman, Ravi Ramamoorthi, Manmohan Chandraker  
+> [prj](https://ishit.github.io/modsine/)  
+
 
 
 
@@ -380,6 +384,12 @@
 > Sandro Lombardi; Martin R. Oswald; Marc Pollefeys  
 > 2020 3DV  
 
+[Convolutional Neural Opacity Radiance Fields](https://arxiv.org/abs/2104.01772)
+> Haimin Luo, Anpei Chen, Qixuan Zhang, Bai Pang, Minye Wu, Lan Xu, Jingyi Yu  
+
+[NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681)
+> Jiaming Sun, Yiming Xie, Linghao Chen, Xiaowei Zhou, Hujun Bao 
+
 ### Hybrid Representation
 
 [Local Deep Implicit Functions for 3D Shape](https://arxiv.org/abs/1912.06126)
@@ -434,6 +444,12 @@
 [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)
 > Chulin Xie, Chuxin Wang, Bo Zhang, Hao Yang, Dong Chen, Fang Wen  
 > CVPR 2021  
+
+[LED2-Net: Monocular 360 Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568)
+> Fu-En Wang, Yu-Hsuan Yeh, Min Sun, Wei-Chen Chiu, Yi-Hsuan Tsai  
+
+
+
 
 ## Implicit Layers
 
