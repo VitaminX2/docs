@@ -32,6 +32,8 @@
 [A Learned Compact and Editable Light Field Representation](https://arxiv.org/abs/2103.11314)
 > Menghan Xia, Jose Echevarria, Minshan Xie, Tien-Tsin Wong  
 
+[IMMERSIVE LIGHT FIELD VIDEO WITH A LAYERED MESH REPRESENTATION](https://augmentedperception.github.io/deepviewvideo/)
+> Michael Broxton*, John Flynn*, Ryan Overbeck*, Daniel Erickson*, Peter Hedman, Matthew DuVall, Jason Dourgarian, Jay Busch, Matt Whalen, Paul Debevec  
 
 ## Refocus
 
