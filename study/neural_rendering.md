@@ -302,6 +302,20 @@
 [UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution](https://arxiv.org/abs/2103.12716)
 > Xingqian Xu, Zhangyang Wang, Humphrey Shi  
 
+### Light Field
+
+[Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://bmild.github.io/llff/)
+> Ben Mildenhall* UC Berkeley Pratul Srinivasan* UC Berkeley Rodrigo Ortiz-Cayon Fyusion Inc. Nima Khademi Kalantari Texas A&M Ravi Ramamoorthi UC San Diego Ren Ng UC Berkeley Abhishek Kar Fyusion Inc.  
+> SIGGRAPH 2019  
+
+[IMMERSIVE LIGHT FIELD VIDEO WITH A LAYERED MESH REPRESENTATION](https://augmentedperception.github.io/deepviewvideo/)
+> Michael Broxton*, John Flynn*, Ryan Overbeck*, Daniel Erickson*, Peter Hedman, Matthew DuVall, Jason Dourgarian, Jay Busch, Matt Whalen, Paul Debevec  
+> SIGGRAPH 2020  
+
+[X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation](https://arxiv.org/abs/2010.00450)
+> Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel  
+> SIGGRAPH ASIA 2020  
+
 ### 3D Implicit Representation
 
 [Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1812.02822)

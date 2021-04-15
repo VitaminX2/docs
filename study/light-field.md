@@ -32,8 +32,13 @@
 [A Learned Compact and Editable Light Field Representation](https://arxiv.org/abs/2103.11314)
 > Menghan Xia, Jose Echevarria, Minshan Xie, Tien-Tsin Wong  
 
+[Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://bmild.github.io/llff/)
+> Ben Mildenhall* UC Berkeley Pratul Srinivasan* UC Berkeley Rodrigo Ortiz-Cayon Fyusion Inc. Nima Khademi Kalantari Texas A&M Ravi Ramamoorthi UC San Diego Ren Ng UC Berkeley Abhishek Kar Fyusion Inc.  
+> SIGGRAPH 2019  
+
 [IMMERSIVE LIGHT FIELD VIDEO WITH A LAYERED MESH REPRESENTATION](https://augmentedperception.github.io/deepviewvideo/)
 > Michael Broxton*, John Flynn*, Ryan Overbeck*, Daniel Erickson*, Peter Hedman, Matthew DuVall, Jason Dourgarian, Jay Busch, Matt Whalen, Paul Debevec  
+> SIGGRAPH 2020  
 
 ## Refocus
 
