@@ -87,6 +87,12 @@
 [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2103.15595)
 > Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su  
 
+[Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
+> Julian Chibane, Aayush Bansal, Verica Lazova, Gerard Pons-Moll  
+
+[BARF: Bundle-Adjusting Neural Radiance Fields](https://arxiv.org/abs/2104.06405)
+> Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey  
+
 ### Efficient computing
 
 [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  
