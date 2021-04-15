@@ -121,6 +121,11 @@
 [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024)
 > Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, Angjoo Kanazawa  
 
+[Baking Neural Radiance Fields for Real-Time View Synthesis](https://arxiv.org/abs/2103.14645)
+> Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec  
+
+
+
 ### Dynamic/Deformable/Temporal NeRF
 
 [X-Fields: Implicit Neural View- Light- and Time-Image Interpolation](https://arxiv.org/abs/2010.00450)  
