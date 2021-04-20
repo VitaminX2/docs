@@ -93,6 +93,9 @@
 [BARF: Bundle-Adjusting Neural Radiance Fields](https://arxiv.org/abs/2104.06405)
 > Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey  
 
+[Geometry-Free View Synthesis: Transformers and no 3D Priors](https://arxiv.org/abs/2104.07652)
+> Robin Rombach, Patrick Esser, Björn Ommer  
+
 ### Efficient computing
 
 [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  
