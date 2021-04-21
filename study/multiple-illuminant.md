@@ -261,3 +261,12 @@
 > ICCV W/S 2011  
 
 * Millan Portrait (Adaptive Color Constancy using Faces, 2014 TPAMI , Unavailable)
+
+
+## Lighting, Reflectance and so on
+
+[Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)
+> Junxuan Li, Hongdong Li, Yasuyuki Matsushita  
+> CVPR 2021  
+
+

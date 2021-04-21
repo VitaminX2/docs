@@ -96,6 +96,9 @@
 [Geometry-Free View Synthesis: Transformers and no 3D Priors](https://arxiv.org/abs/2104.07652)
 > Robin Rombach, Patrick Esser, Björn Ommer  
 
+[Unconstrained Scene Generation with Locally Conditioned Radiance Fields](https://arxiv.org/abs/2104.00670)
+> Terrance DeVries, Miguel Angel Bautista, Nitish Srivastava, Graham W. Taylor, Joshua M. Susskind  
+
 ### Efficient computing
 
 [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)  

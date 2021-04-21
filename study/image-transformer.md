@@ -110,3 +110,6 @@
 
 [Predicting Video with VQVAE](https://arxiv.org/abs/2103.01950)
 > Jacob Walker, Ali Razavi, Aäron van den Oord  
+
+[VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/abs/2104.10157)
+> Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas  
