@@ -34,10 +34,12 @@ Plug 'ryanoasis/vim-devicons'
 " Langueges
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'tikhomirov/vim-glsl'
-Plug 'vim-python/python-syntax'
 Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
 "Plug 'lervag/vimtex'
 "Plug 'petrbroz/vim-glsl'
+
+" Debug
+Plug 'puremourning/vimspector'
 
 " Markdown
 "Plug 'godlygeek/tabular'
@@ -47,6 +49,10 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }}
 
 " Initialize plugin system
 call plug#end()
+
+" vimspector
+let g:vimspector_enable_mappings = 'HUMAN'
+
 " python venv
 let g:python3_host_prog = '/mnt/code/venv_torch1.6/bin/python'
 
@@ -125,6 +131,11 @@ set laststatus=2
 
 set termguicolors
 set background=dark
+" for tmux
+set t_Co=256
+let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+
 "colorscheme jellybeans
 "colorscheme fu
 "colorscheme tender 
@@ -132,11 +143,11 @@ set background=dark
 "colorscheme PaperColor
 "colorscheme badwolf
 "colorscheme angr
-"colorscheme gruvbox
+colorscheme gruvbox
 "colorscheme nord
 "colorscheme gruvbox
 "colorscheme lucius
-colorscheme iceberg
+"colorscheme iceberg
 "colorscheme tequila-sunrise
 "colorscheme plastic
 

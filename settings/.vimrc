@@ -28,9 +28,15 @@ Plug 'mhinz/vim-startify'
 
 " colorscheme
 Plug 'flazz/vim-colorschemes'
+Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+Plug 'ryanoasis/vim-devicons'
+
 
 " Langueges
 Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'tikhomirov/vim-glsl'
+Plug 'numirias/semshi', {'do': ':UpdateRemotePlugins'}
+
 "Plug 'lervag/vimtex'
 
 " Debug
@@ -54,6 +60,9 @@ let g:coc_node_path = '/home/nahyup/.nvm/versions/node/v13.9.0/bin/node'
 " Airline symbols
 " You may need to install fonts-powerline
 let g:airline_powerline_fonts = 1
+
+"indentLine exclude
+let g:indentLine_fileTypeExclude = ['json', 'markdown']
 
 
 "choosewin
@@ -126,10 +135,13 @@ set autoindent
 set conceallevel=0
 set laststatus=2
 
-"set termguicolors
+set termguicolors
 set background=dark
 " added for tmux
 set t_Co=256
+
+let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 
 "colorscheme jellybeans
 "colorscheme fu
