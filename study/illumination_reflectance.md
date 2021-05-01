@@ -1,6 +1,6 @@
-# Multiple Illuminant Estimation
+# Illumination, Reflectance, White Blance, Relighting, ...
 
-## Overview
+## General
 
 [Lightness and Retinex Theory](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-61-1-1)
 > Edwin H. Land and John J. McCann  
@@ -191,26 +191,6 @@
 > EGOR ERSHOV, ALEXEY SAVCHIK, ILLYA SEMENKOV, NIKOLA BANIĆ, ALEXANDER BELOKOPYTOV, DARIA SENSHINA, KARLO KOŠČEVIĆ, MARKO SUBAŠIĆ, SVEN LONČARIĆ  
 > IEEE Access 2020  
 
-## Relighting
-
-[Relighting Images in the Wild with a Self-Supervised Siamese Auto-Encoder](https://arxiv.org/abs/2012.06444)  
-> Yang Liu, Alexandros Neophytou, Sunando Sengupta, Eric Sommerlade
-> Microsoft  
-> WACV 2021  
-
-[Single Image Portrait Relighting](https://arxiv.org/abs/1905.00824)  
-> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi  
-> SIGGRAPH 2019  
-
-## Others
-
-[Shape, Illumination, and Reflectance from Shading](https://arxiv.org/abs/2010.03592)  
-> Jonathan T. Barron, Jitendra Malik  
-> TPAMI 2015  
-
-[Sky Optimization: Semantically aware image processing of skies in low-light photography](https://arxiv.org/abs/2006.10172)  
-> Orly Liba, Longqi Cai, Yun-Ta Tsai, Elad Eban, Yair Movshovitz-Attias, Yael Pritch, Huizhong Chen, Jonathan T. Barron  
-> CVPR W/S 2020  
 
 
 ## Beyond White
@@ -233,40 +213,36 @@
 > Simone Bianco; Raimondo Schettini  
 > TPAMI 2014  
 
-## Previous Multi-Illumiant DB
 
-[A multi‐illuminant synthetic image test set](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22535)  
-> Xiangpeng Hao, Brian Funt  
-> Color Research & Application 2020  
->> Multi-Illuminant Dataset을 만들고 Single Best Illuminant를 정의한다.   
+## Lighting & Reflectance Decomposition
 
-[The Cube++ Illumination Estimation Dataset](https://ieeexplore.ieee.org/abstract/document/9296220)
-> EGOR ERSHOV, ALEXEY SAVCHIK, ILLYA SEMENKOV, NIKOLA BANIĆ, ALEXANDER BELOKOPYTOV, DARIA SENSHINA, KARLO KOŠČEVIĆ, MARKO SUBAŠIĆ, SVEN LONČARIĆ  
-> IEEE Access 2020  
+[Shape, Illumination, and Reflectance from Shading](https://arxiv.org/abs/2010.03592)  
+> Jonathan T. Barron, Jitendra Malik  
+> TPAMI 2015  
 
-[A Dataset of Multi-Illumination Images in the Wild](https://arxiv.org/abs/1910.08131)
-> Lukas Murmann, Michael Gharbi, Miika Aittala, Fredo Durand  
-> ICCV 2019  
-
-[Single and Multiple Illuminant Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/7942101)
-> Simone Bianco; Claudio Cusano; Raimondo Schettini  
-> TIP 2017
-
-[MIMO: Multi-Illuminant estimation with conditional random fields](https://ieeexplore.ieee.org/document/6637091)
-> S. Beigpour, C. Riess, J. van de Weijer, and E. Angelopoulou  
-> TIP 2014  
-
-[Color constancy and non-uniform illumination: Can existing algorithms work?](https://ieeexplore.ieee.org/document/6130331)
-> Michael Bleier; Christian Riess; Shida Beigpour; Eva Eibenberger; Elli Angelopoulou; Tobias Tröger; André Kaup  
-> ICCV W/S 2011  
-
-* Millan Portrait (Adaptive Color Constancy using Faces, 2014 TPAMI , Unavailable)
-
-
-## Lighting, Reflectance and so on
 
 [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)
 > Junxuan Li, Hongdong Li, Yasuyuki Matsushita  
 > CVPR 2021  
 
 
+## Relighting
+
+[Relighting Images in the Wild with a Self-Supervised Siamese Auto-Encoder](https://arxiv.org/abs/2012.06444)  
+> Yang Liu, Alexandros Neophytou, Sunando Sengupta, Eric Sommerlade
+> Microsoft  
+> WACV 2021  
+
+[Single Image Portrait Relighting](https://arxiv.org/abs/1905.00824)  
+> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi  
+> SIGGRAPH 2019  
+
+[Total Relighting: Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/)
+> Rohit Pandey*, Sergio Orts-Escolano*, Chloe LeGendre*, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello  
+> SIGGRAPH 2021  
+
+## Others
+
+[Sky Optimization: Semantically aware image processing of skies in low-light photography](https://arxiv.org/abs/2006.10172)  
+> Orly Liba, Longqi Cai, Yun-Ta Tsai, Elad Eban, Yair Movshovitz-Attias, Yael Pritch, Huizhong Chen, Jonathan T. Barron  
+> CVPR W/S 2020  
