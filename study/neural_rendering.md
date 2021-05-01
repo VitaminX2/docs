@@ -109,8 +109,9 @@
 > Daniel Rebain, Wei Jiang, Soroosh Yazdani, Ke Li, Kwang Moo Yi, Andrea Tagliasacchi  
 > [prj](https://ubc-vision.github.io/derf/)
 
-[AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)
+[AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://www.computationalimaging.org/publications/automatic-integration/)
 > David B. Lindell, Julien N. P. Martel, Gordon Wetzstein  
+> CVPR 2021  
 
 [DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks](https://arxiv.org/abs/2103.03231)
 > Thomas Neff, Pascal Stadlbauer, Mathias Parger, Andreas Kurz, Chakravarty R. Alla Chaitanya, Anton Kaplanyan, Markus Steinberger  
