@@ -479,7 +479,23 @@
 [LED2-Net: Monocular 360 Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568)
 > Fu-En Wang, Yu-Hsuan Yeh, Min Sun, Wei-Chen Chiu, Yi-Hsuan Tsai  
 
+## Relighting
 
+[Relighting Images in the Wild with a Self-Supervised Siamese Auto-Encoder](https://arxiv.org/abs/2012.06444)  
+> Yang Liu, Alexandros Neophytou, Sunando Sengupta, Eric Sommerlade
+> Microsoft  
+> WACV 2021  
+
+[Single Image Portrait Relighting](https://arxiv.org/abs/1905.00824)  
+> Tiancheng Sun, Jonathan T. Barron, Yun-Ta Tsai, Zexiang Xu, Xueming Yu, Graham Fyffe, Christoph Rhemann, Jay Busch, Paul Debevec, Ravi Ramamoorthi  
+> SIGGRAPH 2019  
+
+[Total Relighting: Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/)
+> Rohit Pandey*, Sergio Orts-Escolano*, Chloe LeGendre*, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, and Sean Fanello  
+> SIGGRAPH 2021  
+
+[Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis](https://arxiv.org/abs/2104.13562)
+> Julian Knodt, Seung-Hwan Baek, Felix Heide  
 
 
 ## Implicit Layers
