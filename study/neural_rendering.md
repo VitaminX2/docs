@@ -451,6 +451,9 @@
 > Suttisak Wizadwongsa, Pakkapon Phongthawee, Jiraphon Yenphraphai, Supasorn Suwajanakorn  
 > CVPR 2021 ORAL  
 
+[ACORN: Adaptive Coordinate Networks for Neural Scene Representation](https://arxiv.org/abs/2105.02788)
+> Julien N. P. Martel, David B. Lindell, Connor Z. Lin, Eric R. Chan, Marco Monteiro, Gordon Wetzstein  
+
 ## Differentiable Rendering
 
 [Neural Reflectance Fields for Appearance Acquisition](https://arxiv.org/abs/2008.03824)
