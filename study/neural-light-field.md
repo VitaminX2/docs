@@ -1,4 +1,15 @@
-# Papers on Light Field Imaging
+# Papers on Neural Light Field
+
+## My Interests
+
+[NeLF: Practical Novel View Synthesis with Neural Light Field](https://arxiv.org/abs/2105.07112)
+> Celong Liu, Zhong Li, Junsong Yuan, Yi Xu  
+
+[Dynamic View Synthesis from Dynamic Monocular Video](https://arxiv.org/abs/2105.06468)
+> Chen Gao, Ayush Saraf, Johannes Kopf, Jia-Bin Huang  
+
+[Neural Trajectory Fields for Dynamic Novel View Synthesis](https://arxiv.org/abs/2105.05994)
+> Chaoyang Wang, Ben Eckart, Simon Lucey, Orazio Gallo  
 
 ## General
 
