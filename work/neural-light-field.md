@@ -2,6 +2,9 @@
 
 ## TED
 
+[Future of photography: Ren Ng](https://www.youtube.com/watch?v=q26mekrMoaY)
+> TED 2012 SanJose CA  
+
 [How volumetric video brings a new dimensions to filmmaking](https://www.ted.com/talks/diego_prilusky_how_volumetric_video_brings_a_new_dimension_to_filmmaking)
 > Diego Prilusky  
 
@@ -26,9 +29,25 @@
 [Introducing the manifold RED by Facebook 360 a look at the next generation of immersive storytelling](https://www.youtube.com/watch?v=LnY3JKf4Rn0)
 > Oculus  
 
+[Will the Future of VR and 3D Capture a Light Field?](https://www.youtube.com/watch?v=sZwVhfOuGa8)
+> NAB Show  
+
+[Light Fields 101](https://www.youtube.com/watch?v=BXdKVisWAco)
+> Ryan Damm, Silicon Valley Virtual Reality  
+
+[Light Fields and Google AR](https://www.youtube.com/watch?v=lRK0MtIyj0U)
+> SIGGRAPH Asia 2018  
+
 [The Future of Immersive Filmmaking: Behind the scenes at intel studios](https://www.youtube.com/watch?v=76sehizdvjI)
 > Intel Software  
 > SIGGRAPH 2020  
+
+[Welcome to Immersive Light Field Videos - Tour and Commentary](https://www.youtube.com/watch?v=ugPKflPbtpc)
+> SIGGRAPH 2020 Immersive Pavilion  
+> Best-In-Show  Deep View Video  
+
+[The Mobile Opportunity for Light Field and Holographic Displays](https://www.youtube.com/watch?v=BYqir0QP33g)
+> Looking Glass Factory   
 
 [Space Opera - Exploring Volumetric Video in Virtual Production](https://www.youtube.com/watch?v=MUwHqT-drEs)
 > Dimension Studio  
@@ -49,6 +68,9 @@
 
 [Light Field 미디어 기술 개발 및 표준화 동향](http://www.kibme.org/resources/journal/20180801144836480.pdf)
 > ETRI 2018  
+
+[XR Talks: "What's a Light Field?"](https://arinsider.co/2018/03/23/xr-talks-whats-a-lightfield/)
+> AR Insider  
 
 [3D 디스플레이 기술 원리](https://news.samsungdisplay.com/24491/)
 > news samsungdisplay 2020  
@@ -78,6 +100,16 @@
 [Light fields and computational photography](http://graphics.stanford.edu/projects/lightfield/)
 > Stanford  
 
+## SIGGRAPH
+
+[Computational Plenoptic Imaging](https://web.media.mit.edu/~gordonw/courses/ComputationalPlenopticImaging/)
+> SIGGRAPH 2012 Course  
+
+[Theory and methods of lightfield photography](https://dl.acm.org/doi/abs/10.1145/1665817.1665835)
+> T. Georgiev, SIGGRAPH ASIA 2009  
+
+[Lightfield photography: theory and methods](https://dl.acm.org/doi/abs/10.1145/1900520.1900527)
+> T. Georgiev, SIGGRAPH ASIA 2010   
 
 ## Company
 
@@ -85,3 +117,34 @@
 > 3D Light-Field Camera & Computer Vision  
 > Plenoptic Sensors & Metrology Software  
 > Made in Germany  
+
+
+
+## Storyline
+
+### Hook?
+
+### Motivation
+
+### What is Light Field
+
+### What are the benefits
+* Volumetric Video
+* Novel View Synthesis
+* Light, Reflectance, and so on...
+* And the LF benefits
+
+### Other Companies
+* Google Starline
+* Facebook ???
+* Microsoft ???
+
+### Why Samsung needs to research on Light Field?
+
+#### 600MP Image Sensors with Light Field?
+
+#### Concurrent Multi-camera with Light Field?
+
+#### 5G Smartphones with Light Field?
+
+### TED는 끝낼때 어떻케 끝내지?
