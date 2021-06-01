@@ -38,6 +38,9 @@
 [Light Fields and Google AR](https://www.youtube.com/watch?v=lRK0MtIyj0U)
 > SIGGRAPH Asia 2018  
 
+[Volumetric Video - Suzanne Leibrick, Intel](https://www.youtube.com/watch?v=eGURZlSX5-c)
+> Immersive Design Summit 2019  
+
 [The Future of Immersive Filmmaking: Behind the scenes at intel studios](https://www.youtube.com/watch?v=76sehizdvjI)
 > Intel Software  
 > SIGGRAPH 2020  
