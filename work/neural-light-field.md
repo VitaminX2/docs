@@ -75,6 +75,9 @@
 [XR Talks: "What's a Light Field?"](https://arinsider.co/2018/03/23/xr-talks-whats-a-lightfield/)
 > AR Insider  
 
+[THE NEXT GENERATION OF IMMERSIVE SEES THE LIGHT](https://www.ibc.org/interviews/interview-paul-debevec-google/5226.article)
+> Interview, Paul Debevec, Google, 2019  
+
 [3D 디스플레이 기술 원리](https://news.samsungdisplay.com/24491/)
 > news samsungdisplay 2020  
 
