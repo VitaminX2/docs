@@ -21,6 +21,9 @@ Plug 'Yggdroot/indentLine'
 " File system
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
 
 " Git integration
 Plug 'airblade/vim-gitgutter'
@@ -31,6 +34,7 @@ Plug 'mhinz/vim-startify'
 Plug 'flazz/vim-colorschemes'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
+Plug 'challenger-deep-theme/vim', {'as': 'challenger-deep'}
 
 " Langueges
 Plug 'vim-pandoc/vim-pandoc-syntax'
@@ -51,11 +55,15 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }}
 " Initialize plugin system
 call plug#end()
 
+"font
+set guifont=Fira\ Code:h15
+
 " vimspector
 let g:vimspector_enable_mappings = 'HUMAN'
 
 " python venv
-let g:python3_host_prog = '/mnt/code/venv_torch1.6/bin/python'
+let g:python3_host_prog = '/mnt/code/venv_ML/bin/python'
+let g:loaded_python_provider = 0
 
 " Airline symbols
 " You may need to install fonts-powerline
@@ -144,13 +152,14 @@ let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 "colorscheme PaperColor
 "colorscheme badwolf
 "colorscheme angr
-colorscheme gruvbox
+"colorscheme gruvbox
 "colorscheme nord
 "colorscheme gruvbox
 "colorscheme lucius
 "colorscheme iceberg
 "colorscheme tequila-sunrise
 "colorscheme plastic
+colorscheme challenger_deep
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " COC.NVIM
