@@ -86,4 +86,4 @@ Computation Platform 제시를 통한 선구적 기업. S/W와 H/W Platform의 �
 카메라는 GPU/Display의 반대편에서 비슷한 Process가 역순으로 일어나는 곳.
 이 과제가 제사하는 영상 데이터 포맷의 Neural Representation으로의 변화는 단순히 S/W Solution이 아니라 이를 실현하기 위한 Sensor/Processor와 Synergy이고, 새로운 변화를 불러 일으킬 가능성이 충분하다.
 
-어쩌면, 2030년에는 사람들에게 Camera ISP가 2D Image만 처리했다는 사실 아시나요? 라는 농담을 하게 될지도 모르겠습니다.
+어쩌면, 2030년에는 사람들에게 Camera ISP가 2D Image만 처리했다는 사실 아시나요? 라는 농담을 하게 될지도 모르겠습니다
