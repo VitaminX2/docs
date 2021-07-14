@@ -1,5 +1,30 @@
 # Papers on Neural Radiance Fields
 
+## Cluttered
+
+[Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://www.matthewtancik.com/learnit)  
+> CVPR 2021  
+
+[Fast Training of Neural Lumigraph Representations using Meta Learning](http://www.computationalimaging.org/publications/metanlr/)
+
+[LiveView: Dynamic Target-Centered MPI for View Synthesis](https://arxiv.org/abs/2107.05113)
+> Facebook  
+
+[Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
+> NVIDIA  
+
+[Depth-supervised NeRF: Fewer Views and Faster Training for Free](http://www.cs.cmu.edu/~dsnerf/)
+
+[Rethinking Positional Encoding](https://arxiv.org/abs/2107.02561)
+
+[Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052)
+
+[Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
+> CVPR 2021  
+
+[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689) 
+
+
 ## Neural Radiance Fields & Novel View Synthesis
 
 [An excellent blog post](https://dellaert.github.io/NeRF/)
