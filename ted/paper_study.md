@@ -4,20 +4,31 @@
 
 | Date | Paper | Presenter | Misc |
 | ---  | ---   | ---       | ---  |
-|      | [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://www.matthewtancik.com/learnit), CVPR 2021 | | |
-|      | [Fast Training of Neural Lumigraph Representations using Meta Learning](http://www.computationalimaging.org/publications/metanlr/) | | |
-|      | [LiveView: Dynamic Target-Centered MPI for View Synthesis](https://arxiv.org/abs/2107.05113) | | Facebook |
-|      | [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/) | | NVIDIA |
-|      | [Depth-supervised NeRF: Fewer Views and Faster Training for Free](http://www.cs.cmu.edu/~dsnerf/) | | | 
-|      | [Rethinking Positional Encoding](https://arxiv.org/abs/2107.02561) | | |
-|      | [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052) | | |
-|      | [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935), CVPR 2021 | | |
+| 7/19 | [D-NeRF: Neural Randiance Fields for Dynamic Scene](https://arxiv.org/abs/2011.13961)  | 박성헌 | |
+|      | [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://arxiv.org/abs/2106.13228) | 박성헌 | |
+|      | [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video](https://arxiv.org/abs/2012.12247)  | 박성헌 | |
+|      | [Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948)  | 박성헌 | |
+| 7/19 | [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100), CVPR 2021 BEST | 손민정 | |
+|      | [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/) | 손민정 | NVIDIA |
+|      | [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571), CVPR 2021 | 손민정 | |
+|      | [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://arxiv.org/abs/2012.03927), CVPR 2021 | 손민정 | |
+| 7/19 | [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/abs/2102.13090) | 문재영 | |
+|      | [MetaSDF: Meta-learning Signed Distance Functions](https://arxiv.org/abs/2006.09662) | 문재영 | |
+|      | [Fast Training of Neural Lumigraph Representations using Meta Learning](http://www.computationalimaging.org/publications/metanlr/) | 문재영 | |
+| 7/19 | [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering](https://arxiv.org/abs/2106.02634) | 강나협 | |
+|      | [ACORN: Adaptive Coordinate Networks for Neural Scene Representation](https://arxiv.org/abs/2105.02788) | 강나협 | |
+|      | [Depth-supervised NeRF: Fewer Views and Faster Training for Free](http://www.cs.cmu.edu/~dsnerf/) | 강나협 | | 
+|      | [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052) | 강나협 | |
+
+
+| Date | Paper | Presenter | Misc |
+| ---  | ---   | ---       | ---  |
 |      | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689) | | |
-|      | [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571), CVPR 2021 | | |
-|      | [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://arxiv.org/abs/2106.13228) | | |
-|      | [ACORN: Adaptive Coordinate Networks for Neural Scene Representation](https://arxiv.org/abs/2105.02788) | | |
-|      | [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100) | | |
-|      | [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering](https://arxiv.org/abs/2106.02634) | | |
+|      | [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://www.matthewtancik.com/learnit), CVPR 2021 | | |
+|      | [LiveView: Dynamic Target-Centered MPI for View Synthesis](https://arxiv.org/abs/2107.05113) | | Facebook |
+|      | [Rethinking Positional Encoding](https://arxiv.org/abs/2107.02561) | | |
+|      | [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935), CVPR 2021 | | |
+
 
 
 ## Neural Radiance Fields & Novel View Synthesis
